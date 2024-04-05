@@ -1,0 +1,4 @@
+#Item_Magico 
+Estas vienen de a pares, cada una tallada para hacer juego con su par, por lo que es fácil identificar su par. Mientras tocas una piedra, puedes usar una acción para castear el hechizo [Enviar](https://5e.tools/spells.html#sending_phb) de esta. El objetivo es el portador de la otra piedra. Si ninguna criatura porta la otra piedra, lo sabes tan pronto como uses la piedra y no se castee el hechizo.
+
+Una vez [Enviar](https://5e.tools/spells.html#sending_phb) es casteado a través de las piedras, no pueden ser usadas de nuevo hasta el siguiente atardecer. Si una de las piedras en el par es destruida la otra deja de ser mágica.

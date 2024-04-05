@@ -1,2 +1,2 @@
-# DND_Icespire_Peak_Campaing
-Here are my notes as DM of my DND campaing
+# DND_Icespire_Peak_Campaign
+Here are my notes as DM of my DND campaign
