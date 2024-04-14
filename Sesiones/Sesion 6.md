@@ -16,7 +16,7 @@ Puede que las sesiones estén a un horario incomodo para los jugadores. Usualmen
 ==Me gusta que se alargue más sin necesariamente rolear más=="
 
 Esto tiene que ver con el poco respaldo que hay en la conexión del grupo.
-También muestra una preferencia del jugador a no rolear todo lo que pasa, si no que dejar espacios de tiempo in-game en los que las relaciones y eventos avanzan sin mayor estimulo de los jugadores.
+También muestra una preferencia del jugador a no rolear todo lo que pasa, si no que dejar espacios de tiempo in-game en los que las relaciones y eventos avanzan sin mayor estimulo de los jugadores. ¿Quizás guiar un poco más como DM?
 ### B.2 Mera
 ### B.3 Mathias
 ### B.4 Leo
@@ -34,10 +34,12 @@ LLegan 5 humanos a [[Phandalin]] a conversar con un tal [[Thalorien Magune]] sob
 + [[(Soldado) Rowan Chaucer]]
 + [[(Soldado) Ella Truegust]]
 + [[(Soldado) Terryn Woodleaf]]
-
-Encuentro con [[Don Juan Raskin]] para la quest [[Dedos de Montaña]].
-Barthen preparando las provisiones del [[Campamento de Leñadores]].
-
+### [[Don Juan Raskin]]
+Encuentro con [[Don Juan Raskin]] para darles la opción a los jugadores de tomar la quest [[Dedos de Montaña]].
+### Carro de Provisiones
+[[Ander Barthen]] preparando un carro de provisiones del [[Campamento de Leñadores]]. Para darles la oportunidad de tomar la quest.
+### Anuncio del ataque al [[Rancho Butterskull]]
+Llega un jinete a caballo anunciando que el rancho Butterskull está siendo atacado por orcos. Esto para darles la oportunidad de tomar la quest [[Rancho Butterskull]]
 ***
 # Sucesos
 ## 28-Noctal-217, 2da Era

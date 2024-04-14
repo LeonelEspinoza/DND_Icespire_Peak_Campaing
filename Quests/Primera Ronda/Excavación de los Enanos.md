@@ -1,4 +1,4 @@
-#Quest #Completada
+#Quest #Completada #Ubicación 
 Balanceada para jugadores de nivel 1, aunque los jugadores de nivel 2 pueden encontrar ciertas cosas un poco retadoras.
 # Descripción general del lugar 
 [[Dazlyn Grayshard]] y [[Norbus Ironrun]] son enanos escudos buscadores y socios comerciales. Mientras buscaban por oro en las montañas al sudoeste de [[Phandalin]], decidieron explorar el cañón cercano y encontraron evidencia en un asentamiento enano antiguo, enterrado por una avalancha. Pasaron bastantes meses limpiando los escombros y recorriendo las ruinas buscando tesoros, pero no han encontrado nada de valor hasta ahora.

@@ -60,4 +60,4 @@ Debido a ese trauma de ver a sus padres partir a tan corta edad, todavía tiene 
 
 Es muy curiosa y no duda en cruzar limites para saciar su curiosidad, robar, desarmar, viajar, todo lo que le pueda traer algo nuevo para sus creaciones vale la pena para ella.
 
-Actualmente se encuentra viajando junto con [[Lore Thalorien Magune]], [[Juan Cornelio]] y [[Dio Rakitich]]en busca de nuevos limites para sus invenciones.
+Actualmente se encuentra viajando junto con [[Thalorien Magune]], [[Juan Cornelio]] y [[Dio Rakitich]]en busca de nuevos limites para sus invenciones.

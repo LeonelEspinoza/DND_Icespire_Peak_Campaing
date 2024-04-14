@@ -1,4 +1,4 @@
-#Quest 
+#Quest #Ubicación 
 Balanceado para nivel 3
 # Descripción General del Lugar
 Años después de la erupción del [[Monte Hotenow]], la ciudad de [[Neverwinter]] continua reconstruyéndose a si misma consecuencia de la destrucción que produjo ese evento. Leñadores tienen en pie un campamento junto al rio que corre fuera de los [[Bosques de Neverwinter]], usando el río para transportar los troncos a la ciudad.

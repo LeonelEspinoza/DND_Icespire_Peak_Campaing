@@ -7,6 +7,7 @@
 # Preparación
 {{Objetivos y Sucesos importantes planeados}}
 ***
+# Resumen Sesión Anterior
 # Sucesos
 ## DD-MM-AA, 2da Era
 {{Contenido}}

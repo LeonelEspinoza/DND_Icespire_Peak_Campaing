@@ -1,6 +1,5 @@
-#Quest 
+#Quest #Ubicación 
 Balanceado para nivel 3
-
 # Descripción General del Lugar
 [[Alfonse Kalazorn]] solía ser el sheriff de [[Triboar]], una ciudad al este, donde era conocido como **Gran Al Kalazorn**. Se retiro hace una década, pero el retiro no le quedaba bien. Buscando un nuevo reto, se adueño de una tierra fértil 5 millas al este de [[Conyberry]] y la convirtió en un rancho de ganado y caballos. Más tarde, añadió una granja de cerdos, pollos, jardines de vegetales, campos de maíz, y un huerto de manzanas. Mucho de su dinero proviene de la venta de calaveras de mantequilla: trozos de mantequilla moldeados en forma de calaveras humanoides. Vende sus calaveras de mantequilla principalmente en ciudades al este, aunque algunas llegan a las [[Phandalin#Provisiones de Barthen|Provisiones de Barthen]] en [[Phandalin]]. La mantequilla del [[Alfonse Kalazorn|Gran Al]] se elabora con la leche de petunia, su preciada vaca.
 

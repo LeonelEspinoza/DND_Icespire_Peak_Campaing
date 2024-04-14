@@ -1,4 +1,4 @@
-#Quest 
+#Quest #Ubicación 
 Diseñada para personajes de nivel 4.
 # Descripción General del Lugar
 La mina de oro "Dedos de Montaña", propiedad de un consorcio empresarial en Neverwinter, se ha visto afectada por problemas de productividad recientes. Los propietarios han contratado a un supervisor sensato llamado Don-Jon Raskin para arreglar las cosas. Pero ni Raskin ni los propietarios saben que la mina en problemas ha sido recientemente tomada por una banda de hombres rata que se hacen llamar Bigotes.
