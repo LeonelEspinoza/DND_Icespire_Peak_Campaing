@@ -1,23 +1,52 @@
-#NPC
+#NPC #Aliado 
 # Description 
-Farfelee Cornwallis is a 19 year old female human bodyguard. 
-She has short, wavy, brown hair and green eyes. 
-She has rough white skin. 
-She stands 185cm (6'0") tall and has a beefy build. 
-She has an oblong, unremarkable face. 
-She fidgets frequently. 
+Farfelee Cornwallis es una guardaespaldas humana de 19 años.
+Tiene un cabello café corto y ondulado con ojos verdes.
+Tiene una dura piel blanca.
+Mide 185cm (6'0'') y tiene una complexión musculosa.
+Tiene un rostro alargado y corriente.
+
+Se inquieta con frecuencia.
 # Personality Traits 
-She openly worships Akadi, Goddess of air, movement and speed. (True Neutral) 
-She is a very good diplomat and always works towards resolution of conflict.
-She is very talkative. 
-She is a compulsive gambler. 
+Adora abiertamente a [[Akadi]], diosa del aire, movimiento y velocidad.
+(True Neutral)
+Es una muy buena diplomática y siempre trabaja hacia una resolución del conflicto.
+Es bastante conversadora.
+Es ludópata.
+## Relationships 
+Orientación - Bisexual 
+Estado Civíl - Tiene una pareja y esta teniendo una amorío 
 # Ability Scores 
-Strength- 16 [+3] 
-Dexterity - 9 [-1] 
-Constitution - 16 [+3] 
-Intellect - 9 [-1] 
-Wisdom - 13 [+1] 
-Charisma - 12 [+1] 
-# Relationships 
- Sexual Orientation - Bisexual 
- Relationship Status - Has a girlfriend and having an affair 
+Nivel 3
+Clase: Fighter
+
+| Ability | Score | Mod  |
+| ------- | ----- | ---- |
+| **STR** | 16    | (+3) |
+| **DEX** | 9     | (-1) |
+| **CON** | 16    | (+3) |
+| **INT** | 9     | (-1) |
+| **WIS** | 13    | (+1) |
+| **CHA** | 12    | (+1) |
+**Armor Class:** 18 ([Plate Armor](https://5e.tools/items.html#plate%20armor_phb))
+**Hit Points:** 36
+**Velocidad:** 30 ft
+
+**Passive Perception:** 11
+
+**Saving Throws:**
++ STR +5
++ CON +5
+
+**Skills:** 
++ Athletics
++ Insight
+
+**Resistencias:** None
+**Debilidades:** Contundente, Slash
+**Sentidos:** 
+**Lenguajes:** Common
+**Bonus de Proficiencia:** +2
+## Acciones
+Warhammer
+Hand Crosbow

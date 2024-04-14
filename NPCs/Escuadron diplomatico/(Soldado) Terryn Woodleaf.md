@@ -1,26 +1,51 @@
-#NPC
+#NPC #Aliado 
 # Description
-Terryn Woodleaf is a 40 year old male human bodyguard.
-He has short, wavy, black hair and brown eyes.
-He has veiny pink skin.
-He stands 174cm (5'8") tall and has a lean build.
-He has a square, attractive face.
+Terryn Woodleaf es un guardaespaldas humano de 40 años.
+Tiene cabello negro corto, ondulado y ojos marrones.
+Tiene la piel rosada y venosa.
+Mide 174 cm (5'8 ") de altura y tiene una constitución delgada.
+Tiene un rostro cuadrado y atractivo.
 
-He sporadically squints.
-
+Entrecierra los ojos esporádicamente.
 # Personality Traits
-He discretely worships Bane, God of hatred, fear and tiranny. (Lawful Evil)
-He has an even temper. 
-He is very generous. He used to be bullied as a child and learned to fight so that it wouldn't happen again. He has a joke for every situation.
-
+Adora discretamente a [[Bane]], dios del odio, el miedo y la tiranía. 
+(Lawfull Evil)
+Tiene un temperamento ecuánime.
+Es muy generoso. Solía ser intimidado cuando era niño y aprendió a luchar para que no volviera a suceder. Tiene un chiste para cada situación.
+## Relationships
+Orientación - Hetero
+Estado Civil - Soltero
 # Ability Scores
-Strength - 10 [0]
-Dexterity - 9 [-1]
-Constitution - 11 [0]
-Intellect - 11 [0]
-Wisdom - 16 [+3]
-Charisma - 12 [+1]
+Nivel 3
+Clase: Fighter
 
-# Relationships
-Sexual Orientation - Straight
-Relationship Status - Single
+| Ability | Score | Mod  |
+| ------- | ----- | ---- |
+| **STR** | 10    | (+0) |
+| **DEX** | 9     | (-1) |
+| **CON** | 11    | (+0) |
+| **INT** | 11    | (+0) |
+| **WIS** | 16    | (+3) |
+| **CHA** | 12    | (+1) |
+**Armor Class:** 18 ([Plate Armor](https://5e.tools/items.html#plate%20armor_phb))
+**Hit Points:** 29
+**Velocidad:** 30 ft
+
+**Passive Perception:** 13
+
+**Saving Throws:**
++ STR +2
++ CON +2
+
+**Skills:** 
++ Athletics
++ Acrobatics
+
+**Resistencias:** None
+**Debilidades:** Contundente, Slash
+**Sentidos:** 
+**Lenguajes:** Common
+**Bonus de Proficiencia:** +2
+## Acciones
+Lanza
+Hand-Axes

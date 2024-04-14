@@ -1,4 +1,4 @@
-#Quest
+#Quest #Completada 
 Esta quest está balanceada para personajes de nivel 3 o menor. Personajes de mayor nivel no tendrán mayor problema aquí, pero podrían necesitar visitar esta ubicación para comprar [[Poción de Curación|pociones de curación]].
 # Descripción General
 Este lugar obtuvo su nombre después de que dos clanes de enanos se enfrentaran en la cima de la colina. La causa de su resentimiento fue perdida en el tiempo, y sólo quedan los túmulos de los muertos. El molino de piedra en la colina fue construido después, pero aún así tiene más de 100 años. 

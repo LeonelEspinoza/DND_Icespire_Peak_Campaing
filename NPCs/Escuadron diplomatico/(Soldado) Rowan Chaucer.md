@@ -1,22 +1,51 @@
-#NPC
+#NPC #Aliado 
 # Description
-Rowan Chaucer is a 30 year old male human soldier.
-He has long, curled, brown hair and red eyes.
-He has rugged, pockmarked, brown skin.
-He stands 152cm (4'11") tall and has an athletic build.
-He has an oval, typical face.
-He is very clumsy.
+Rowan Chaucer es un soldado humano de 30 años.
+Tiene un cabello marrón largo y con rulos con ojos rojos.
+Tiene una
+Tiene la piel marrón, rugosa y porosa.
+Mide 152cm (4'11'') y tiene una complexión atlética.
+Tiene una cara típica ovalada.
+
+Es bastante torpe.
 # Personality Traits
-He quietly worships Asmodeus, God of sin, King of the Nine Hells. (Lawful Evil)
-He rarely thinks ahead. 
-He is very slow to trust other people. He spends every morning training. He makes anyone he speaks to feel like the most important person in the world.
+Adora en silencio a [[Asmodeus]], Dios del pecado, Rey de los Nueve Infiernos. 
+(Lawfull Evil)
+Rara vez piensa en el futuro.
+Es muy lento para confiar en otras personas. Pasa todas las mañanas entrenando. Hace que cualquiera con quien habla se sienta como la persona más importante del mundo.
+## Relationships
+Orientación - Hetero
+Estado Civil - Soltero
 # Ability Scores
-Strength - 18 [+4]
-Dexterity - 12 [+1]
-Constitution - 18 [+4]
-Intellect - 9 [-1]
-Wisdom - 9 [-1]
-Charisma - 13 [+1]
-# Relationships
-Sexual Orientation - Straight
-Relationship Status - Single
+Nivel 3
+Clase: Fighter
+
+| Ability | Score | Mod  |
+| ------- | ----- | ---- |
+| **STR** | 18    | (+4) |
+| **DEX** | 12    | (+1) |
+| **CON** | 18    | (+4) |
+| **INT** | 9     | (-1) |
+| **WIS** | 9     | (-1) |
+| **CHA** | 13    | (+1) |
+**Armor Class:** 18 ([Plate Armor](https://5e.tools/items.html#plate%20armor_phb))
+**Hit Points:** 30
+**Velocidad:** 30 ft
+
+**Passive Perception:** 9
+
+**Saving Throws:**
++ STR +6
++ CON +6
+
+**Skills:** 
++ Athletics
++ Intimidación
+**Resistencias:** None
+**Debilidades:** Contundente, Slash
+**Sentidos:** 
+**Lenguajes:** Common
+**Bonus de Proficiencia:** +2
+## Acciones
+Heavy Crossbow
+hand axes

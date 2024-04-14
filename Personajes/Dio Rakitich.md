@@ -1,3 +1,4 @@
+#PC #Halfling #Paladin
 # Jugador: Mathias Perez
 # Stats
 **Nivel**: 1

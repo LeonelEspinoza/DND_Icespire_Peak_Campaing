@@ -1,4 +1,4 @@
-#Quest 
+#Quest #Completada 
 Balanceada para jugadores de nivel 1, aunque jugadores de nivel 2 pueden encontrar ciertas trampas y peligros retadores. Personajes de nivel 3 o mayor deberían ser capaces de lidiar con los problemas inesperados aquí y obtener lo que necesitan de los gnomos de roca sin tiene que gastar muchos recursos, aunque el roleplay de esta misión debería ser gracioso a pesar de todo. 
 # Descripción General
 Las cuevas de Gnomengarde están cavadas dentro de la base de la montaña al sudeste de [[Phandalin]], al rededor de una delgada cascada. Los magos gnomos roca que ocupan estas cuevas forman alianzas estratégicas con sus vecinos humanos y enanos como dicten sus necesidades. Reclusos y discretos, los gnomos crean objetos mágicos menores e invenciones útiles, pero no mágicas. En estos esfuerzos, sus fracasos superan a sus éxitos. Rara vez se alejan de casa y subsisten principalmente con los hongos que crecen en las islas brumosas fuera de sus cuevas.

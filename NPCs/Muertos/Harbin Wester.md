@@ -10,4 +10,4 @@ Los personajes que llaman a la puerta de Harbin escuchan su voz al otro lado que
 
 Si los personajes le preguntan sobre una misión, Harbin los encamina por el camino correcto y les ofrece un pago a su regreso. Cuando llega el momento de pagar, desliza el pago debajo de la puerta, una moneda de oro a la vez.
 
-Exiliado de [[Phandalin]] en la revolución iniciada por [[Thalorien Magune]] y [[Juan Cornelio]].
+Exiliado de [[Phandalin]] en la revolución iniciada por [[Lore Thalorien Magune]] y [[Juan Cornelio]].

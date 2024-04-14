@@ -1,4 +1,4 @@
-#NPC #{{faccion}}
+#NPC #Aliado #Humano 
 {{IMAGEN}}
 
 {{INFORMACIÓN }}

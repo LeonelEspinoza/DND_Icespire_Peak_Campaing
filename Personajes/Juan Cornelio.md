@@ -1,3 +1,4 @@
+#PC #Centauro #Bardo
 # Jugador: Sebastián Mera
 # Stats
 **Nivel**: 2
@@ -56,11 +57,12 @@
 **Clase:** [Bardo (Espada)](https://5e.tools/classes.html#bard_phb,state:sub-swords-xge=b1)
 **Background:** [Entretenedor](https://5e.tools/backgrounds.html#entertainer_phb)
 **Tamaño:** Medio (Medium)
-**Edad:**
+**Edad:** 30
 **Lenguajes:** Common & Sylvan
 **Descripción:**
 # Relaciones
 ## Backstory
+Cirket es su pueblo natal
 ## Campaña
 [[Dio Rakitich]] y [[Thalorien Magune]] (Compañeros de Aventura)
 [[Elmar Barthen]] (Muerto: Víctima de Onda Trueno a mano de Juan Cornelio motivado por [[Dio Rakitich]] y [[Thalorien Magune]])

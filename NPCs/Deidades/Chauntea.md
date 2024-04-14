@@ -1,3 +1,3 @@
 #NPC #Deidad 
-Diosa de la agricultura.
-Venerada por [[Adabra Gwynn]].
+Diosa de la agricultura, granjeros, jardineros y el verano. 
+(Neutral Good)

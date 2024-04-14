@@ -1,22 +1,53 @@
-#NPC
+#NPC #Aliado 
 # Description
-Ella Truegust is a 28 year old female human soldier.
-She has short, braided, white hair and blue eyes.
-She has soft pink skin.
-She stands 142cm (4'7") tall and has a lean build.
-She has a square, beautiful face.
-She has a complicated tattoo of a demon on her left arm and a bland tattoo of the word daylight translated into draconic on her right foot.
+Ella Truegust es una soldado humana de 28 años.
+Tiene un cabello blanco corto y trenzado con ojos azules.
+Tiene la piel de un suave color rosado.
+Mide 142cm (4'7'') y tiene una complexión delgada.
+Tiene una hermosa cara angular.
+Tiene un complicado tatuaje de un demonio en su brazo izquierdo y un tatuaje simple de la palabra "luz de día" en Draconido en su pie derecho.
 # Personality Traits
-She doesn't worship any god.
-She is very selfish. 
-She is very obstinate. She always obeys her  superiors. She doesn't like change. She cares about her friends and will do anything for them.
+No alaba ningún dios.
+Es muy egoísta.
+Es obstinada. Siempre obedece a sus superiores. No el gusta el cambio. Le importan sus amigos y hará lo que sea por ellos.
+## Relationships
+Orientación - Hetero
+Estado civíl - Atraida por [[Thalorien Magune]]
+# Lore
+Huérfana
+Entro a la milicia por lo fácil que es encontrar y subsistir dentro de la misma.
+Tiene sentimientos por [[Thalorien Magune]]
 # Ability Scores
-Strength - 13 [+1]
-Dexterity - 14 [+2]
-Constitution - 14 [+2]
-Intellect - 9 [-1]
-Wisdom - 11 [0]
-Charisma - 12 [+1]
-# Relationships
-Sexual Orientation - Straight
-Relationship Status - Single
+Nivel 3
+Clase: Fighter
+
+| Ability | Score | Mod  |
+| ------- | ----- | ---- |
+| **STR** | 13    | (+1) |
+| **DEX** | 14    | (+2) |
+| **CON** | 14    | (+2) |
+| **INT** | 9     | (-1) |
+| **WIS** | 11    | (+0) |
+| **CHA** | 12    | (+1) |
+**Armor Class:** 18 ([Plate Armor](https://5e.tools/items.html#plate%20armor_phb))
+**Hit Points:** 35
+**Velocidad:** 30 ft
+
+**Passive Perception:** 10
+
+**Saving Throws:**
++ STR +3
++ CON +4
+
+**Skills:** 
++ Stealth
++ Slight of Hand
++ Perception
+**Resistencias:** None
+**Debilidades:** Contundente, Slash
+**Sentidos:** 
+**Lenguajes:** Common
+**Bonus de Proficiencia:** +2
+## Acciones
+Great Axe
+light crossbow

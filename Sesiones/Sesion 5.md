@@ -6,7 +6,7 @@ Ojalá dar más importancia a las interacciones que al combate.
 ## Motivar la búsqueda de los [[Halflings Demoniacos]]
 Con los halflings demoniacos hay un punto de interés común para todos los jugadores.
 [[Dio Rakitich]] busca a sus enemigos jurados en pos de vengarse por lo ocurrido a su pueblo natal hace casi 100 años.
-[[Thalorien Magune]] busca la via política y no violenta con todo aquél que sea de utilidad, por tanto hay que definir a estos Halflings como seres despreciables incapaces de llegar a un acuerdo pacífico.
+[[Lore Thalorien Magune]] busca la via política y no violenta con todo aquél que sea de utilidad, por tanto hay que definir a estos Halflings como seres despreciables incapaces de llegar a un acuerdo pacífico.
 El Mera busca seres a los que matar y enzañarse.
 
 ***
@@ -20,8 +20,9 @@ Una vez logran eliminar al mímico, conviven con la comunidad de gnomos en [[Gno
 + [Pole of collapsing](https://5e.tools/items.html#pole%20of%20collapsing_xge)
 + [Wand of pyrotechnics](https://5e.tools/items.html#wand%20of%20pyrotechnics_xge)
 + [Hat of Wizardry](https://5e.tools/items.html#hat%20of%20wizardry_xge)
++ Libro de magias
 
 ## 28-Noctal-217, 2da Era
-Durante la celebración de los gnomos [[Thalorien Magune]] junto con [[Juan Cornelio]] motivan a los gnomos a una competición de creación de objetos mágicos, muchos de los resultados son fallidos, unos pocos tienen éxito. La party termina quedándose con un item mágico extra que simula la vara del colapso, pero que nunca que hace más pequeña, solo crece haciéndose más delgada.
+Durante la celebración de los gnomos [[Lore Thalorien Magune]] junto con [[Juan Cornelio]] motivan a los gnomos a una competición de creación de objetos mágicos, muchos de los resultados son fallidos, unos pocos tienen éxito. La party termina quedándose con un item mágico extra que simula la vara del colapso, pero que nunca que hace más pequeña, solo crece haciéndose más delgada.
 
 Después de pasar toda la noche celebrando, los aventureros descansan para despertar a las 1:00PM del 28-Noctal

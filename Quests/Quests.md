@@ -17,7 +17,7 @@ Las quests van apareciendo de a 3 a medida que los jugadores completan 2 del gru
 > Recompensa: 25gp
 # Segunda Ronda
 
->[!info]+ [[Rancho Calavera Mantecosa]]
+>[!info]+ [[Rancho Butterskull]]
 > Orcos han atacado el rancho "[[Calavera Mantecosa]]", a 5 millas al este de [[Conyberry]] junto al [[Camino de Triboar]].
 > Ve allí deprisa, verifica los daños y ayuda tanto como puedas. 
 > El dueño, [[Alfonse "Grande" Kalazorn]] es un sheriff retirado que recompensara tus esfuerzos. Si falleció, vuelve al [[Phandalin#Ayuntamiento|ayuntamiento]] con una prueba de su muerte a manos de [[Orcos]] y se te recompensará con 100 gp.
