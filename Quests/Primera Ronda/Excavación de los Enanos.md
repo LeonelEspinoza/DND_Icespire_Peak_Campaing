@@ -5,7 +5,7 @@ Balanceada para jugadores de nivel 1, aunque los jugadores de nivel 2 pueden enc
 
 Detrás del asentamiento, tallado en la pared de atrás del cañón, hay un antiguo templo de [[Abbathor]], un maligno dios enano de la codicia. Durante eclipses solares, [[Abbathor]] es apaciguado con sacrificios de sangre y gemas. En una ocasión, el dios vio que eran deficientes los sacrificios en este templo, por lo que provocó un terremoto y una avalancha que derrumbó partes del templo y sepultó el asentamiento. Los sacerdotes en el templo que no fueron muertos por la avalancha, fueron convertidos en [jaleas ocres](https://5e.tools/bestiary.html#ochre%20jelly_mm), como reflejo del hambre y codicia de [[Abbathor]].
 # Objetivos
-Para completar esta quest, los aventureros solo necesitan avisar a [[Dazlyn Grayshard|Dazlyn]] y [[Norbus Ironrun|Norbus]] sobre el [[Cryovain|dragón blanco]]. Los agradecidos enanos intentarán tentar a los aventureros con una quest ellos mismos, ofreciéndoles un par de [[Sending Stones]] como recompensa si se encargan de los monstruos en el templo. Si se quedan ayudando lo suficiente a [[Dazlyn Grayshard|Dazlyn]] y [[Norbus Ironrun|Norbus]], los personajes encuentran [[Orcos]] antes de irse. ([[#Cuando los Orcos atacan]]).
+Para completar esta quest, los aventureros solo necesitan avisar a [[Dazlyn Grayshard|Dazlyn]] y [[Norbus Ironrun|Norbus]] sobre el [[Cryovain|dragón blanco]]. Los agradecidos enanos intentarán tentar a los aventureros con una quest ellos mismos, ofreciéndoles un par de Sending Stones como recompensa si se encargan de los monstruos en el templo. Si se quedan ayudando lo suficiente a [[Dazlyn Grayshard|Dazlyn]] y [[Norbus Ironrun|Norbus]], los personajes encuentran [[Orcos]] antes de irse. ([[#Cuando los Orcos atacan]]).
 # Llegada
 La excavación enana se encuentra al este de [[Costa Espada#Leilon|Leilon]], 15 millas al suroeste de [[Phandalin]], en el lado este del cañón ([[#E1 El cañón]]). Cuando los personajes llegan al area E1 del mapa, lee el siguiente texto en voz alta:
 >[!quote] Parafrasear
@@ -29,7 +29,7 @@ Describe la ubicación como:
 
 Si aún no se han encontrado con los enanos, [[Dazlyn Grayshard]] y [[Norbus Ironrun]] se encontrarán comiendo sus raciones detrás de los montones de escombros, manteniendo un ojo en la entrada del templo ([[#E4. Vestíbulo polvoriento]]). Cada uno es un enano escudo [común](https://5e.tools/bestiary.html#commoner_mm), hablantes de común y enano, y tienen visión nocturna hasta 60 pies. [[Dazlyn Grayshard|Dazlyn]] es directo y extremadamente honesto. [[Norbus Ironrun|Norbus]] es gruñón y excesivamente cauto. Ellos discuten como un matrimonio de viejos. 
 
-Cada enano tiene raciones para 10 días, una cantimplora u odre, herramientas mineras, y una  [[Sending Stones]] del conjunto. Los enanos ofrecen estos items mágicos a cualquiera que se atreva a matar las [gelatinas ocre](https://5e.tools/bestiary.html#ochre%20jelly_mm) del área [[#E5. El Templo]], buscar en el templo por amenazas obvias, y hacerlo un lugar seguro. Si los personajes obtienen estas piedras, dale a los jugadores ambas cartas de las [[Sending Stones]] o que puedan referenciarlas de la [Lista de items mágicos](https://5e.tools/items.html#). Ansiosos por resumir su excavación, los enanos ofrecen dividir lo que encuentren con los personajes que los ayuden.  
+Cada enano tiene raciones para 10 días, una cantimplora u odre, herramientas mineras, y una  Sending Stones del conjunto. Los enanos ofrecen estos items mágicos a cualquiera que se atreva a matar las [gelatinas ocre](https://5e.tools/bestiary.html#ochre%20jelly_mm) del área [[#E5. El Templo]], buscar en el templo por amenazas obvias, y hacerlo un lugar seguro. Si los personajes obtienen estas piedras, dale a los jugadores ambas cartas de las Sending Stones o que puedan referenciarlas de la [Lista de items mágicos](https://5e.tools/items.html#). Ansiosos por resumir su excavación, los enanos ofrecen dividir lo que encuentren con los personajes que los ayuden.  
 
 >[!note]+ Características del Templo
 >El templo (desde [[#E4. Vestíbulo polvoriento]] a [[#E11. Salón de la Avaricia]]) está suavemente tallado de piedra solida. Las siguientes características son comunes en todas partes.
@@ -38,7 +38,7 @@ Cada enano tiene raciones para 10 días, una cantimplora u odre, herramientas mi
 >
 >**Puertas:** Todas las puertas están hechas de piedra. Las puertas secretas se mezclan con los trabajos de piedra de los alrededores. Encontrar una puerta secreta requiere buscar por la muralla y un check de percepción DC 15. [[Dazlyn Grayshard|Dazlyn]] y [[Norbus Ironrun|Norbus]] han encontrado una puerta secreta hasta ahora, en [[#E4. Vestíbulo polvoriento]]. Las otras aún no han sido descubiertas. 
 >
->**Polvo y Debris:** El templo esta ahogado por escombros polvorientos. Los cuadrantes con escombros son [[Reglas#Terreno difícil|terreno difícil]].
+>**Polvo y Debris:** El templo esta ahogado por escombros polvorientos. Los cuadrantes con escombros son terreno difícil.
 >
 >**Luz**: No hay luces en el templo, ya que los enanos sacerdotes de [[Abbathor]] usaban su vision oscura para ver. 
 ## E4. Vestíbulo polvoriento
@@ -62,6 +62,6 @@ Medio enterrada en los escombros hay un esqueleto de un enano sacerdote vistiend
 ## E11. Salón de la Avaricia
 Para alcanzar esta habitación, los personajes deben limpiar el camino de los escombros que la sellan, lo que toma a un solo personaje 40 horas, varios personajes lo reducen de forma proporcional. (Tres personajes les toma 13 horas)
 
-Un hueco en la muralla sur contiene los escombros de una estatua destrozada. Un hueco al norte contiene una estatua de un enano con cuernos, que mira avariciosamente a una gema verde brillante en sus manos. Si la gema es tomada, se convierte en polvo y la estatua explota. Cualquier criatura dentro de 10 pies de la estatua explosiva debe hacer un [[Reglas#Saving Throws|save de agilidad]] de DC 15, tomando 22 (4d10) de daño perforador en un save fallido, o la mitad de daño en uno exitoso.
+Un hueco en la muralla sur contiene los escombros de una estatua destrozada. Un hueco al norte contiene una estatua de un enano con cuernos, que mira avariciosamente a una gema verde brillante en sus manos. Si la gema es tomada, se convierte en polvo y la estatua explota. Cualquier criatura dentro de 10 pies de la estatua explosiva debe hacer un save de agilidad de DC 15, tomando 22 (4d10) de daño perforador en un save fallido, o la mitad de daño en uno exitoso.
 # Cuando los [[Orcos]] atacan
 [[Orcos]] han llegado al área [[#E1. El cañón]] mientras los personajes terminaban sus negocios con los enanos. El numero de [[Orcos]] es igual al numero de personajes en el grupo, incluyendo acompañantes. Apartados de su territorio por [[Cryovain]], los [[Orcos]] buscan un nuevo lugar para asentarse y pelearan hasta la muerte. 

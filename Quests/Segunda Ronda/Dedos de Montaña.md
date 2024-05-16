@@ -4,7 +4,6 @@ Diseñada para personajes de nivel 4.
 La mina de oro "Dedos de Montaña", propiedad de un consorcio empresarial en Neverwinter, se ha visto afectada por problemas de productividad recientes. Los propietarios han contratado a un supervisor sensato llamado Don-Jon Raskin para arreglar las cosas. Pero ni Raskin ni los propietarios saben que la mina en problemas ha sido recientemente tomada por una banda de hombres rata que se hacen llamar Bigotes.
 # Objetivos
 Para completar la quest, los aventureros deben escoltar a [[Don Juan Raskin]] a la mina. Una vez ve que los hombre-rata los han infestado, Raskin instiga a los personajes a erradicar las "alimañas". Si los personajes se niegan, Raskin se queda a negociar una tregua con los hombre-rata por las suyas, y rápidamente es convertido en un hombre-rata.
-
 # Roleplay de [[Don Juan Raskin]]
 Lleno de fanfarronadas e historias de sus grandes hazañas, Don-Jon Raskin camina y habla como un gigante. Ha trabajado como buscador de oro, minero, comerciante de pieles, corsario y ballenero. Incluso dirigió un puesto comercial en las afueras de Neverwinter durante algunas temporadas. Si los personajes emprenden la misión de escoltar a Raskin a la mina de oro Mountain's Toe, lo encontrarán alojado en Stonehill Inn en Phandalin. El alcalde Harbin Wester tiene un acuerdo con los empleadores de Raskin para garantizar que el supervisor llegue a la mina de forma segura.
 
@@ -34,9 +33,28 @@ Los personajes llegan a la entrada oeste de la mina, la cual puedes describir co
 
 [[Don Juan Raskin]] no tiene un mapa de la mina y nunca antes la ha visitado, por lo que no sabe nada de su diseño.
 # Ubicaciones
-{{IMÁGEN}}
-## X1. 
-## X2. 
-## X3. 
-## X4. 
-## X5. 
+![[025-map-mtgm-dm.webp]]
+## M1. Puesto de Guardia
+Esta cueva está custodiada por dos hombres rata hembra en forma híbrida. Se ofrecen a escoltar a los recién llegados hasta el supervisor de la mina, [[Zeleen Varnaster]], en el área [[#M4. Guarida de Hombres rata]].
+## M2. Poste de Madera
+Aquí se apoyan en las paredes postes de madera que se utilizan para apuntalar túneles y cuevas.
+## M3. Cajas y Toneles
+Apiladas contra las paredes de esta zona de almacenamiento hay una docena de cajas vacías y un número similar de barriles vacíos.
+## M4. Guarida de Hombres rata
+Esparcidos por esta cueva hay picos, palas y otras herramientas de minería. La sección noreste contiene cuatro ratas gigantes. La sección suroeste contiene hombres rata en forma humana: un hombre rata macho por cada miembro del grupo (incluido Don-Jon Raskin, pero no sus compañeros) más una mujer rata llamada [[Zeleen Varnaster]], la líder de la Banda Bigote. Si Zeleen muere, otro hombre rata asumirá el cargo de líder siempre que alguno de ellos sobreviva. 
+
+Los hombres rata invadieron la mina después de que los [[Orcos]] los expulsaran de su guarida anterior: un antiguo santuario cerca de [[Conyberry]] (ver "[[Santuario de Savras]]"). Los hombres rata dicen que volverán a su antigua guarida si los personajes se deshacen de los [[Orcos]] en el santuario, pero esto es sólo una estratagema. Los hombres rata no tienen intención de abandonar la mina. 
+### Tesoro. 
+Los personajes que buscan en la cueva encuentran dos sacos escondidos bajo los escombros. Un saco contiene diez trozos de mineral de oro del tamaño de un puño por un valor de 10 gp cada uno. El otro tiene 82 sp, 450 cp y un par de gafas de noche. Si los personajes obtienen e identifican las gafas, entrega la tarjeta de Gafas de la Noche a los jugadores o pueden consultarla en la Lista de Objetos Mágicos.
+## M5. Bodega
+
+## M6. Dormitorios
+## M7. Bodega de Oro
+## M8. Bodega de Equipamiento
+## M9. Callejon sin Salida
+## M10. Oficina del Supervisor
+## M11. [Carrion Crawler](https://5e.tools/bestiary.html#carrion%20crawler_mm)
+## M12. Dormitorios
+## M13. Cuevas infestadas de ratas
+## M14-15. Retiro de los mineros
+## M16. Cementerio

@@ -30,6 +30,8 @@ ___
 **Lenguajes**: Common y Gnomo (gnomames)
 **Visión Nocturna**.
 **Astucia del Gnomo:** Ventaja en Saves de INT, WIS y CHA contra la magia
+
+Esta aprendiendo a cocinar junto al guardia Enrico
 ### **Spellcasting:** 
 El gnomo es un spellcaster de nivel 2. Su habilidad de casteo es INT.
 Save de Hechizo: DC 12
@@ -60,4 +62,4 @@ Debido a ese trauma de ver a sus padres partir a tan corta edad, todavía tiene 
 
 Es muy curiosa y no duda en cruzar limites para saciar su curiosidad, robar, desarmar, viajar, todo lo que le pueda traer algo nuevo para sus creaciones vale la pena para ella.
 
-Actualmente se encuentra viajando junto con [[Thalorien Magune]], [[Juan Cornelio]] y [[Dio Rakitich]]en busca de nuevos limites para sus invenciones.
+Actualmente se encuentra viajando junto con [[Thalorien Magune]], [[Juan Cornelio]] y [[Dio Rakitich]] en busca de nuevos limites para sus invenciones.

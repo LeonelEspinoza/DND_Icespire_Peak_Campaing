@@ -1,8 +1,8 @@
 #PC #Halfling #Paladin
 # Jugador: Mathias Perez
 # Stats
-**Nivel**: 1
-**Experiencia**: 0
+**Nivel**: 3
+**Experiencia**: -
 ***
 **Bonus de Iniciativa**: +3
 
@@ -63,7 +63,7 @@ Cicatriz en el pecho debido a una apuñalada
 [[Aurora Rakitich]] (Madre)
 [[Benito]] (Muy buen amigo, figura paterna(?))
 [[Trotsky]] (Realeza de [[Maverik]])
-[[Halfling demonio]] (Enemigos jurados)
+[[Halflings Demoniacos]] (Enemigos jurados)
 [[Veros]] (Informante)
 ## Campaña
 [[Thalorien Magune]] y [[Juan Cornelio]] (Compañeros de Aventura)
@@ -75,7 +75,7 @@ Cicatriz en el pecho debido a una apuñalada
 
 **[[Benito]]:** Bartender del local que lo acogió 2 años después de la tragedia en su pueblo. Contacta a Dio con un gran caballero *(zorron)* de una ciudad grande llamado Trotsky. Todos conocen a benito, pero nunca es explicado porqué.
 
-**[[Trotsky]]:** Hijo de los reyes de Maverik. Al conocerlo lo pone a prueba, retándolo a levantar las espadas de los guerreros del lugar, que eran un poco más grandes que Dio en tamaño. Queda sorprendido de las habilidades de Dio, y lo recibe cálidamente dentro de las filas de los guerreros de la ciudad. Le entrega su propia espada a Dio para defender Maverik de los Halflings Demoniacos.
+**[[Trotsky]]:** Hijo de los reyes de Maverik. Al conocerlo lo pone a prueba, retándolo a levantar las espadas de los guerreros del lugar, que eran un poco más grandes que Dio en tamaño. Queda sorprendido de las habilidades de Dio, y lo recibe cálidamente dentro de las filas de los guerreros de la ciudad. Le entrega su propia espada a Dio para defender Maverik de los [[Halflings Demoniacos]].
 
 **[[Halflings Demoniacos]]:** A los 30 años de Dio atacan y 2 años después atacan Maverik, justo después de ser aceptado entre las filas de la guardia.
 
@@ -91,13 +91,13 @@ Una vez destruido su pueblo natal hace su juramento.
 
 Después de defender [[Maverik]] entra a la guardia real.
 
-30 años después del ataque a maverik, en el bar de Benito, Dio pelea contra un halfling demonio que lo apuñala en el pecho, dejándolo muy mal herido, y mientras estaba mal herido matan a Benito en frente de él.
+30 años después del ataque a maverik, en el bar de Benito, Dio pelea contra un [[Halflings Demoniacos]] que lo apuñala en el pecho, dejándolo muy mal herido, y mientras estaba mal herido matan a Benito en frente de él.
 
 ==Descubre que gracias a su raza, puede que tenga poderes ocultos, pero no esta seguro de cuales son estos poderes.==
 
 A sus 65 años comienza su viaje como aventurero.
 
-[[Veros]]: Dio lo conoce a sus 113 años. Fascinado por las historias de Dio en Maverik salio a la aventura en busca de Dio. Al encontrarle le cuenta sobre los nuevos ataques de los halflings demoniacos y de información de campamentos importantes en [[Phandalin]].
+[[Veros]]: Dio lo conoce a sus 113 años. Fascinado por las historias de Dio en Maverik salio a la aventura en busca de Dio. Al encontrarle le cuenta sobre los nuevos ataques de los [[Halflings Demoniacos]] y de información de campamentos importantes en [[Phandalin]].
 # Pertenencias
 + Insignia de tu rango
 + Trofeo tomado de un enemigo caído (una daga, espada rota, pedazo de bandera)

@@ -169,3 +169,4 @@ Los estudios de [[Thalorien Magune]] finalmente dan frutos, consiguiendo el dote
 + [Detect magic](https://5e.tools/spells.html#detect%20magic_phb)
 
 [[Thalorien Magune]] conversa con los constructores proponiéndoles trabajar para la [[casa magnus]] construyendo otras edificaciones en [[Phandalin]].
+

@@ -4,9 +4,9 @@
 Este es un lugar de aventura, donde las almas valientes se adentran en fuertes antiguos y exploran ruinas de los reinos olvidados hace mucho. En medio de una naturaleza sin ley de picos escarpados y nevados, bosques alpinos, vientos amargos y monstruos errantes, la costa alberga bastiones de civilización tan grandes como la ciudad de [[#Neverwinter]], a la sombra del volcán humeante conocido como [[Monte Hotenow]].
 # Bosque Kryptgarden 
 Este antiguo bosque escondido detrás de las [[Montañas Espada]] contiene las ruinas de civilizaciones enanas pasadas.
-# [[Cornberry]]
+# [[Conyberry]]
 El camino [[Triboar]] cruza un pueblo abandonado, saqueado por barbaros hace años, que ahora yace en ruinas. Un camino de tierra extendiéndose hacia el sur del pueblo dirige a un templo supuestamente abandonado, dedicado a [[Savras]], dios de la adivinación y el destino.
-Más Información en la quest [[Templo de Savras]].
+Más Información en la quest [[Santuario de Savras]].
 # Crags
 Estas rocosas, erosionadas colinas están dotadas con unas viejas minas que han sido infestadas de monstruos. 
 # Camino Alto
