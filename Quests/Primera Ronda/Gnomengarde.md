@@ -5,11 +5,11 @@ Las cuevas de Gnomengarde están cavadas dentro de la base de la montaña al sud
 
 Gnomengarde tiene dos reyes casados [[Gnerkli]] y [[Korboz]]. Recientemente [[Korboz]] perdió la cabeza y mantiene a [[Gnerkli]] prisionero. Sus súbditos no comprenden la naturaleza de la aflicción de [[Korboz]] y no saben qué hacer. No desean que ninguno de los reyes sufra ningún daño, pero reconocen que [[Korboz]] se ha convertido en un peligro para él y para los demás.
 
-Además del peligro que representa el rey loco, dos gnomos han desaparecido misteriosamente en los últimos diez días. Nadie, excepto el rey [[Korboz]], sabe que un monstruo que cambia de forma (a [[Mimic]]) se ha infiltrado en Gnomengarde y se está alimentando de los gnomos, cambiando su apariencia a medida que avanza por el complejo. [[Korboz]] fue atacado y casi asesinado por la criatura, y ese evento inspiró su locura. Se ha secuestrado a sí mismo y a su amado [[Gnerkli]] en sus habitaciones porque no quiere que el monstruoso cambiaformas los devore. [[Korboz]] espera que la criatura se canse de comer gnomos y se vaya. Proporcionarle a [[Korboz]] pruebas de la desaparición del mímico le devuelve la cordura.
+Además del peligro que representa el rey loco, dos gnomos han desaparecido misteriosamente en los últimos diez días. Nadie, excepto el rey [[Korboz]], sabe que un monstruo que cambia de forma (a [[Mímico]]) se ha infiltrado en Gnomengarde y se está alimentando de los gnomos, cambiando su apariencia a medida que avanza por el complejo. [[Korboz]] fue atacado y casi asesinado por la criatura, y ese evento inspiró su locura. Se ha secuestrado a sí mismo y a su amado [[Gnerkli]] en sus habitaciones porque no quiere que el monstruoso cambiaformas los devore. [[Korboz]] espera que la criatura se canse de comer gnomos y se vaya. Proporcionarle a [[Korboz]] pruebas de la desaparición del [[Mímico]] le devuelve la cordura.
 # Características de Gnomengarde
 **Techos**: todos los techos tienen 7 pies de alto y son planos.
 
-**Puertas**: Puertas normales están hechas de madera con hierro oxidado como manillas y bisagras. Una puerta con seguro puede ser abierta con un DC 10 de agilidad exitoso usando [[Herramientas de ladrón]]. Una puerta con seguro puede ser forzada como una acción con un check de Fuerza (atletismo) DC 15 exitoso. Puertas secretas están hechas de piedra y se camuflan con el trabajo de piedra de los alrededores. Encontrar una puerta secreta requiere una búsqueda en la muralla y un DC 10 de Sabiduría (Percepción) exitoso.
+**Puertas**: Puertas normales están hechas de madera con hierro oxidado como manillas y bisagras. Una puerta con seguro puede ser abierta con un DC 10 de agilidad exitoso usando Herramientas de ladrón. Una puerta con seguro puede ser forzada como una acción con un check de Fuerza (atletismo) DC 15 exitoso. Puertas secretas están hechas de piedra y se camuflan con el trabajo de piedra de los alrededores. Encontrar una puerta secreta requiere una búsqueda en la muralla y un DC 10 de Sabiduría (Percepción) exitoso.
 
 **Luz**: Todas las cuevas están iluminadas por un linternas de aceite amarrados con cuerdas y poleas que hacen fácil a los gnomos bajarlas y rellenarlas.
 
@@ -28,15 +28,15 @@ Gnomengarde tiene 5 entradas a cuevas situadas sobre salientes con pendientes es
 ## Lista de Gnomengarde
 Veinte gnomos de las rocas reclusos habitan en Gnomengarde, entre ellos el rey Gnerkli y el rey Korboz. Los nombres y ubicaciones de los gnomos se describen en la sección "Ubicaciones de Gnomengarde".
 ### Monstruo misterioso
-Solía haber veintidós gnomos viviendo en las cuevas, pero un mímico devoró a dos gnomos, llamados Orryn y Warryn, en los últimos diez días. La criatura está actualmente disfrazada de barril en el área G8, pero devorará más gnomos una vez que vuelva su hambre, a menos que se acabe con ella. Puede moverse y adoptar otros disfraces según sea necesario, aunque sus formas se limitan a objetos medianos como sillas, cofres grandes, atriles y extraños inventos gnomos del tamaño y masa del mímico. La mímica también puede disfrazarse de puerta, de una falsa sección de pared o de un bulto rocoso en el suelo.
+Solía haber veintidós gnomos viviendo en las cuevas, pero un [[Mímico]] devoró a dos gnomos, llamados Orryn y Warryn, en los últimos diez días. La criatura está actualmente disfrazada de barril en el área G8, pero devorará más gnomos una vez que vuelva su hambre, a menos que se acabe con ella. Puede moverse y adoptar otros disfraces según sea necesario, aunque sus formas se limitan a objetos medianos como sillas, cofres grandes, atriles y extraños inventos gnomos del tamaño y masa del [[Mímico]]. La mímica también puede disfrazarse de puerta, de una falsa sección de pared o de un bulto rocoso en el suelo.
 
 Después de hablar con Korboz y enterarse de la presencia de un monstruo que cambia de forma, el objetivo principal de los personajes debería ser encontrar y matar a la criatura. Cuando atacó a Korboz, parecía una alfombra de 10 pies cuadrados en la sala del trono (área G14), pero desde entonces se mudó a otra parte y cambió su apariencia.
 
 Si se les presiona, los gnomos de roca ayudan a los personajes a encontrar la imitación pinchando objetos con varitas no mágicas para ver si se defienden. Los gnomos, sin embargo, no son aventureros y huyen al primer signo de peligro (real o imaginario).
 
-El mímico devora y disuelve completamente a sus víctimas, sin dejar rastro y reubicándose después de cada muerte. No abandonará Gnomengarde por sí solo, ya que le ha gustado el sabor de la carne de gnomo.
+El [[Mímico]] devora y disuelve completamente a sus víctimas, sin dejar rastro y reubicándose después de cada muerte. No abandonará Gnomengarde por sí solo, ya que le ha gustado el sabor de la carne de gnomo.
 
-Si quieres un antagonista más interesante, haz que el mímico sea una de las raras variedades que pueden mantener conversaciones sencillas en común. Los personajes que arrinconen al mímico parlante pueden negociar con él y obligarlo a abandonar Gnomengarde con una prueba exitosa de Carisma (Intimidación o Persuasión) CD 15.
+Si quieres un antagonista más interesante, haz que el [[Mímico]] sea una de las raras variedades que pueden mantener conversaciones sencillas en común. Los personajes que arrinconen al [[Mímico]] parlante pueden negociar con él y obligarlo a abandonar Gnomengarde con una prueba exitosa de Carisma (Intimidación o Persuasión) CD 15.
 ## Magia salvaje
 La magia salvaje es un tipo de magia que no se puede controlar, y Gnomengarde ha sido durante mucho tiempo una fuente de ella. Cuando una criatura en cualquier lugar del mapa de Gnomengarde gasta un espacio de hechizo para lanzar un hechizo de nivel 1 o superior, puede ocurrir un efecto adicional. Tira un d20 y consulta la siguiente tabla para determinar el efecto, si lo hay. Este efecto de magia salvaje dura 1 hora o hasta que finaliza con un hechizo para eliminar maldición o magia similar.
 
@@ -50,8 +50,3 @@ La magia salvaje es un tipo de magia que no se puede controlar, y Gnomengarde ha
 |20|A whimsical effect of the DM's invention.|
 # Ubicaciones
 ![[DM_Gnomengarde.webp]]
-## X1. 
-## X2. 
-## X3. 
-## X4. 
-## X5. 

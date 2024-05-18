@@ -1,6 +1,6 @@
 #Ubicación #Pueblo
 **Población actual:** 120 personas
-**Población Alfabeto:** 30%
+**Población Alfabeta:** 30%
 ***
 El pueblo frontera de Phandalin esta construido en las ruinas de un asentamiento mucho más antiguo. Cientos de años antes, el antiguo Phandalin era un prospero pueblo humano cuya gente estaba firmemente aliada con los enanos y gnomos vecinos. Entonces una horda de orcos arrasó el área y dejó los escombros abandonados por centenares.
 
@@ -34,7 +34,7 @@ El único templo de Phandalin, hecho de rocas de las ruinas de al rededor. Esta 
 >[!quote] Parafrasear
 >Tiene robustas murallas, un techo de madera y un campanario en la parte trasera. La tabla de trabajos a un lado de la puerta de entrada contiene varias noticias escritas en común y de la misma mano
 
-Si los personajes inspeccionan el tablón de anuncios, procede a la sección de [[#phandalin Quests]]
+Si los personajes inspeccionan el tablón de anuncios, procede a la sección de [[Quests]]
 # Cuentos de Phandalin
 | d6  | Tale                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

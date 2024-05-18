@@ -1,7 +1,6 @@
 #NPC #Aliado #Humano 
-{{IMAGEN}}
 
-{{INFORMACIÓN }}
+Primo de [[Thistle Barthen]]
+Nieto de [[Elmar Barthen]]
 
-# [STATS]
-# [Tema de Encuentros]
+Actualmente se hace cargo del negocio de [[Phandalin#Provisiones de Barthen|Provisiones]] en [[Phandalin]].

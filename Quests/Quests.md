@@ -1,4 +1,21 @@
 Las quests van apareciendo de a 3 a medida que los jugadores completan 2 del grupo anterior de quests.
+## Quests:
+- [x] [[Excavación de los Enanos]]
+- [x] [[Gnomengarde]]
+- [x] [[Colina Umbra]]
+- [x] [[Rancho Butterskull]]
+- [ ] [[Campamento de Leñadores]]
+- [ ] [[Dedos de Montaña]]
+- [ ] [[Axeholm]]
+- [ ] [[Túmulto de Dragón]]
+- [ ] [[Mansión del Bosque]]
+## Side Quests:
+- [ ] [[Santuario de Savras]]
+- [ ] [[Torre de las Tormentas]]
+- [ ] [[Pabellón de caza de Halcón]]
+## Lore Quests
+- [ ] [[Campamento de Halflings Demoniacos]]
+
 # Primera Ronda
 
 >[!info]+ [[Excavación de los Enanos]] 
@@ -6,8 +23,8 @@ Las quests van apareciendo de a 3 a medida que los jugadores completan 2 del gru
 > 
 > Recompensa: 50gp
 
->[!info]+ [[Gnomegard]]
-> Un clan de [[gnomos de piedra]] habita en un pequeño complejo de cuevas en las montañas del sur-este. Los gnomos de [[Gnomegard]] son conocidos por sus invenciones mágicas, y podrían tener algo con lo que derrotar al [[Cryovain|dragón]]. Ve y saquea todo lo que puedas de ellos. Si consigues algo útil y estás dispuesto a cambiarlo por piezas de oro, el [[Phandalin#Ayuntamiento|ayuntamiento]] [[Harbin Wester]] te pagará 50 gp a cambio de esto.
+>[!info]+ [[Gnomengarde]]
+> Un clan de gnomos de piedra habita en un pequeño complejo de cuevas en las montañas del sur-este. Los gnomos de [[Gnomengarde]] son conocidos por sus invenciones mágicas, y podrían tener algo con lo que derrotar al [[Cryovain|dragón]]. Ve y saquea todo lo que puedas de ellos. Si consigues algo útil y estás dispuesto a cambiarlo por piezas de oro, el [[Phandalin#Ayuntamiento|ayuntamiento]] [[Harbin Wester]] te pagará 50 gp a cambio de esto.
 > 
 > Recompensa: 50gp
 
@@ -18,9 +35,9 @@ Las quests van apareciendo de a 3 a medida que los jugadores completan 2 del gru
 # Segunda Ronda
 
 >[!info]+ [[Rancho Butterskull]]
-> Orcos han atacado el rancho "[[Calavera Mantecosa]]", a 5 millas al este de [[Conyberry]] junto al [[Camino de Triboar]].
+> Orcos han atacado el [[Rancho Butterskull]], a 5 millas al este de [[Conyberry]] junto al [[Camino de Triboar]].
 > Ve allí deprisa, verifica los daños y ayuda tanto como puedas. 
-> El dueño, [[Alfonse "Grande" Kalazorn]] es un sheriff retirado que recompensara tus esfuerzos. Si falleció, vuelve al [[Phandalin#Ayuntamiento|ayuntamiento]] con una prueba de su muerte a manos de [[Orcos]] y se te recompensará con 100 gp.
+> El dueño, [[Alfonse Kalazorn]] es un sheriff retirado que recompensara tus esfuerzos. Si falleció, vuelve al [[Phandalin#Ayuntamiento|ayuntamiento]] con una prueba de su muerte a manos de [[Orcos]] y se te recompensará con 100 gp.
 > 
 > Recompensa: 100gp
 
@@ -30,7 +47,7 @@ Las quests van apareciendo de a 3 a medida que los jugadores completan 2 del gru
 > Recompensa: 100gp
 
 >[!info]+ [[Dedos de Montaña]]
-> Las minas de oro "[[Dedos de montaña]]" se encuentra a 15 millas al nor-este de [[Phandalin]]. El nuevo capataz, [[Don Juan Raskin]], acaba de viajar desde [[Neverwinter]] a [[Phandalin]] y necesita ser escoltado devuelta a las minas. No hay forma de saber los peligros que aguardan en el camino. Una vez Raskin llegue a su destino sano y salvo, vuelve al [[Phandalin#Ayuntamiento|ayuntamiento]] para recibir la recompensa de 100 gp.
+> Las minas de oro "[[Dedos de montaña]]" se encuentra a 15 millas al noreste de [[Phandalin]]. El nuevo capataz, [[Don Juan Raskin]], acaba de viajar desde [[Neverwinter]] a [[Phandalin]] y necesita ser escoltado devuelta a las minas. No hay forma de saber los peligros que aguardan en el camino. Una vez Raskin llegue a su destino sano y salvo, vuelve al [[Phandalin#Ayuntamiento|ayuntamiento]] para recibir la recompensa de 100 gp.
 > 
 > Recompensa: 100gp
 # Tercera Ronda

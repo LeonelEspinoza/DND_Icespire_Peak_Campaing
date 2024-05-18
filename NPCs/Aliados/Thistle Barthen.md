@@ -1,7 +1,5 @@
 #NPC #Aliado #Humano 
-{{IMAGEN}}
+Primo de [[Ander Barthen]]
+Nieto de [[Elmar Barthen]]
 
-{{INFORMACIÓN }}
-
-# [STATS]
-# [Tema de Encuentros]
+Actualmente es secretario del ayuntamiento de [[Phandalin]]

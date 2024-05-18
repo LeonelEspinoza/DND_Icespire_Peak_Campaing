@@ -1,3 +1,7 @@
+---
+tags:
+  - Graph_Ignore
+---
 <center> <h1> Mecánica Homemade: <br>Tiempo de Creación de Objetos </h1></center>
 
 ## ¿Qué es?

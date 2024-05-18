@@ -74,3 +74,10 @@ A partir del nivel 3, obtienes la capacidad de lanzar [Cantrip Friends](https://
 +  [Cantrip Friends](https://5e.tools/spells.html#friends_phb)
 +  [Command](https://5e.tools/spells.html#command_phb)
 +  [Suggestion](https://5e.tools/spells.html#suggestion_phb)
+
+## Equipo Diplomático
+- [[(Soldado) Farfelee]]
+- [[(Soldado) Rowan Chaucer]]
+- [[(Soldado) Ella Truegust]]
+- [[(Soldado) Terryn Woodleaf]]
+- [[(Diplomatico) Malkyn de Mowbray]]

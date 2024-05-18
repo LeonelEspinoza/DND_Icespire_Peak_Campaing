@@ -1,8 +1,8 @@
 #PC #Centauro #Bardo
 # Jugador: Sebastián Mera
 # Stats
-**Nivel**: 2
-**Experiencia**: 0
+**Nivel**: 3
+**Experiencia**: -
 ***
 **Bonus de Iniciativa**: +3
 
