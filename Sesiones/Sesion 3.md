@@ -12,7 +12,7 @@ Los slimes no tenían una forma real de hacer daño a los jugadores pero la vida
 + Quizás algún enemigo con gran ataque pero poca prob(?)
 ## El futuro de la campaña
 ### Próximas Quests
-Sin [[Harbin Wester]] en [[Phandalin]], no hay quién escriba y publique las [[Quests]]. Actualmente hay publicadas 2 quests incompletas: [[Gnomegard]] y [[Colina Umbra]]. Aparte de estas 2 quizás haya un par de las siguientes quests escritas dentro de la casa de [[Harbin Wester]]. Viendo cada quest, será necesario determinar de donde él recibía la información, quizás mantenerse comunicado con los leñadores a través de magia o simplemente un acuerdo periódico, y quizás otras misiones eran emitidas desde [[Costa Espada#Neverwinter]] u otras ciudades a Harbin.
+Sin [[Harbin Wester]] en [[Phandalin]], no hay quién escriba y publique las [[Quests]]. Actualmente hay publicadas 2 quests incompletas: [[Gnomengarde]] y [[Colina Umbra]]. Aparte de estas 2 quizás haya un par de las siguientes quests escritas dentro de la casa de [[Harbin Wester]]. Viendo cada quest, será necesario determinar de donde él recibía la información, quizás mantenerse comunicado con los leñadores a través de magia o simplemente un acuerdo periódico, y quizás otras misiones eran emitidas desde [[Costa Espada#Neverwinter]] u otras ciudades a Harbin.
 Soluciones:
 + Guiar a los jugadores a las diferentes fuentes de información.
 + Dejar a un segundo personaje a cargo de entregar la información de las quests, un tipo de viajero o mensajero

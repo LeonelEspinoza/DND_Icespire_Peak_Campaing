@@ -8,9 +8,9 @@ Limitar el uso de los efectos de sonido.
 Usar descripciones en vez de utilizar cantidad de Hit Points.
 ***
 # Sucesos
-Entran a la [[Casa de Harbin Wester]] obtienen 100gp que habrían sido dedicados a las quests, leen las notas de las próximas aventuras y una carta. Se dan cuenta de que [[Harbin Wester]] viene de [[Costa Espada#Neverwinter]].
+Entran a la [[Casa de Harbin Wester]] obtienen 100gp que habrían sido dedicados a las quests, leen las notas de las próximas aventuras y una carta. Se dan cuenta de que [[Harbin Wester]] viene de [[Costa Espada#Neverwinter|Neverwinter]].
 
-Usando la [[Sending Stones]] de Harbin, contactan a alguien de [[Costa Espada#Neverwinter]] quien les confirma el envío de un escuadrón diplomático a [[Phandalin]]. Este debería llegar en 4 días (Llega el 29 de Noctal a Phandalin, por la mañana).
+Usando la [[Sending Stones]] de Harbin, contactan a alguien de [[Costa Espada#Neverwinter|Neverwinter]] quien les confirma el envío de un escuadrón diplomático a [[Phandalin]]. Este debería llegar en 4 días (Llega el 29 de Noctal a Phandalin, por la mañana).
 
 [[Toblen Stonehill]] se acerca a hablarles de su preocupación por [[Adabra Gwynn]], y les recomienda a los personajes ir a ver que este bien en su molino. 
 Pasan la noche.
@@ -19,6 +19,6 @@ Completan la aventura de [[Colina Umbra]]. Espantan al manticore engañándolo c
 
 Suben a nivel 3 y pasan la noche.
 
-Van a [[Gnomegard]]. Consiguen que [[Facktoré]] se una a su aventura prometiéndole nuevas posibilidades para sus invenciones.
+Van a [[Gnomengarde]]. Consiguen que [[Facktoré]] se una a su aventura prometiéndole nuevas posibilidades para sus invenciones.
 
 Dejan la sesión en el piano fuera de las cuevas gnomo.

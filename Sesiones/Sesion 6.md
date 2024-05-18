@@ -26,7 +26,7 @@ Una cosa que si no me agrada es estar jugando sin algún jugador. Realmente quie
 
 ***
 # Preparación
-### Escuadrón Diplomático de Neverwinter
+### Escuadrón Diplomático de [[Neverwinter]]
 Encuentro con [[(Diplomatico) Malkyn de Mowbray]] para solucionar el problema de [[Harbin Wester]].
 LLegan 5 humanos a [[Phandalin]] a conversar con un tal [[Thalorien Magune]] sobre la situación actual respecto a [[Harbin Wester]]. El escuadrón se compone de:
 + [[(Diplomatico) Malkyn de Mowbray]]
@@ -34,25 +34,25 @@ LLegan 5 humanos a [[Phandalin]] a conversar con un tal [[Thalorien Magune]] sob
 + [[(Soldado) Rowan Chaucer]]
 + [[(Soldado) Ella Truegust]]
 + [[(Soldado) Terryn Woodleaf]]
-### [[Don Juan Raskin]]
-Encuentro con [[Don Juan Raskin]] para darles la opción a los jugadores de tomar la quest [[Dedos de Montaña]].
+### Don Juan Raskin
+Encuentro con Don Juan Raskin para darles la opción a los jugadores de tomar la quest Dedos de Montaña.
 ### Carro de Provisiones
-[[Ander Barthen]] preparando un carro de provisiones del [[Campamento de Leñadores]]. Para darles la oportunidad de tomar la quest.
-### Anuncio del ataque al [[Rancho Butterskull]]
-Llega un jinete a caballo anunciando que el rancho Butterskull está siendo atacado por orcos. Esto para darles la oportunidad de tomar la quest [[Rancho Butterskull]]
+Ander Barthen preparando un carro de provisiones del Campamento de Leñadores. Para darles la oportunidad de tomar la quest.
+### Anuncio del ataque al Rancho Butterskull
+Llega un jinete a caballo anunciando que el rancho Butterskull está siendo atacado por orcos. Esto para darles la oportunidad de tomar la quest Rancho Butterskull
 ***
 # Sucesos
 ## 28-Noctal-217, 2da Era
 Despiertan a las 1 de la tarde, discuten, amarran a la [[Facktoré]] y la meten al río. Después la lanzan dentro del piano.
 
-A la mitad del viaje hacia [[Phandalin]] despierta Facktoré y conversan sobre sus objetivos. 
+A la mitad del viaje hacia [[Phandalin]] despierta [[Facktoré]] y conversan sobre sus objetivos. 
 
 [[Thalorien Magune]] habla de su objetivo de tomar [[Neverwinter]]
-+ Resentimiento Phandalin-Neverwinter
-+ Aprovechar al criminalidad de Neverwinter
-+ Conflictos Politicos de Neverwinter
++ Resentimiento [[Phandalin]]-[[Neverwinter]]
++ Aprovechar al criminalidad de [[Neverwinter]]
++ Conflictos Politicos de [[Neverwinter]]
 
-Llegan a [[Phandalin]], Juan Cornelio rompe la ventana de la granjera y escapa. Descansan.
+Llegan a [[Phandalin]], [[Juan Cornelio]] rompe la ventana de la granjera y escapa. Descansan.
 
 ## 29 - Noctal - 217, 2da Era
 Hablan con [[Don Juan Raskin]] durante la mañana sobre su escolta para los [[Dedos de Montaña]].
@@ -60,9 +60,9 @@ Hablan con [[Don Juan Raskin]] durante la mañana sobre su escolta para los [[De
 Hablan con [[Ander Barthen]] sobre la carreta de provisiones a los [[Bosques de Neverwinter]]. ([[Campamento de Leñadores]])
 
 Llega el escuadrón diplomático. LLegan al acuerdo de que [[Thalorien Magune]] se hará cargo de [[Phandalin]]. Se le informa a la party sobre:
-+ El impuesto por la destrucción de 2000gp a aquellos que necesiten de provisiones y materiales de Neverwinter; 
++ El impuesto por la destrucción de 2000gp a aquellos que necesiten de provisiones y materiales de [[Neverwinter]]; 
 + Que pueden pedir hasta 300gp para poder entregar de recompensa por misiones; 
-+ Que deben informar a [[Neverwinter]] cada semana sobre a quien, cuanto y porque se le da recompensas por las quests. Cuanto son los ingresos de [[Phandalin]]
++ Que deben informar a [[Neverwinter]] cada semana sobre a quien, cuanto y porque se le da recompensas por las [[quests]]. Cuanto son los ingresos de [[Phandalin]]
 + El puesto de intercambio paga 10gp semanales de impuestos al líder de [[Phandalin]]
 
 [[Thalorien Magune]] seduce a [[(Soldado) Ella Truegust]] 
@@ -87,7 +87,7 @@ Antes de que el escuadrón diplomático se vaya de [[Phandalin]], [[Thalorien Ma
 > Se busca un secretario de ayuntamiento, por 35gp mensuales.
 > Encargado [[Thistle Barthen]]
 
-Dejan a Facktoré haciendo un auto a pedales, que es complejo y mediano; Se demora 6 días en hacerlo ([[#6 - Mazho - 218, 2da Era]]).
+Dejan a [[Facktoré]] haciendo un auto a pedales, que es complejo y mediano; Se demora 6 días en hacerlo ([[#6 - Mazho - 218, 2da Era]]).
 
 [[Juan Cornelio]] se queda construyendo un rifle con 55% de probabilidad de fallar por 12 días   ([[#10 - Mazho - 218, 2da Era]]).
 
@@ -112,7 +112,7 @@ Festejan "Hibernal" con todo [[Phandalin]]. Hablan con el pueblo de impuestos y 
 
 LLegan 15 personas a estudiar con Kemal a cambio de 4gp c/u.
 
-[[Thalorien Magune]] se comunica con [[Gnomegard]] y les comunica que ya es hora de enviar a [[Fibblestib]] y [[Dabbledob]] a [[Phandalin]]. El acuerdo es entregarles la sending stone a los gnomos a penas lleguen en 2 días ([[#4 - Mazho - 218, 2da Era]]). 
+[[Thalorien Magune]] se comunica con [[Gnomengarde]] y les comunica que ya es hora de enviar a [[Fibblestib]] y [[Dabbledob]] a [[Phandalin]]. El acuerdo es entregarles la sending stone a los gnomos a penas lleguen en 2 días ([[#4 - Mazho - 218, 2da Era]]). 
 
 Mandan a [[Thistle Barthen]] a investigar sobre cultivos y granjas.
 
@@ -133,7 +133,7 @@ Usan el auto para mostrarlo al pueblo. Todos quedan asombrados por este nuevo in
 
 Al final del día deciden desarmar el auto para mejorarlo y que sea capaz de llevar más carga. Esto significa crear algo confuso, mediano -> 8 días con un 72% de éxito.
 
-LLegan los 300gp de [[Neverwinter]], [[Toblen Stonehill]] se encarga del oro. El cartero trae la noticia del ataque del dragón blanco en Neverwinter hace 3 días.
+LLegan los 300gp de [[Neverwinter]], [[Toblen Stonehill]] se encarga del oro. El cartero trae la noticia del ataque del dragón blanco en [[Neverwinter]] hace 3 días.
 ## 6 - Mazho - 218, 2da Era
 Se termina la construcción de la [[Casa Magnus]]. Un edificio de 3 pisos de madera, los constructores dedican este último día a adornar el edificio. Dejan un cartel a la entrada con la inscripción: "Casa Magnus *Hic Sunt Draconis*".
 
@@ -162,7 +162,7 @@ Por el momento la party está ganando 10gp diarios por la administración de [[P
 [[Juan Cornelio]] termina de construir su arma.
 Se termina de construir el puesto de vigilancia en la entrada norte.
 
-Los estudios de [[Thalorien Magune]] finalmente dan frutos, consiguiendo el dote de [Ritual Caster](https://5e.tools/feats.html#ritual%20caster_phb). Pasa el resto del día copiando los hechizos del libro de magia de [[Gnomegard]] en un cuaderno personal (max 5 hechizos). Escribe los hechizos:
+Los estudios de [[Thalorien Magune]] finalmente dan frutos, consiguiendo el dote de [Ritual Caster](https://5e.tools/feats.html#ritual%20caster_phb). Pasa el resto del día copiando los hechizos del libro de magia de [[Gnomengarde]] en un cuaderno personal (max 5 hechizos). Escribe los hechizos:
 + [Unseen servant](https://5e.tools/spells.html#unseen%20servant_phb)
 + [Find familiar](https://5e.tools/spells.html#find%20familiar_phb)
 + [Identify](https://5e.tools/spells.html#identify_phb)
