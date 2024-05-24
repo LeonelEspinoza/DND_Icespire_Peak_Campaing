@@ -1,4 +1,3 @@
 #NPC #Aliado #Humano 
-{{IMAGEN}}
-
-{{INFORMACIÓN }}
+# INFORMACIÓN
+Raza: Humana

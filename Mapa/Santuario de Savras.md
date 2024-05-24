@@ -1,4 +1,4 @@
-#SideQuest #Ubicación #Quest 
+ñ#SideQuest #Ubicación #Quest 
 
 Balanceado para personajes nivel 1-6.
 Esta ubicación no está conectada a ninguna quest en particular, pero está en los rumores de [[Phandalin]] y los jugadores pueden escuchar sobre este lugar desde la quest [[Dedos de Montaña]].

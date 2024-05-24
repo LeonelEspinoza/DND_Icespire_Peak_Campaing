@@ -3,9 +3,9 @@ Esta es una quest pensada al rededor de la conexión de [[Dio Rakitich]] con los
 No tengo idea de como balancear esta quest.
 # Descripción General
 ## Localización
-Dentro de las montañas de metal de estrella se encuentra un campamento de [[Halflings Demoniacos]]. Este campamento es la base de operaciones de este clan en el territorio de la [[Costa Espada]].
+Dentro de las [[Colinas Metal de Estrella]] se encuentra un campamento de [[Halflings Demoniacos]]. Este campamento es la base de operaciones de este clan en el territorio de la [[Costa Espada]].
 ## Origen e Historia
-Cuando un lejano asentamiento de [[Halflings Demoniacos]] oye sobre las [[Montañas Metal de Estrella]], se disponen a aventurarse para asentarse aquí y reclamar sus sacrificios correspondientes en la zona. Este asentamiento se funda hace unos 30 años, y desde ese momento se han mantenido con un perfil mediana mente bajo, buscan nuevas armas mágicas que utilizar contra reinos poderosos y creen que dentro de las montañas podría haber un material útil para forjar un arma capaz de asegurar su victoria en cualquier situación. Durante este tiempo, espantaron a la mayor parte de la gente que vivía al rededor de las montañas.
+Cuando un lejano asentamiento de [[Halflings Demoniacos]] oye sobre las [[Colinas Metal de Estrella]], se disponen a aventurarse para asentarse aquí y reclamar sus sacrificios correspondientes en la zona. Este asentamiento se funda hace unos 30 años, y desde ese momento se han mantenido con un perfil mediana mente bajo, buscan nuevas armas mágicas que utilizar contra reinos poderosos y creen que dentro de las montañas podría haber un material útil para forjar un arma capaz de asegurar su victoria en cualquier situación. Durante este tiempo, espantaron a la mayor parte de la gente que vivía al rededor de las montañas.
 
 15 años después de establecerse en al zona, oyen sobre un pueblo de gnomos con artefactos mágicos, se dirigen allí para saquear, asesinar y esclavizar a los gnomos. Asediaron la aldea y, producto de unas negociaciones magistrales por parte de los reyes gnomo, detienen su ofensiva, a cambio de raptar a los reyes como mano de obra para utilizar los metales que han obtenido en las montañas. (Los reyes gnomos de ese momento son los padres de [[Facktoré]])
 ## Estructura y Población

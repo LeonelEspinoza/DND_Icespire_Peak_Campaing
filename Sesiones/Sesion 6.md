@@ -93,7 +93,7 @@ Dejan a [[Facktoré]] haciendo un auto a pedales, que es complejo y mediano; Se 
 
 [[Thalorien Magune]] entrevista a todos los postulantes de los puestos de trabajo y quedan encargados.
 
-Comienza la construcción de la [[Casa Magnus]] (Simple, Mediano -> 10 días ([[#6 - Mazho - 218, 2da Era]]) 99% de éxito). El segundo piso quedara como la base de operaciones de la party.
+Comienza la construcción de la [[Phandalin#Casa Magnus|Casa Magnus]] (Simple, Mediano -> 10 días ([[#6 - Mazho - 218, 2da Era]]) 99% de éxito). El segundo piso quedara como la base de operaciones de la party.
 ## Hibernal - 218, 2da Era
 [[Thalorien Magune]] conversa con la gente del poblado sobre preocupaciones y en general.
 
@@ -119,13 +119,13 @@ Mandan a [[Thistle Barthen]] a investigar sobre cultivos y granjas.
 ~~[[Cryovain|El Dragón Blanco]] ataca [[Neverwinter]].~~
 
 [[Toblen Stonehill]] queda encargado de entregarle la paga a la gente.
-[[Thalorien Magune]] ayuda en la construccion de la [[Casa Magnus]]
+[[Thalorien Magune]] ayuda en la construccion de la [[Phandalin#Casa Magnus|Casa Magnus]]
 ## 3 - Mazho - 218, 2da Era
 [[Thistle Barthen]] termina su investigación y ahora sabría como conseguir un mejor fertilizante. Se le entregan 10gp para conseguir un mejor fertilizante.
 
 [[Thistle Barthen]] reúne los libros en [[Phandalin]]. Consigue 10 libros. Los libros son de: Historia, Botanica, Novelas, Animales. Se dejan dentro del ayuntamiento; quedan disponibles para el uso de Kemal.
 ## 4 - Mazho - 218, 2da Era
-Hoy llegan los gnomos [[Fibblestib]] y [[Dabbledob]] a [[Phandalin]]. Se quedan en la [[Casa Magnus]], donde tienen un lugar donde dormir y donde trabajar. Se ponen a ayudar a [[Facktoré]] en construir el auto a pedales.
+Hoy llegan los gnomos [[Fibblestib]] y [[Dabbledob]] a [[Phandalin]]. Se quedan en la [[Phandalin#Casa Magnus|Casa Magnus]], donde tienen un lugar donde dormir y donde trabajar. Se ponen a ayudar a [[Facktoré]] en construir el auto a pedales.
 ## 5 - Mazho - 218, 2da Era
 Los gnomos terminan de construir el auto a pedales. Funciona perfectamente. Su velocidad es 1.7 veces la velocidad de un humano y puede llevar al rededor de 70kg. 
 
@@ -135,11 +135,11 @@ Al final del día deciden desarmar el auto para mejorarlo y que sea capaz de lle
 
 LLegan los 300gp de [[Neverwinter]], [[Toblen Stonehill]] se encarga del oro. El cartero trae la noticia del ataque del dragón blanco en [[Neverwinter]] hace 3 días.
 ## 6 - Mazho - 218, 2da Era
-Se termina la construcción de la [[Casa Magnus]]. Un edificio de 3 pisos de madera, los constructores dedican este último día a adornar el edificio. Dejan un cartel a la entrada con la inscripción: "Casa Magnus *Hic Sunt Draconis*".
+Se termina la construcción de la [[Phandalin#Casa Magnus|Casa Magnus]]. Un edificio de 3 pisos de madera, los constructores dedican este último día a adornar el edificio. Dejan un cartel a la entrada con la inscripción: "Casa Magnus *Hic Sunt Draconis*".
 
 Los constructores junto a [[Dio Rakitich]] los mandan a construir un puesto de vigía en la entrada norte de [[Phandalin]]. Terminarán el [[#10 - Mazho - 218, 2da Era]].
 
-Dentro de la [[Casa Magnus]] se pone un cartel: "Banco Magnum". En el tablero dentro de la casa se deja el siguiente anuncio: 
+Dentro de la [[Phandalin#Casa Magnus|Casa Magnus]] se pone un cartel: "Banco Magnum". En el tablero dentro de la casa se deja el siguiente anuncio: 
 
 > [!info] Banco
 > Se pueden pedir prestamos dejando cartas en la mesa, también se puede depositar plata acá.
@@ -168,5 +168,5 @@ Los estudios de [[Thalorien Magune]] finalmente dan frutos, consiguiendo el dote
 + [Identify](https://5e.tools/spells.html#identify_phb)
 + [Detect magic](https://5e.tools/spells.html#detect%20magic_phb)
 
-[[Thalorien Magune]] conversa con los constructores proponiéndoles trabajar para la [[casa magnus]] construyendo otras edificaciones en [[Phandalin]].
+[[Thalorien Magune]] conversa con los constructores proponiéndoles trabajar para la [[Phandalin#Casa Magnus|Casa Magnus]] construyendo otras edificaciones en [[Phandalin]].
 

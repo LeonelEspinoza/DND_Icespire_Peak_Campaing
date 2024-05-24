@@ -1,5 +1,12 @@
 #Quest #Ubicación 
 Balanceado para nivel 3
+# Anuncio
+>[!info]+ [[Rancho Butterskull]]
+> Orcos han atacado el [[Rancho Butterskull]], a 5 millas al este de [[Conyberry]] junto al [[Camino de Triboar]].
+> Ve allí deprisa, verifica los daños y ayuda tanto como puedas. 
+> El dueño, [[Alfonse Kalazorn]] es un sheriff retirado que recompensara tus esfuerzos. Si falleció, vuelve al [[Phandalin#Ayuntamiento|ayuntamiento]] con una prueba de su muerte a manos de [[Orcos]] y se te recompensará con 100 gp.
+> 
+> Recompensa: 100gp
 # Descripción General del Lugar
 [[Alfonse Kalazorn]] solía ser el sheriff de [[Triboar]], una ciudad al este, donde era conocido como **Gran Al Kalazorn**. Se retiro hace una década, pero el retiro no le quedaba bien. Buscando un nuevo reto, se adueño de una tierra fértil 5 millas al este de [[Conyberry]] y la convirtió en un rancho de ganado y caballos. Más tarde, añadió una granja de cerdos, pollos, jardines de vegetales, campos de maíz, y un huerto de manzanas. Mucho de su dinero proviene de la venta de calaveras de mantequilla: trozos de mantequilla moldeados en forma de calaveras humanoides. Vende sus calaveras de mantequilla principalmente en ciudades al este, aunque algunas llegan a las [[Phandalin#Provisiones de Barthen|Provisiones de Barthen]] en [[Phandalin]]. La mantequilla del [[Alfonse Kalazorn|Gran Al]] se elabora con la leche de petunia, su preciada vaca.
 

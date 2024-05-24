@@ -1,5 +1,10 @@
 #Quest #Ubicación 
 Diseñada para personajes de nivel 4.
+# Anuncio
+>[!info]+ [[Dedos de Montaña]]
+> Las minas de oro "[[Dedos de montaña]]" se encuentra a 15 millas al noreste de [[Phandalin]]. El nuevo capataz, [[Don Juan Raskin]], acaba de viajar desde [[Neverwinter]] a [[Phandalin]] y necesita ser escoltado devuelta a las minas. No hay forma de saber los peligros que aguardan en el camino. Una vez Raskin llegue a su destino sano y salvo, vuelve al [[Phandalin#Ayuntamiento|ayuntamiento]] para recibir la recompensa de 100 gp.
+> 
+> Recompensa: 100gp
 # Descripción General del Lugar
 La mina de oro "Dedos de Montaña", propiedad de un consorcio empresarial en [[Neverwinter]], se ha visto afectada por problemas de productividad recientes. Los propietarios han contratado a un supervisor sensato llamado Don-Jon Raskin para arreglar las cosas. Pero ni Raskin ni los propietarios saben que la mina en problemas ha sido recientemente tomada por una banda de [[Hombres Rata]] que se hacen llamar Bigotes.
 # Objetivos

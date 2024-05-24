@@ -12,16 +12,10 @@
 
 **Velocidad**: 25 pies
 **Bonus de Proficiencia**: +2
-***
 
-| Ability | Score | Mod  |
-| ------- | ----- | ---- |
-| **STR** | 16    | (+3) |
-| **DEX** | 17    | (+3) |
-| **CON** | 11    | (+0) |
-| **INT** | 15    | (+2) |
-| **WIS** | 12    | (+1) |
-| **CHA** | 7     | (-2) |
+|   STR   |   DEX   |   CON   |   INT   |   WIS   |  CHA   |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :----: |
+| 16 (+3) | 17 (+3) | 11 (+0) | 15 (+2) | 12 (+1) | 7 (-2) |
 ***
 ## Saving Throws
 + Sabiduría (+2)
@@ -56,8 +50,19 @@
 **Edad**: 115 años
 **Lenguajes**: Commoner & Halfling
 
-Tartamudo
-Cicatriz en el pecho debido a una apuñalada
+- Cicatriz en el pecho debido a una apuñalada
+- Baja estatura 
+- Cuerpo delgado pero definido (levemente musculoso) y tono de piel verde pantanoso 
+- Pelo bien corto y blanco Barba larga y blanca 
+- Cara con arrugas (ta viejito) 
+#### Vestimenta: 
+- Armadura de cadenas de torso completo 
+- Pantalones cafés (con esa estética medieval) 
+- Zapatos de cuero 
+- Cinturón con bolsitos y funda de espada 
+- Bolso de cuero chico (es como un banano) 
+- En una mano lleva una espada y en la otra un escudo 
+- Insignia blanca en forma de estrella (la lleva puesta en la parte del corazón en la armadura)
 # Relaciones
 ## Backstory
 [[Aurora Rakitich]] (Madre)

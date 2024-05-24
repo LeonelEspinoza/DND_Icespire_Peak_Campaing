@@ -1,5 +1,10 @@
 #Quest 
 {{Balanceo de la Quest e Información Importante}}
+# Anuncio
+>[!info]+ [[{{title}}]]
+> {{Resumen}}
+> 
+> Recompensa: 
 # Descripción General
 
 # Objetivos

@@ -1,6 +1,6 @@
 #Ubicación 
 Propiedad de [[Harbin Wester]], ubicada cerca del ayuntamiento.
-Con pisos de madera tiene una pieza de entrada, una cocina, una pieza de comedor grande con un escritorio en la otra muralla y su pieza con su cama, una mesa de noche y un cofre donde guarda las recompensas y una de las [[Sending Stones]] que se comunica con [[Costa Espada#Neverwinter]].
+Con pisos de madera tiene una pieza de entrada, una cocina, una pieza de comedor grande con un escritorio en la otra muralla y su pieza con su cama, una mesa de noche y un cofre donde guarda las recompensas y una de las sending stones que se comunica con [[Costa Espada#Neverwinter]].
 
 Dentro del cofre encuentran 100 gp que se habría dividido entre las recompensas y otros gastos.
 

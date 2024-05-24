@@ -1,5 +1,10 @@
 #Quest #Completada #Ubicación 
 Balanceada para jugadores de nivel 1, aunque los jugadores de nivel 2 pueden encontrar ciertas cosas un poco retadoras.
+# Anuncio
+>[!info]+ [[Excavación de los Enanos]] 
+> Perpetradores enanos han encontrado antiguas ruinas de enanos en las montañas al sur-oeste, y están trabajando en una excavación arqueológica buscando tesoros y reliquias. Es necesario avisarles de que el dragón blanco se ha llegado. Avísales y vuelve al  [[Phandalin#Ayuntamiento|ayuntamiento]] [[Harbin Wester]] para obtener tu recompensa de 50 gp.
+> 
+> Recompensa: 50gp
 # Descripción general del lugar 
 [[Dazlyn Grayshard]] y [[Norbus Ironrun]] son enanos escudos buscadores y socios comerciales. Mientras buscaban por oro en las montañas al sudoeste de [[Phandalin]], decidieron explorar el cañón cercano y encontraron evidencia en un asentamiento enano antiguo, enterrado por una avalancha. Pasaron bastantes meses limpiando los escombros y recorriendo las ruinas buscando tesoros, pero no han encontrado nada de valor hasta ahora.
 
@@ -65,3 +70,4 @@ Para alcanzar esta habitación, los personajes deben limpiar el camino de los es
 Un hueco en la muralla sur contiene los escombros de una estatua destrozada. Un hueco al norte contiene una estatua de un enano con cuernos, que mira avariciosamente a una gema verde brillante en sus manos. Si la gema es tomada, se convierte en polvo y la estatua explota. Cualquier criatura dentro de 10 pies de la estatua explosiva debe hacer un save de agilidad de DC 15, tomando 22 (4d10) de daño perforador en un save fallido, o la mitad de daño en uno exitoso.
 # Cuando los [[Orcos]] atacan
 [[Orcos]] han llegado al área [[#E1. El cañón]] mientras los personajes terminaban sus negocios con los enanos. El numero de [[Orcos]] es igual al numero de personajes en el grupo, incluyendo acompañantes. Apartados de su territorio por [[Cryovain]], los [[Orcos]] buscan un nuevo lugar para asentarse y pelearan hasta la muerte. 
+

@@ -1,4 +1,7 @@
 #NPC #Aliado #Humano 
+# INFORMACIÓN
+Raza: Humana
+
 Primo de [[Ander Barthen]]
 Nieto de [[Elmar Barthen]]
 

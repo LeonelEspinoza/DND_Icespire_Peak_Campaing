@@ -1,5 +1,27 @@
-#NPC #Enemigo #Halfling
+#NPC #Enemigo #Halfling #Humanoide 
 {Imágen}
+## Halflings Demoniacos
+>*Medium Halfling, Chaotic Evil
+>___
+>- **Armor Class** 
+>- **Hit Points** 
+>- **Speed** 
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|X (+x)|X (+x)|X (+x)|X (+x)|X (+x)|X (+x)|
+>___
+>- **Skills** this +S
+>- **Senses** passive Perception ¿?
+>- **Languages** Halfling, Common, Demoniaco
+>- **Challenge** 
+>- **Proficiency Bonus** +S
+>___
+>\<Here Feat>
+>
+>### Actions
+>Action
+## Feats
 ***
 ## Principales Características
 Los Halflings demoniacos son un pueblo guerrero feroz, con ansias de conquistas que no tienen miedo de hacer pactos con entidades malignas con tal de saciar su sed de sangre. 
@@ -22,7 +44,7 @@ Cuando [[Dio Rakitich]] tenía 30 años de edad, los Halflings Demoniacos arrasa
 
 En la actualidad los Halflings demonios están distribuidos por todo el mundo, tanto en asentamientos pequeños como en ciudades, aunque debido a su naturaleza tan reactiva las grandes ciudades de Halflings demoniacos terminan quebrándose, por norma general se encuentran en agrupaciones/asentamientos medianos o pequeños. 
 
-Recientemente ha llegado un grupo de Halflings demoniacos a las cercanías de [[Neverwinter]], una cantidad de 100 Halflings Demoniacos construyen un pequeño asentamiento para hacer de base de operaciones y poder mantener una guerra con otros pueblos y ciudades cercanas. Uno de los objetivos del asentamiento actualmente es reunir más armas mágicas y encontrar materiales con los cuales forjar armas mágicas dentro de las [[Montañas Metal de Estrella]].
+Recientemente ha llegado un grupo de Halflings demoniacos a las cercanías de [[Neverwinter]], una cantidad de 100 Halflings Demoniacos construyen un pequeño asentamiento para hacer de base de operaciones y poder mantener una guerra con otros pueblos y ciudades cercanas. Uno de los objetivos del asentamiento actualmente es reunir más armas mágicas y encontrar materiales con los cuales forjar armas mágicas dentro de las [[Colinas Metal de Estrella]].
 
 ***
 ## Cultura

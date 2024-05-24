@@ -1,4 +1,6 @@
 #NPC #Aliado #Humano 
+# INFORMACIÓN
+Raza: Humana
 
 Primo de [[Thistle Barthen]]
 Nieto de [[Elmar Barthen]]

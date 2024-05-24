@@ -1,5 +1,10 @@
 #Quest #Completada #Ubicación 
 Esta quest está balanceada para personajes de nivel 3 o menor. Personajes de mayor nivel no tendrán mayor problema aquí, pero podrían necesitar visitar esta ubicación para comprar pociones de curación.
+# Anuncio
+>[!info]+ [[Colina Umbra]]
+> La matrona local (Acolita de [[Chauntea]] llamada [[Adabra Gwynn]]) vive por su cuenta en un molino de piedra, unas millas al sur de [[Phandalin]]. Con el aumento de avistamientos del [[Cryovain|dragón]], ya no es seguro estar solitaria. Es urgente que Adabra vuelva a Phandalin. Una vez ella esté segura, visita el [[Phandalin#Ayuntamiento|ayuntamiento]] [[Harbin Wester]] para reclamar tu recompensa de 25 gp
+> 
+> Recompensa: 25gp
 # Descripción General
 Este lugar obtuvo su nombre después de que dos clanes de enanos se enfrentaran en la cima de la colina. La causa de su resentimiento fue perdida en el tiempo, y sólo quedan los túmulos de los muertos. El molino de piedra en la colina fue construido después, pero aún así tiene más de 100 años. 
 
