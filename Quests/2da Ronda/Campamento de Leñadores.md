@@ -1,4 +1,4 @@
-#Quest #Ubicación 
+#Quest #Ubicación
 Balanceado para nivel 3
 # Anuncio
 >[!info]+ [[Campamento de Leñadores]]
@@ -28,9 +28,9 @@ Los personajes necesitan pasar a buscar las provisiones a las [[Phandalin#Provis
 
 El buey es una bestia confiable. Cada caja llena tiene suficientes provisiones para sustentar a 12 personas por un mes, siempre y cuando las previsiones estén suplementadas con peces y agua fresca del campamento.
 
-Si los personajes le dicen a [[Ander Barthen]] que piensan visitar [[Pabellón de caza de Halcón]] en el camino, este sugiere que compren una botella de vino (10gp) y se la entreguen como regalo.
+Si los personajes le dicen a [[Ander Barthen]] que piensan visitar [[Pabellón de caza de Halcón (Incompleta)]] en el camino, este sugiere que compren una botella de vino (10gp) y se la entreguen como regalo.
 # Viaje al campamento
-Los personajes pueden viajar 24 millas por día, y el campamento de los leñadores está a unas 50 millas al norte de [[Phandalin]]. Los personajes necesitaran tomar descansos largos cerca de la mitad del camino en su viaje. Pueden elegir hacer un campamento en el bosque o girar hacia el este y pasar su descanso en el [[Pabellón de caza de Halcón]].
+Los personajes pueden viajar 24 millas por día, y el campamento de los leñadores está a unas 50 millas al norte de [[Phandalin]]. Los personajes necesitaran tomar descansos largos cerca de la mitad del camino en su viaje. Pueden elegir hacer un campamento en el bosque o girar hacia el este y pasar su descanso en el [[Pabellón de caza de Halcón (Incompleta)]].
 
 Los jugadores con más alto modificador de sabiduría (supervivencia) son los más cualificados para navegar por los [[Bosques de Neverwinter]]. Usa el mapa
 [[Costa_Espada.jpg]] para mantener el progreso a través del bosque. Cuando sea que los personajes entren a un nuevo hexágono en el mapa, haz que el navegante tire un DC 10 check de sabiduría (supervivencia). Si el check es exitoso, la party se mantiene en curso. Si el check falla, el grupo vuelve a su curso después de perder 1d4 millas de movimiento en una dirección incorrecta.
@@ -40,7 +40,7 @@ Poco después de entrar al bosque, los personajes tienen un encuentro que no es 
 > [!Info] Parafrasear
 > A unos 6 pies delante suyo, hay un jabalí salvaje en un pequeño claro. El jabalí los mira fijamente.
 # Llegada
-Si los personajes siguen el río desde el [[Pabellón de caza de Halcón]], llegan desde el este. Si vienen en linea recta desde [[Phandalin]], se acercan por el sur. Cuando llegan, lee el siguiente texto en voz alta:
+Si los personajes siguen el río desde el [[Pabellón de caza de Halcón (Incompleta)]], llegan desde el este. Si vienen en linea recta desde [[Phandalin]], se acercan por el sur. Cuando llegan, lee el siguiente texto en voz alta:
 
 > [!Info] Parafrasear
 > El campamento maderero se extiende a lo largo de la orilla sur del río, donde hay una docena de tiendas dispuestas en una playa de arena. Cerca de un muelle hay una cabaña con troncos apilados bajo un toldo. Las cabañas más antiguas cercanas han sido derribadas para dejar sólo chimeneas y cimientos de piedra. Un silencio sombrío se cierne sobre el campamento y no se ve a nadie alrededor.

@@ -7,16 +7,16 @@ Las quests van apareciendo de a 3 a medida que los jugadores completan 2 del gru
 - [ ] [[Campamento de Leñadores]]
 - [x] [[Dedos de Montaña]]
 - [ ] [[Axeholm]]
-- [ ] [[Túmulto de Dragón]]
+- [ ] [[Tumulto de Dragón]]
 - [ ] [[Mansión del Bosque]]
 ## Side Quests:
 - [x] [[Santuario de Savras]]
-- [ ] [[Torre de las Tormentas]]
-- [ ] [[Pabellón de caza de Halcón]]
-- [ ] [[Circulo del Trueno]]
-- [ ] [[Bastión Aguja de Hielo]]
+- [ ] [[Torre de las Tormentas (Incompleta)]]
+- [ ] [[Pabellón de caza de Halcón (Incompleta)]]
+- [ ] [[Circulo del Trueno (Incompleta)]]
+- [ ] [[Bastión Aguja de Hielo (Incompleta)]]
 ## Lore Quests
-- [ ] [[Campamento de Halflings Demoniacos]]
+- [ ] [[Campamento Halflings (Incompleta)]]
 
 # Primera Ronda
 
@@ -24,3 +24,4 @@ Las quests van apareciendo de a 3 a medida que los jugadores completan 2 del gru
 # Segunda Ronda
 ![[Rancho Butterskull#Anuncio]] ![[Campamento de Leñadores#Anuncio]] ![[Dedos de Montaña#Anuncio]]
 # Tercera Ronda
+![[Axeholm#Anuncio]]

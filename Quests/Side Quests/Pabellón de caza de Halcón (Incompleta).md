@@ -1,7 +1,4 @@
-#Ubicación #Quest 
-Actual hogar de [[Cryovain]]
-Un fuerte helado en las puntas de las montañas espada.
-
+#SideQuest #Ubicación 
 {{Balanceo de la Quest e Información Importante}}
 # Descripción General
 
@@ -13,4 +10,4 @@ Un fuerte helado en las puntas de las montañas espada.
 ## X2. 
 ## X3. 
 ## X4. 
-## X5. 
+## X5.

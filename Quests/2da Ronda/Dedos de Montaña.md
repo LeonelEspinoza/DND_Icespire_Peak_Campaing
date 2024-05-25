@@ -1,8 +1,8 @@
-#Quest #Ubicación 
+#Quest #Ubicación #Completada 
 Diseñada para personajes de nivel 4.
 # Anuncio
 >[!info]+ [[Dedos de Montaña]]
-> Las minas de oro "[[Dedos de montaña]]" se encuentra a 15 millas al noreste de [[Phandalin]]. El nuevo capataz, [[Don Juan Raskin]], acaba de viajar desde [[Neverwinter]] a [[Phandalin]] y necesita ser escoltado devuelta a las minas. No hay forma de saber los peligros que aguardan en el camino. Una vez Raskin llegue a su destino sano y salvo, vuelve al [[Phandalin#Ayuntamiento|ayuntamiento]] para recibir la recompensa de 100 gp.
+> Las minas de oro "[[Dedos de Montaña]]" se encuentra a 15 millas al noreste de [[Phandalin]]. El nuevo capataz, [[Don Juan Raskin]], acaba de viajar desde [[Neverwinter]] a [[Phandalin]] y necesita ser escoltado devuelta a las minas. No hay forma de saber los peligros que aguardan en el camino. Una vez Raskin llegue a su destino sano y salvo, vuelve al [[Phandalin#Ayuntamiento|ayuntamiento]] para recibir la recompensa de 100 gp.
 > 
 > Recompensa: 100gp
 # Descripción General del Lugar
@@ -28,9 +28,9 @@ Cuando el grupo se acerca a 5 millas de la mina, lee el siguiente texto en voz a
 > [!DANGER] Parafrasear
 > A su derecha se eleva una cresta baja, más allá de la cual de ven las [[Montañas Espada]] raspando el cielo gris. Pero más cerca, algo está esparcido sobre el suelo rocoso a treinta metros de distancia.
 > 
-> "Bueno, ¿no es algo extraordinario?", dice [[Don Juan Raskin]], señalando lo que parecen ser seis [[orcos]] muertos.
+> "Bueno, ¿no es algo extraordinario?", dice [[Don Juan Raskin]], señalando lo que parecen ser seis [[Orcos]] muertos.
 
-Los [[Orcos]] fueron muertos por [[Cryovain]]. Están vestidos con armaduras de piel y sus grandes hachas y jabalinas están esparcidas por el suelo a su alrededor. Cualquier personaje que examine los cadáveres y tenga éxito en una prueba de Sabiduría (Medicina) DC 12 puede determinar que el frío extremo mató a los [[orcos]] hace unos tres días. Si los jugadores no pueden averiguar lo que pasó, Don-Jon dice: "Parece que un dragón blanco nos salvó de algunos problemas".
+Los [[Orcos]] fueron muertos por [[Cryovain]]. Están vestidos con armaduras de piel y sus grandes hachas y jabalinas están esparcidas por el suelo a su alrededor. Cualquier personaje que examine los cadáveres y tenga éxito en una prueba de Sabiduría (Medicina) DC 12 puede determinar que el frío extremo mató a los [[Orcos]] hace unos tres días. Si los jugadores no pueden averiguar lo que pasó, Don-Jon dice: "Parece que un dragón blanco nos salvó de algunos problemas".
 # Llegada
 Los personajes llegan a la entrada oeste de la mina, la cual puedes describir como:
 > [!INFO] Entrada Oeste

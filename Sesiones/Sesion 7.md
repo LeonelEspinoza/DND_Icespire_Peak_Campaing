@@ -63,7 +63,7 @@ El 10 de Mazho, Juan Cornelio termina de construir su arma. y Thalorien Magune c
 ## 10-Mazho-218, 2da Era
 Llega un peon del [[Rancho Butterskull]] anunciando el ataque de [[Orcos]]. Los jugadores lo intentan calmar a él y a su caballo, que vienen heridos y cansados después de un viaje de 2 días. 
 
-Una vez entienden la situación, se alistan para partir hacia el [[rancho butterskull]] junto a [[Facktoré]] y uno de los guardias entrenados por Dio llamado [[Enrico Peroz]].
+Una vez entienden la situación, se alistan para partir hacia el [[Rancho Butterskull]] junto a [[Facktoré]] y uno de los guardias entrenados por Dio llamado [[Enrico Peroz]].
 ## 11-Mazho-218, 2da Era
 Después de la partida del grupo, el [[Cryovain|dragón blanco]] ataca a [[Phandalin]], 4 personas mueren defendiendo el pueblo, rapta a 2 victimas y destruye 2 casas. Frente a la urgencia, usan el plan de contingencia pensado durante el descanso del grupo: hombres y mujeres de mediana edad defienden con las armas que puedan encontrar las amenazas que se presenten. ^e3f94f
 
@@ -77,7 +77,7 @@ Al llegar al rancho y entrar a la cocina de la mansion, se enfrentan a 4 [[Orcos
 
 Una vez explorado todo el lugar, lo abandonan para dirigirse devuelta a [[Phandalin]] junto a [[Alfonse Kalazorn]], los caballos y a [[Petunia]].
 ## 13-Mazho-218, 2da Era
-~~El [[Cryovain|dragón]] ataca el [[campamento de leñadores]]~~
+~~El [[Cryovain|dragón]] ataca el [[Campamento de Leñadores]]~~
 El grupo continua su viaje de vuelta a [[Phandalin]] junto con [[Alfonse Kalazorn]].
 ## 14-Mazho-218, 2da Era
 Llegan a [[Phandalin]] enterándose del [[#^e3f94f|ataque del dragón]], utilizan las siguientes 2 dekhanas en reconstruir el pueblo y construir defensas antiaéreas como ballestas de alto calibre.
@@ -86,5 +86,5 @@ Terminaron de reconstruir la ciudad y construir 3 ballestas con 5 bases distribu
 ## 5-Alturiak-218, 2da Era
 Comienzan su día investigando el molino en la [[Colina Umbra]], donde vivía [[Adabra Gwynn]] pero que actualmente se encuentra desaparecida con el molino medio destruido. No encuentran pistas de su paradero, pero rebuscando en las cosas que dejó encuentran un par de pociones de curación extra.
 
-Una vez devuelta en [[Phandalin]] parten junto a [[Don Juan Raskin]] a los [[dedos de montaña]] a caballo, llegando un poco después de las 14 de la tarde.
+Una vez devuelta en [[Phandalin]] parten junto a [[Don Juan Raskin]] a los [[Dedos de Montaña]] a caballo, llegando un poco después de las 14 de la tarde.
 

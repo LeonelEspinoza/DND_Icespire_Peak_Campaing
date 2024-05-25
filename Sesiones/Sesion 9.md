@@ -5,6 +5,7 @@
 ## B. 
 ***
 # Preparación
+Para esta sesión, además de los jugadores de siempre tendremos 2 invitadas extras que traerán su propio personaje.
 #### Feedback a tener en cuenta.
 - Motivar la interacción de otros jugadores.
 - Incluir eventos aleatorios o inesperados.
@@ -12,8 +13,10 @@
 - Recordar Safekeys.
 - Implementar un timer durante las peleas.
 - Aumentar la dificultad / Que realmente haya riesgos.
-- Escenarios explícitos dejarlos implícitos.
+- Escenarios explícitos dejarlos implícitos. (Tortura, Sexuales)
 - Agregar a un clérigo sidekick.
+#### Quests disponibles:
+![[Quests#Quests]]![[Quests#Side Quests]]![[Quests#Lore Quests]]
 
 ***
 # Resumen [[Sesion 8|Sesión Anterior]]
