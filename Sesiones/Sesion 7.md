@@ -71,11 +71,11 @@ Después de la partida del grupo, el [[Cryovain|dragón blanco]] ataca a [[Phand
 ## 12-Mazho-218, 2da Era
 Camino al rancho, se detienen en [[Conyberry]] a investigar los alrededores encontrando huellas de [[Hombres Rata]] dirigiéndose a [[Phandalin]] y a 3 caballos marcados con las letras BAK. Es aquí también donde se plantean pasar al [[Santuario de Savras]], pero deciden dirigirse directamente al rancho.
 
-Un poco más cerca del [[Rancho Butterskull]], se encuentran con la vaca de [[Alfonse Kalazorn]], [[Petunia]], y al recibir un buen trato sigue al grupo.
+Un poco más cerca del [[Rancho Butterskull]], se encuentran con la vaca de [[Alfonse Kalazorn]], Petunia, y al recibir un buen trato sigue al grupo.
 
 Al llegar al rancho y entrar a la cocina de la mansion, se enfrentan a 4 [[Orcos]], dejando a [[Dio Rakitich]] inconsciente, pero saliendo victoriosos del encuentro. Debido al ruido provocando por el encuentro, llaman la atención de los otros 5 [[Orcos]] en la mansion. En preparación para el enfrentamiento, el grupo sale de la mansion, organizándose para emboscarlos y exterminarlos por la puerta principal. El plan es exitoso y efectivamente logran exterminar a todos los [[Orcos]] dentro del rancho. Una vez limpio, exploran el lugar, descubriendo el tesoro dentro de la oficina y la habitación de [[Alfonse Kalazorn]]. Al bajar al sótano de la mansion se encuentran con [[Alfonse Kalazorn]] amarrado y amordazado, lo sueltan y lo convencen de abandonar el rancho en busca de un lugar más seguro.
 
-Una vez explorado todo el lugar, lo abandonan para dirigirse devuelta a [[Phandalin]] junto a [[Alfonse Kalazorn]], los caballos y a [[Petunia]].
+Una vez explorado todo el lugar, lo abandonan para dirigirse devuelta a [[Phandalin]] junto a [[Alfonse Kalazorn]], los caballos y a Petunia.
 ## 13-Mazho-218, 2da Era
 ~~El [[Cryovain|dragón]] ataca el [[Campamento de Leñadores]]~~
 El grupo continua su viaje de vuelta a [[Phandalin]] junto con [[Alfonse Kalazorn]].

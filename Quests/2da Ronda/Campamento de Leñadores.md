@@ -1,4 +1,4 @@
-#Quest #Ubicación
+#Quest #Ubicación #Completada 
 Balanceado para nivel 3
 # Anuncio
 >[!info]+ [[Campamento de Leñadores]]
@@ -40,20 +40,20 @@ Poco después de entrar al bosque, los personajes tienen un encuentro que no es 
 > [!Info] Parafrasear
 > A unos 6 pies delante suyo, hay un jabalí salvaje en un pequeño claro. El jabalí los mira fijamente.
 # Llegada
-Si los personajes siguen el río desde el [[Pabellón de caza de Halcón (Incompleta)]], llegan desde el este. Si vienen en linea recta desde [[Phandalin]], se acercan por el sur. Cuando llegan, lee el siguiente texto en voz alta:
+Si los personajes siguen el río desde el [[Pabellón de caza de Halcón (Incompleta)]], llegan desde el este. Si vienen en línea recta desde [[Phandalin]], se acercan por el sur. Cuando llegan, lee el siguiente texto en voz alta:
 
 > [!Info] Parafrasear
 > El campamento maderero se extiende a lo largo de la orilla sur del río, donde hay una docena de tiendas dispuestas en una playa de arena. Cerca de un muelle hay una cabaña con troncos apilados bajo un toldo. Las cabañas más antiguas cercanas han sido derribadas para dejar sólo chimeneas y cimientos de piedra. Un silencio sombrío se cierne sobre el campamento y no se ve a nadie alrededor.
 
 Los [[Ankhegs]] se esconden bajo tierra y dependen de su sentido de temblor para detectar a sus presas. Surgen del suelo en los cuadrados marcados como "erupción de ankheg" en el mapa cuando se cumplen ciertas condiciones, como se describe en las áreas L3 y L6. Si estás ejecutando este escenario para un personaje, solo se podrá encontrar un [[Ankhegs|Ankheg]] a la vez.
 # Ubicaciones
-![[DM_Loggers_Camp.webp]]
+![[DM_Campamento_de_Leñadores.webp]]
 ## L1. Cabina en las rocas
 Estas cabañas han sido derribadas en su mayor parte, pero sus ruinas se encuentran sobre una escarpadura de roca de 10 pies de alto que los [[Ankhegs]] no pueden atravesar.
 ## L2. Vieja cabina y chimenea
-Lo único que queda de esta cabaña es una chimenea en ruinas cuya chimenea se ha derrumbado en su mayor parte, y unos cimientos de piedra que los [[Ankhegs]] no pueden atravesar.
+Lo único que queda de esta cabaña es una chimenea en ruinas cuya chimenea se ha derrumbado en su mayor parte, y unos cimientos de piedra que los [[Ankhegs]] no pueden atravesar...
 #### Tótem.
-Un personaje que busca en la chimenea encuentra un tótem enterrado entre sus escombros: trece diminutas figuras de palos andróginos bañadas en sangre de cerdo, inscritas con pequeños símbolos de rayos y atadas en un manojo con pelo. Un personaje que supera una prueba de Inteligencia (Religión) CD 15 puede discernir que el propósito del tótem es traer mala suerte a todos los que residen cerca de él. Destruir el tótem hace que los [[Ankhegs]] que aún no hayan atacado pierdan interés en el campamento y se escondan.
+Un personaje que busca en la chimenea encuentra un tótem enterrado entre sus escombros: trece diminutas figuras de palos andróginos bañadas en sangre de cerdo, inscritas con pequeños símbolos de rayos y atadas en un manojo con pelo. Un personaje que supera una prueba de Inteligencia (Religión) DC 15 puede discernir que el propósito del tótem es traer mala suerte a todos los que residen cerca de él. Destruir el tótem hace que los [[Ankhegs]] que aún no hayan atacado pierdan interés en el campamento y se escondan.
 ## L3. Oficina y bodega de herramientas
 Esta cabaña tiene suelo de madera y está dividida en dos estancias. La sala más grande está repleta de equipos de tala (sierras, arneses de cuero para trepar a los árboles, etc.). Un [[Ankhegs]] está escondido debajo del suelo. La primera vez que un personaje cruza la habitación, el [[Ankhegs]] irrumpe a través de las tablas del suelo en el cuadrado marcado como "erupción de [[Ankhegs]]" y ataca.
 

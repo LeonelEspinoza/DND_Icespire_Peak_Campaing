@@ -1,4 +1,4 @@
-#NPC #Enemigo #Hombre_Rata #Muerto 
+#NPC #Enemigo #Hombre-Rata #Muerto 
 # INFORMACIÓN
 Raza: Humana
 

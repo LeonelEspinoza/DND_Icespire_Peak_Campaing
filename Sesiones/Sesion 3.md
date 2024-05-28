@@ -51,4 +51,4 @@ Una vez [[Juan Cornelio]] termina de realizar su parte del trato, junto a [[Thal
 
 Mientras conversan con [[Halia Thornton]] haciendo intercambios, [[Thalorien Magune]] la convence de lo mal alcalde que es [[Harbin Wester]] para [[Phandalin]]. Seguido de eso, van a la plaza, atrayendo a gente con cantos y actuaciones de [[Juan Cornelio]] difamando a [[Harbin Wester]]. [[Thalorien Magune]] logra engañar a [[Harbin Wester]] a abrir su puerta y usar el hechizo de encanto en él. Con [[Harbin Wester]] encantado, le dicta ir a la plaza a quedar en ridículo. Después de muchos sucesos difamando y atacando a [[Harbin Wester]], [[Thalorien Magune]] consigue tener el favor del pueblo (exceptuando a [[Linene Graywind]]) , exiliando a [[Harbin Wester]] de [[Phandalin]] y aclamando a [[Thalorien Magune]] como nuevo dirigente del lugar. Para terminar el día, [[Thalorien Magune]] gasta en rondas de cervezas para todos los habitantes de [[Phandalin]]. 
 
-[[Harbin Wester]] termina encaminado a [[Triboar]], saliendo del radar de los jugadores.
+[[Harbin Wester]] termina encaminado a Triboar, saliendo del radar de los jugadores.

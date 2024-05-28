@@ -21,7 +21,7 @@ El guardia avistado encima de la torre noreste ([[#S6. Torre noreste]]) es un [[
 | 4th–5th | 4 orcs per character plus 3 ogres in the courtyard ([area S2](https://5e.tools/adventure.html#dip,11,s2.%20courtyard,0)), 1 orc atop the northeast tower ([area S6](https://5e.tools/adventure.html#dip,11,s6.%20northeast%20tower,0)) |
 
 # Ubicaciones
-![[DM_Shrine_of_Savras.webp]]
+![[DM_Templo_de_Savras.webp]]
 Los recuadros con escombros son terreno difícil.
 ## S1. Portón
 La entrada es de 20 pies de ato, y sus puertas exteriores han sido hechas añicos. Un rastrillo oxidado bloquea la salida sur, pero es evitado por un agujero lleno de escombros en la esquina suroeste de la puerta de entrada. El cabrestante para levantar el rastrillo ha sido destruido, pero el rastrillo se puede levantar manualmente con una prueba exitosa de fuerza (Atletismo) CD 25 si se desea.

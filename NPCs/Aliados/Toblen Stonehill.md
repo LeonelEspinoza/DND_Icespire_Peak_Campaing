@@ -4,7 +4,7 @@ Raza: Humano
 
 Tabernero de la posada [[Phandalin#Posada "Colina de Piedra"|Colina de Piedra]].
 
-Él es nativo del pueblo de [[Triboar]] en el este. Vino a Phandalin en busca de riquezas en las minas pero se dio cuenta de que tenia mucho más conocimiento sobre atender una posada en comparación a minar.
+Él es nativo del pueblo de Tiboar en el este. Vino a Phandalin en busca de riquezas en las minas pero se dio cuenta de que tenia mucho más conocimiento sobre atender una posada en comparación a minar.
 
 Tiene un trato comercial con [[Thalorien Magune]] en relación a un sauna agregado a su taberna.
 

@@ -1,4 +1,4 @@
-#Ubicación #Región
+#Ubicación #Region
 ![[DM_Costa_Espada.jpg|400]]
 ***
 Este es un lugar de aventura, donde las almas valientes se adentran en fuertes antiguos y exploran ruinas de los reinos olvidados hace mucho. En medio de una naturaleza sin ley de picos escarpados y nevados, bosques alpinos, vientos amargos y monstruos errantes, la costa alberga bastiones de civilización tan grandes como la ciudad de [[#Neverwinter]], a la sombra del volcán humeante conocido como [[Monte Hotenow]].
@@ -10,7 +10,7 @@ Más Información en la quest [[Santuario de Savras]].
 # Crags
 Estas rocosas, erosionadas colinas están dotadas con unas viejas minas que han sido infestadas de monstruos. 
 # Camino Alto
-Esta carretera abraza la costa, conectando [[#Neverwinter]] a las ciudades costeras de Luskan al norte y Waterdeep al sur. Por años, El largo del camino sur de [[#Neverwinter]] cayo en desuso debido a frecuentes ataques de monstruos. Últimamente, se han hecho esfuerzos para mantener el camino seguro, con patrullas ligeras y guardias montados a caballo moviéndose entre [[#Neverwinter]] y [[#Leilon]].
+Esta carretera abraza la costa, conectando [[#Neverwinter]] a las ciudades costeras de Luskan al norte y Waterdeep al sur. Por años, El largo del camino sur de [[#Neverwinter]] cayo en desuso debido a frecuentes ataques de monstruos. Últimamente, se han hecho esfuerzos para mantener el camino seguro, con patrullas ligeras y guardias montados a caballo moviéndose entre [[#Neverwinter]] y [[#Leilon|Leilon.]]
 # Leilon
 Este pequeño pueblo junto al [[#Camino Alto]] esta en medio de una reconstrucción después de haber sido abandonado por años. Sus habitantes vienen de [[#Neverwinter]] y están bajo el servicio pagado del lord protector de la ciudad, quien los ha encargado de convertir Leilon en un asentamiento fortificado que pueda guardar de amenazas de [[#Mero de Hombres Muertos]].
 # Mero de Hombres Muertos

@@ -14,7 +14,7 @@ Nivel: 1
 | **INT** | 15    | (+2) |
 | **WIS** | 10    | (+0) |
 | **CHA** | 13    | (+1) |
-Bonus de Proficiencia: +2
+Bonus de Proficiency: +2
 Armor Class: 10 (13 con [Mage Armor](https://5e.tools/spells.html#mage%20armor_phb))
 Hit Points: 4 (4)
 Altura: 96cm

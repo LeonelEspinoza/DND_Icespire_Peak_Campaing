@@ -1,3 +1,4 @@
+#Aliado #Humanoide #StatBlock
 ## Soldados Defensores de Phandalin
 >*Medium Humanoid (Any Race), any alignment*
 >___
