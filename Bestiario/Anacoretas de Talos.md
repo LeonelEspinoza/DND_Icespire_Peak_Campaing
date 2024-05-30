@@ -1,12 +1,12 @@
 ---
 statblock: true
-name: Anchorite of Talos
-source: Dragon of Icespire Peak
-size: Medium
-type: humanoid
-subtype: (Half-Orc, Shapechanger)
-alignment: Neutral Evil
-ac: 13
+name: "Anchorite of Talos"
+source: "Dragon of Icespire Peak"
+size: "Medium"
+type: "humanoid"
+subtype: "(Half-Orc, Shapechanger)"
+alignment: "Neutral Evil"
+ac: "13 ([hide armor](https://5e.tools/items.html#hide%20armor_phb))"
 hp: 58
 hit_dice: 9d8 + 18
 speed: 30 ft.
@@ -25,7 +25,7 @@ damage_vulnerabilities: ""
 damage_resistances: ""
 damage_immunities: ""
 condition_immunities: ""
-senses: _darkvision_ 60 ft., passive Perception 12
+senses: "_darkvision_ 60 ft., passive Perception 12"
 cr: 3
 bestiary: true
 traits:
@@ -35,8 +35,8 @@ traits:
   - name: Innate Spellcasting.
     desc: |-
       The anchorite's innate spellcasting ability is Wisdom (spell save DC 12). It can innately cast the following spells, requiring no material components:
-      3/day: thunderwave (`dice: 2d8` damage)
-      1/day each: augury, bless, lightning bolt (`dice: 8d6` damage), revivify
+      3/day:[thunderwave](https://5e.tools/spells.html#thunderwave_phb) (`dice: 2d8` damage)
+      1/day each: [augury](https://5e.tools/spells.html#augury_phb), [bless](https://5e.tools/spells.html#bless_phb), [lightning bolt](https://5e.tools/spells.html#lightning%20bolt_phb) (`dice:8d6` damage), [revivify](https://5e.tools/spells.html#revivify_phb)
     attack_bonus: 0
 languages: Common, Orc
 actions:

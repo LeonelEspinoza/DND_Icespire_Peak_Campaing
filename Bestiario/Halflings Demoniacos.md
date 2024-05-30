@@ -1,26 +1,187 @@
+---
+
+---
 #Enemigo #Halfling #Humanoide #StatBlock
-{Imágen}
-## Halflings Demoniacos
->*Medium Halfling, Chaotic Evil
->___
->- **Armor Class** 
->- **Hit Points** 
->- **Speed** 
->___
->|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|X (+x)|X (+x)|X (+x)|X (+x)|X (+x)|X (+x)|
->___
->- **Skills** this +S
->- **Senses** passive Perception ¿?
->- **Languages** Halfling, Common, Demoniaco
->- **Challenge** 
->- **Proficiency Bonus** +S
->___
->\<Here Feat>
->
->### Actions
->Action
+{Imagen}
+## Stat blocks
+### Base
+```statblock
+statblock: true
+name: "Halfling Demoniaco"
+source: Homebrew
+size: small
+type: humanoid
+subtype: Halfling (Stout)
+alignment: Chaotic Evil
+ac: 15
+hp: 23
+hit_dice: 5d6 + 5
+speed: 30 ft.
+modifier: +2
+stats:
+  - 14
+  - 15
+  - 13
+  - 10
+  - 10
+  - 8
+skillsaves:
+  - Arcana: 2
+  - Acrobatics: 5
+  - Intimidation: 1
+damage_vulnerabilities: radiant
+damage_resistances: necrotic
+damage_immunities: ""
+condition_immunities: ""
+senses: passive Perception 10
+cr: 1/2
+bestiary: true
+traits:
+  - name: Lucky
+    desc: When rolling a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
+    attack_bonus: 0
+  - name: Brave.
+    desc: Have advantage on saving throws against being [frightened](https://5e.tools/conditionsdiseases.html#frightened_phb).
+    attack_bonus: 0
+  - name: Halfling Nimbleness.
+    desc: Can move through the space of any creature that is of a size larger than themselves.
+  - name: Pack Tactics.
+    desc: The halfling has advantage on an attack roll against a creature if at least one of the halfling's allies is within 5 feet of the creature and the ally isn't [incapacitated](https://5e.tools/conditionsdiseases.html#incapacitated_phb).
+languages: Common, Halfling, Abyssal
+actions:
+  - name: Battleaxe (Two Hands)
+    desc: _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (1d10 + 2) slashing damage.
+    attack bonus: 4
+    hit bonus: 2
+creature: "Halfling Demoniaco"
+```
+### Guardia
+```statblock
+statblock: true
+name: "Guardia Halfling Demoniaco"
+source: Homebrew
+size: small
+type: humanoid
+subtype: Halfling (Stout)
+alignment: Chaotic Evil
+ac: 17
+hp: 33
+hit_dice: 6d6 + 12
+speed: 25 ft.
+modifier: +1
+stats:
+  - 18
+  - 12
+  - 14
+  - 10
+  - 10
+  - 8
+skillsaves:
+  - Arcana: 2
+  - Athletics: 6
+  - Intimidation: 1
+damage_vulnerabilities: radiant
+damage_resistances: necrotic
+damage_immunities: ""
+condition_immunities: ""
+senses: passive Perception 10
+cr: 1
+bestiary: true
+traits:
+  - name: Lucky
+    desc: When rolling a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
+    attack_bonus: 0
+  - name: Brave.
+    desc: Have advantage on saving throws against being [frightened](https://5e.tools/conditionsdiseases.html#frightened_phb).
+    attack_bonus: 0
+  - name: Halfling Nimbleness.
+    desc: Can move through the space of any creature that is of a size larger than themselves.
+  - name: Pack Tactics.
+    desc: The halfling has advantage on an attack roll against a creature if at least one of the halfling's allies is within 5 feet of the creature and the ally isn't [incapacitated](https://5e.tools/conditionsdiseases.html#incapacitated_phb).
+languages: Common, Halfling, Abyssal
+actions:
+  - name: Multiattack.
+    desc: The Halfling makes two Battleaxe attacks.
+  - name: Battleaxe (One Hand)
+    desc: _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 4) slashing damage.
+    attack bonus: +6 
+    hit bonus: +4
+  - name: Battleaxe (Two Hands)
+    desc: _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 8 (1d10 + 4) slashing damage.
+    attack bonus: +6 
+    hit bonus: +4
+creature: "Guardia Halfling Demoniaco"
+```
+### Explorador
+```statblock
+statblock: true
+name: "Explorador Halfling Demoniaco"
+source: Homebrew
+size: small
+type: humanoid
+subtype: Halfling (Stout)
+alignment: Chaotic Evil
+ac: 15
+hp: 27
+hit_dice: 6d6 + 6
+speed: 30 ft.
+modifier: +4
+stats:
+  - 13
+  - 18
+  - 12
+  - 10
+  - 11
+  - 8
+skillsaves:
+  - Arcana: 2
+  - Acrobatics: 5
+  - Intimidation: 1
+damage_vulnerabilities: radiant
+damage_resistances: necrotic
+damage_immunities: ""
+condition_immunities: ""
+senses: passive Perception 10
+cr: 1
+bestiary: true
+traits:
+  - name: Lucky
+    desc: When rolling a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
+    attack_bonus: 0
+  - name: Brave.
+    desc: Have advantage on saving throws against being [frightened](https://5e.tools/conditionsdiseases.html#frightened_phb).
+    attack_bonus: 0
+  - name: Halfling Nimbleness.
+    desc: Can move through the space of any creature that is of a size larger than themselves.
+  - name: Agile.
+    desc: Can Disengage as a bonus action and Speed +5ft.
+  - name: Pack Tactics.
+    desc: The halfling has advantage on an attack roll against a creature if at least one of the halfling's allies is within 5 feet of the creature and the ally isn't [incapacitated](https://5e.tools/conditionsdiseases.html#incapacitated_phb).
+languages: Common, Halfling, Abyssal
+actions:
+  - name: Shortsword/Scimitar.
+    desc: _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 7 (1d6 + 4) piercing/slashing damage.
+    attack bonus: 6
+    hit bonus: 4
+  - name: Dagger.
+    desc: _Melee or Ranged Weapon Attack:_ +6 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 6 (1d4 + 4) piercing damage.
+    attack bonus: 6
+    hit bonus: 4
+bonus_actions:
+  - name: Shortsword/Scimitar.
+    desc: _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 3 (1d6) piercing/slashing damage.
+    attack bonus: 6
+    hit bonus: 0
+  - name: Dagger.
+    desc: _Melee or Ranged Weapon Attack:_ +6 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 2 (1d4) piercing damage.
+    attack bonus: 5
+    hit bonus: 0
+  - name: Disengage.
+    desc: Agile feat.
+    attack bonus: 0
+    hit bonus: 0
+creature: "Explorador Halfling Demoniaco"
+```
 ## Feats
 ***
 ## Principales Características
