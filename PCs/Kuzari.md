@@ -25,9 +25,9 @@ modifier: 5
 **Velocidad:** 
 **Proficiency Bonus:** +2
 
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| X(+x) | X(+x) | X(+x) | X(+x) | X(+x) | X(+x) |
+|  STR  |  DEX   |  CON  |  INT  |  WIS  |  CHA  |
+| :---: | :----: | :---: | :---: | :---: | :---: |
+| X(+x) | 20(+5) | X(+x) | X(+x) | X(+x) | X(+x) |
 ***
 ## Saving Throws
 - {{saving throw 1}}
@@ -67,7 +67,9 @@ modifier: 5
 ## Backstory
 - {{Bonds en su Backstory}}
 ## Campaña
-- {{Bonds en la Campaña}}
+- Se unió a los [[Soldados Defensores de Phandalin]] antes de asediar la mina [[Dedos de Montaña]].
+- Celebrando la victoria contra los [[Hombres Rata]], conoce a [[Dio Rakitich]], [[Thalorien Magune]] y a [[Juan Cornelio]] de forma más cercana.
+- Conoce a [[Crysta Lita]] poco después y junto a todo el grupo se encaminan hacia el [[Campamento de Leñadores]]. 
 # Historia:
 {{Historia}}
 # Pertenencias

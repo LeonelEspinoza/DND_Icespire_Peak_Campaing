@@ -5,7 +5,7 @@ level: 4
 modifier: 2
 ---
 #PC #Gnomo #Wizard
-# Jugador: Florencia
+# Jugadora: Florencia
 # Stats
 **Raza**: [Gnomo](https://5e.tools/races.html#gnome%20(forest)_phb)
 **Clase**: [Mago / Wizard](https://5e.tools/classes.html#wizard_phb)
@@ -30,7 +30,8 @@ modifier: 2
 | X(+x) | X(+x) | X(+x) | X(+x) | X(+x) | X(+x) |
 ***
 ## Saving Throws
-- {{saving throw 1}}
+- INT: 
+- WIS:
 ## **Skills**:
 - {{Skill 1}}
 ## Feats:
@@ -45,7 +46,11 @@ modifier: 2
 ### Armaduras:
 - 
 ### Armas:
-- 
+- [daggers](https://5e.tools/items.html#dagger_phb)
+- [darts](https://5e.tools/items.html#dart_phb)
+- [slings](https://5e.tools/items.html#sling_phb)
+- [quarterstaffs](https://5e.tools/items.html#quarterstaff_phb)
+- [light crossbows](https://5e.tools/items.html#light%20crossbow_phb)
 ### Herramientas:
 - 
 # Descripción
@@ -59,7 +64,8 @@ modifier: 2
 ## Backstory
 - {{Bonds en su Backstory}}
 ## Campaña
-- {{Bonds en la Campaña}}
+- [[Facktoré]] fue la primera a quien conoció apenas llegó a [[Phandalin]]
+- Viajó junto a [[Dio Rakitich]], [[Thalorien Magune]], [[Juan Cornelio]] y [[Kuzari]] hacia el [[Campamento de Leñadores]]
 # Historia:
 {{Historia}}
 # Pertenencias
