@@ -41,14 +41,22 @@ actions:
 creature: Bulezau
 ---
 
-#{{facción}} #{{Race}} #StatBlock 
-{{IMAGEN}}
+#Enemigo  #Fiend #StatBlock 
+![[Bulezau.webp|300]]
 ## Statblock
 ```statblock
 creature: Bulezau
 ```
 ## Feats
-{{Extra Feats}}
+*Some ask why the bulezau, for all its rage and violence, has the head of a goat. I always respond, have you met a goat? They're stubborn, they're vicious, and they rarely go down without bashing you several times in the shins.*
+
+*You might say, that's awfully specific. I say, don't pry.*— Tasha
+
+Diseased manifestations of animalistic rage, bulezaus embody the violence of nature. Across the Abyss, these demons lurk in deep canyons and lofty crags, and many find a place in the ranks of demon lords' armies, serving as foot soldiers in the Abyss's endless warring.
+
+Bulezaus crave violence. Their eagerness to kill and willingness to die make them common members of many demon lords' entourages. When not being corralled by larger and tougher demons, bulezaus gather into scrabbling mobs, wrestling and fighting among themselves until a better target comes along or until a stronger demon bullies them into subservience.
+
+Disfiguring ailments plague bulezaus: crusted eyes, maggots wriggling in open sores, and a reek of rotten meat that follows them wherever they go.
 ***
 ## Extra Info / Lore
 {{Info}}

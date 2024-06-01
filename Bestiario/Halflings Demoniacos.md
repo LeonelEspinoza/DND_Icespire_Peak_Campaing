@@ -51,8 +51,8 @@ languages: Common, Halfling, Abyssal
 actions:
   - name: Battleaxe (Two Hands)
     desc: _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (1d10 + 2) slashing damage.
-    attack bonus: 4
-    hit bonus: 2
+    attack_bonus: 4
+    hit_bonus: 2
 creature: "Halfling Demoniaco"
 ```
 ### Guardia
@@ -104,12 +104,12 @@ actions:
     desc: The Halfling makes two Battleaxe attacks.
   - name: Battleaxe (One Hand)
     desc: _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 4) slashing damage.
-    attack bonus: +6 
-    hit bonus: +4
+    attack_bonus: +6 
+    hit_bonus: +4
   - name: Battleaxe (Two Hands)
     desc: _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 8 (1d10 + 4) slashing damage.
-    attack bonus: +6 
-    hit bonus: +4
+    attack_bonus: +6 
+    hit_bonus: +4
 creature: "Guardia Halfling Demoniaco"
 ```
 ### Explorador
@@ -161,25 +161,25 @@ languages: Common, Halfling, Abyssal
 actions:
   - name: Shortsword/Scimitar.
     desc: _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 7 (1d6 + 4) piercing/slashing damage.
-    attack bonus: 6
-    hit bonus: 4
+    attack_bonus: 6
+    hit_bonus: 4
   - name: Dagger.
     desc: _Melee or Ranged Weapon Attack:_ +6 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 6 (1d4 + 4) piercing damage.
-    attack bonus: 6
-    hit bonus: 4
+    attack_bonus: 6
+    hit_bonus: 4
 bonus_actions:
   - name: Shortsword/Scimitar.
     desc: _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 3 (1d6) piercing/slashing damage.
-    attack bonus: 6
-    hit bonus: 0
+    attack_bonus: 6
+    hit_bonus: 0
   - name: Dagger.
     desc: _Melee or Ranged Weapon Attack:_ +6 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 2 (1d4) piercing damage.
-    attack bonus: 5
-    hit bonus: 0
+    attack_bonus: 5
+    hit_bonus: 0
   - name: Disengage.
     desc: Agile feat.
-    attack bonus: 0
-    hit bonus: 0
+    attack_bonus: 0
+    hit_bonus: 0
 creature: "Explorador Halfling Demoniaco"
 ```
 ## Feats

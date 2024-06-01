@@ -1,5 +1,9 @@
----
+#{{facción}} #{{Race}} #StatBlock 
+{{IMAGEN}}
+## Statblock
+```statblock
 statblock: false
+bestiary: false
 name: "{{Title}}"
 source: "src"
 size: "Size"
@@ -24,25 +28,18 @@ damage_resistances: ""
 damage_immunities: ""
 condition_immunities: ""
 senses: "sense, passive Perception x"
+languages: "leng"
 cr: 1
-bestiary: true
 traits:
   - name: "name"
     desc: "desc"
     attack_bonus: 0
-languages: "leng"
 actions:
   - name: "name"
     desc: "desc"
-    attack bonus: 0
-    hit bonus: 0
-creature: {{Title}}
----
-#{{facción}} #{{Race}} #StatBlock 
-{{IMAGEN}}
-## Statblock
-```statblock
-creature: {{Title}}
+    attack_bonus: 0
+    hit_bonus: 0
+creature: "{{Title}}"
 ```
 ## Feats
 {{Extra Feats}}

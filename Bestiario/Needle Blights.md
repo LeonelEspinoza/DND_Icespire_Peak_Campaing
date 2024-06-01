@@ -1,27 +1,45 @@
 #Enemigo  #Planta #StatBlock 
 ![[Needle Blight.webp|400]]
+## Statblock
+```statblock
+statblock: false
+bestiary: false
+name: "Needle Blight"
+source: "src"
+size: "Medium"
+type: "Plant"
+subtype: ""
+alignment: "Neutral Evil"
+ac: 12
+hp: 11
+hit_dice: 2d8 + 2
+speed: 30 ft.
+stats:
+  - 12
+  - 12
+  - 13
+  - 4
+  - 8
+  - 3
+damage_vulnerabilities: ""
+damage_resistances: ""
+damage_immunities: ""
+condition_immunities: "blinded, deafened"
+senses: "blindsight 60 ft. (blind beyond this radius), passive Perception 9"
+languages: "understand Common but can't speak"
+cr: 1/4
+actions:
+  - name: "Claws"
+    desc: "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4 + 1) piercing damage."
+    attack_bonus: +3
+    hit_bonus: +1
+  - name: "Needles"
+    desc: "*Ranged Weapon Attack:* +3 to hit, range 30/60 ft., one target. *Hit:* 8 (2d6 + 1) piercing damage."
+    attack_bonus: +3
+    hit_bonus: +1
+creature: "Needle Blight"
+```
 ## Needle Blights
->*Medium Plant, neutral evil*
->___
->- **Armor Class** 12 (natural armor)
->- **Hit Points** 11 (`dice: 2d8 + 2`)
->- **Speed** 30 ft.
->___
->|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|12 (+1)|12 (+1)|13 (+1)|4 (-3)|8 (-1)|3 (-4)|
->___
->- **Condition Immunities** blinded, deafened
->- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 9
->- **Languages** understands Common but can't speak
->- **Challenge** 1/4 (50 XP)
->- **Proficiency Bonus** +2
->___
->### Actions
->***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (`dice: 2d4 + 1`) piercing damage.  
->
->***Needles.*** *Ranged Weapon Attack:* +3 to hit, range 30/60 ft., one target. *Hit:* 8 (`dice: 2d6 + 1`) piercing damage.
-## Features
 In the shadows of a forest, needle blights might be taken at a distance for shuffling, hunched humanoids. Up close, these creatures reveal themselves as horrid plants whose conifer-like needles grow across their bodies in quivering clumps. A needle blight lashes out with these needles or launches them as an aerial assault that can punch through armor and flesh.
 
 When needle blights detect a threat, they loose a pollen that the wind carries to other needle blights throughout the forest. Alerted to their foes' location, needle blights converge from all sides to drench their roots in blood.

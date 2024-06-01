@@ -12,12 +12,11 @@ Las quests van apareciendo de a 3 a medida que los jugadores completan 2 del gru
 ## Side Quests:
 - [x] [[Santuario de Savras]]
 - [ ] [[Torre de las Tormentas (Incompleta)]]
-- [ ] [[Pabellón de caza de Halcón (Incompleta)]]
+- [ ] [[Pabellón de caza de Falcon (Incompleta)]]
 - [ ] [[Circulo del Trueno]]
 - [ ] [[Bastión Aguja de Hielo (Incompleta)]]
 ## Lore Quests
 - [ ] [[Campamento Halflings (Incompleta)]]
-
 # Primera Ronda
 
 ![[Excavación de los Enanos#Anuncio]] ![[Gnomengarde#Anuncio]] ![[Colina Umbra#Anuncio]]

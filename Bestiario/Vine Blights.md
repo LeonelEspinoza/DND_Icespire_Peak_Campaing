@@ -1,29 +1,50 @@
 #Enemigo #Planta #StatBlock 
 ![[Vine Blight.webp|400]]
-## Vine Blights
->*Medium Plant, neutral evil*
->___
->- **Armor Class** 12 (natural armor)
->- **Hit Points** 26 (`dice: 4d8 + 4`)
->- **Speed** 10 ft.
->___
->|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|15 (+2)|8 (-1)|14 (+2)|5 (-3)|10 (+0)|3 (-4)|
->___
->- **Skills** Stealth +1
->- **Condition Immunities** blinded, deafened
->- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 10
->- **Languages** Common
->- **Challenge** 1/2 (100 XP)
->- **Proficiency Bonus** +2
->___
->***False Appearance.*** While the blight remains motionless, it is indistinguishable from a tangle of vines.  
->
->### Actions
->***Constrict.*** *Melee Weapon Attack:* +4 to hit, reach 10 ft., one target. *Hit:* 9 (`dice: 2d6 + 2`) bludgeoning damage, and a Large or smaller target is [grappled](https://5e.tools/conditionsdiseases.html#grappled_phb) (escape DC 12). Until this grapple ends, the target is [restrained](https://5e.tools/conditionsdiseases.html#restrained_phb), and the blight can't constrict another target.  
->
->***Entangling Plants (Recharge 5,6 = `dice: 1d6`).*** Grasping roots and vines sprout in a 15-foot radius centered on the blight, withering away after 1 minute. For the duration, that area is [difficult terrain](https://5e.tools/quickreference.html#bookref-quick,3,difficult%20terrain) for nonplant creatures. In addition, each creature of the blight's choice in that area when the plants appear must succeed on a DC 12 Strength saving throw or become [restrained](https://5e.tools/conditionsdiseases.html#restrained_phb). A creature can use its action to make a DC 12 Strength check, freeing itself or another entangled creature within reach on a success.
+## Statblock
+```statblock
+statblock: true
+bestiary: true
+name: "Vine Blight"
+source: "src"
+size: "Medium"
+type: "Plant"
+subtype: ""
+alignment: "Neutral Evil"
+ac: 12
+hp: 22
+hit_dice: 4d8 + 4
+speed: 10 ft.
+stats:
+  - 15
+  - 8
+  - 14
+  - 5
+  - 10
+  - 3
+skillsaves:
+  - stealth: +1
+damage_vulnerabilities: ""
+damage_resistances: ""
+damage_immunities: ""
+condition_immunities: "blinded, deafened"
+senses: "blindsight 60 ft. (blind beyond this radius), passive Perception 10"
+languages: "Common"
+cr: 1/2
+traits:
+  - name: "False Appearance."
+    desc: "While the blight remains motionless, it is indistinguishable from a tangle of vines."
+    attack_bonus: 0
+actions:
+  - name: "Constrict."
+    desc: "*Melee Weapon Attack:* +4 to hit, reach 10 ft., one target. *Hit:* 9 (`dice: 2d6 + 2`) bludgeoning damage, and a Large or smaller target is [grappled](https://5e.tools/conditionsdiseases.html#grappled_phb) (escape DC 12). Until this grapple ends, the target is [restrained](https://5e.tools/conditionsdiseases.html#restrained_phb), and the blight can't constrict another target."
+    attack_bonus: +4
+    hit_bonus: +2
+  - name: "Entangling Plants (Recharge 5,6)"
+    desc: "Grasping roots and vines sprout in a 15-foot radius centered on the blight, withering away after 1 minute. For the duration, that area is [difficult terrain](https://5e.tools/quickreference.html#bookref-quick,3,difficult%20terrain) for nonplant creatures. In addition, each creature of the blight's choice in that area when the plants appear must succeed on a DC 12 Strength saving throw or become [restrained](https://5e.tools/conditionsdiseases.html#restrained_phb). A creature can use its action to make a DC 12 Strength check, freeing itself or another entangled creature within reach on a success."
+    attack_bonus: 0
+    hit_bonus: 0
+creature: "Vine Blight"
+```
 ## Vine Blight
 Appearing as masses of slithering creepers, vine blights hide in undergrowth and wait for prey to draw near. By animating the plants around them, vine blights entangle and hinder their foes before attacking. Vine blights are the only blights capable of speech. Through its connection to the evil spirit of the Gulthias tree it serves, a vine blight speaks in a fractured version of its dead master's voice, taunting victims or bargaining with powerful foes.
 # Blights

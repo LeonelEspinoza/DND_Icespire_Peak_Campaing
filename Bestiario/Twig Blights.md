@@ -1,28 +1,46 @@
 #Enemigo #Planta #StatBlock 
 ![[Twig Blight.webp|400]]
-## Twig Blights
->*Small Plant, neutral evil*
->___
->- **Armor Class** 13 (natural armor)
->- **Hit Points** 4 (`dice: 1d6 + 1`)
->- **Speed** 20 ft.
->___
->|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|6 (-2)|13 (+1)|12 (+1)|4 (-3)|8 (-1)|3 (-4)|
->___
->- **Skills** Stealth +3
->- **Damage Vulnerabilities** fire
->- **Condition Immunities** blinded, deafened
->- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 9
->- **Languages** understands Common but can't speak
->- **Challenge** 1/8 (25 XP)
->- **Proficiency Bonus** +2
->___
->***False Appearance.*** While the blight remains motionless, it is indistinguishable from a dead shrub.  
->
->### Actions
->***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (`dice: 1d4 + 1`) piercing damage.
+## Stat Block
+```statblock
+statblock: true
+bestiary: true
+name: "Twig Blight"
+source: "src"
+size: "Small"
+type: "Plant"
+subtype: ""
+alignment: "Neutral Evil"
+ac: 13
+hp: 4
+hit_dice: 1d6 + 1
+speed: 20 ft.
+stats:
+  - 6
+  - 13
+  - 12
+  - 4
+  - 18
+  - 3
+skillsaves:
+  - stealth: +3
+damage_vulnerabilities: "fire"
+damage_resistances: ""
+damage_immunities: ""
+condition_immunities: "blinded, deafened"
+senses: "blindsight 60 ft. (blind beyond this radius), passive Perception 9"
+languages: "understands common but can't speak"
+cr: 1/8
+traits:
+  - name: "False Appearence."
+    desc: "While the blight remains motionless, it is indistinguishable from a dead shrub."
+    attack_bonus: 0
+actions:
+  - name: "Claws."
+    desc: "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) piercing damage."
+    attack_bonus: +3
+    hit_bonus: +1
+creature: "Twig Blights"
+```
 ## Features
 Twig blights can root in soil, which they do when living prey are scarce. While rooted, they resemble woody shrubs. When it pulls its roots free of the ground to move, a twig blight's branches twist together to form a humanoid-looking body with a head and limbs.
 
