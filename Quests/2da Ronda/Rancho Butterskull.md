@@ -2,7 +2,7 @@
 Balanceado para nivel 3
 # Anuncio
 >[!info]+ [[Rancho Butterskull]]
-> Orcos han atacado el [[Rancho Butterskull]], a 5 millas al este de [[Conyberry]] junto al [[Camino de Triboar]].
+> [[Orcos]] han atacado el [[Rancho Butterskull]], a 5 millas al este de [[Conyberry]] junto al [[Camino de Triboar]].
 > Ve allí deprisa, verifica los daños y ayuda tanto como puedas. 
 > El dueño, [[Alfonse Kalazorn]] es un sheriff retirado que recompensara tus esfuerzos. Si falleció, vuelve al [[Phandalin#Ayuntamiento|ayuntamiento]] con una prueba de su muerte a manos de [[Orcos]] y se te recompensará con 100 gp.
 > 
@@ -10,7 +10,7 @@ Balanceado para nivel 3
 # Descripción General del Lugar
 [[Alfonse Kalazorn]] solía ser el sheriff de Triboar, una ciudad al este, donde era conocido como **Gran Al Kalazorn**. Se retiro hace una década, pero el retiro no le quedaba bien. Buscando un nuevo reto, se adueño de una tierra fértil 5 millas al este de [[Conyberry]] y la convirtió en un rancho de ganado y caballos. Más tarde, añadió una granja de cerdos, pollos, jardines de vegetales, campos de maíz, y un huerto de manzanas. Mucho de su dinero proviene de la venta de calaveras de mantequilla: trozos de mantequilla moldeados en forma de calaveras humanoides. Vende sus calaveras de mantequilla principalmente en ciudades al este, aunque algunas llegan a las [[Phandalin#Provisiones de Barthen|Provisiones de Barthen]] en [[Phandalin]]. La mantequilla del [[Alfonse Kalazorn|Gran Al]] se elabora con la leche de petunia, su preciada vaca.
 
-Cuando el dragón blanco [[Cryovain]] empujó a los [[Orcos]] fuera del [[Bastión Aguja de Hielo (Incompleta)]], descendieron a las tierras bajas. Hace un tenday, una pequeña banda de [[Orcos]] atacaron el rancho, liberando a los cerdos antes de quemar el granero y la herrería. Algunos otros animales, incluida una docena de caballos y petunia la vaca, escaparon durante el incendio. [[Alfonse Kalazorn|Gran Al]] y 5 delos peones de su rancho no tuvieron tanta suerte. En su intento de defenderse de los [[Orcos]], [[Alfonse Kalazorn|Gran Al]] fue capturado y los peones de su rancho fueron asesinados. El único superviviente escapó a caballo, huyo a [[Phandalin]] y dio la noticia del ataque. 
+Cuando el dragón blanco [[Cryovain]] empujó a los [[Orcos]] fuera del [[Bastión Aguja de Hielo]], descendieron a las tierras bajas. Hace un tenday, una pequeña banda de [[Orcos]] atacaron el rancho, liberando a los cerdos antes de quemar el granero y la herrería. Algunos otros animales, incluida una docena de caballos y petunia la vaca, escaparon durante el incendio. [[Alfonse Kalazorn|Gran Al]] y 5 delos peones de su rancho no tuvieron tanta suerte. En su intento de defenderse de los [[Orcos]], [[Alfonse Kalazorn|Gran Al]] fue capturado y los peones de su rancho fueron asesinados. El único superviviente escapó a caballo, huyo a [[Phandalin]] y dio la noticia del ataque. 
 # Objetivos
 Para completar la quest, los aventureros deben rescatar a [[Alfonse Kalazorn]] y lograr convencerlo de volver a [[Phandalin]] ó deshacerse de los [[Orcos]] en el rancho. [[Alfonse Kalazorn]] también quiere ayuda para buscar a su preciada vaca, prometiendo una buena recompensa a cambio.
 # Viaje al Rancho

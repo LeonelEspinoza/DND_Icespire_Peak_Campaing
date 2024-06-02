@@ -45,7 +45,7 @@ Esta cueva está custodiada por dos [[Hombres Rata]] hembra en forma híbrida. S
 Aquí se apoyan en las paredes postes de madera que se utilizan para apuntalar túneles y cuevas.
 ## M3. Cajas y Toneles
 Apiladas contra las paredes de esta zona de almacenamiento hay una docena de cajas vacías y un número similar de barriles vacíos.
-## M4. Guarida de Hombres rata
+## M4. Guarida de [[Hombres rata]]
 Esparcidos por esta cueva hay picos, palas y otras herramientas de minería. La sección noreste contiene cuatro ratas gigantes. La sección suroeste contiene [[Hombres Rata]] en forma humana: un hombre rata macho por cada miembro del grupo (incluido Don-Jon Raskin, pero no sus compañeros) más una mujer rata llamada [[Zeleen Varnaster]], la líder de la Banda Bigote. Si Zeleen muere, otro hombre rata asumirá el cargo de líder siempre que alguno de ellos sobreviva. 
 
 Los [[Hombres Rata]] invadieron la mina después de que los [[Orcos]] los expulsaran de su guarida anterior: un antiguo santuario cerca de [[Conyberry]] (ver "[[Santuario de Savras]]"). Los [[Hombres Rata]] dicen que volverán a su antigua guarida si los personajes se deshacen de los [[Orcos]] en el santuario, pero esto es sólo una estratagema. Los [[Hombres Rata]] no tienen intención de abandonar la mina. 

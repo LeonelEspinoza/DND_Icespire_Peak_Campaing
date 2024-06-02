@@ -1,33 +1,10 @@
 #Enemigo #Monstruo #StatBlock
 ![[Manticore.webp|400]]
+## Stat Block
+```statblock
+creature: Manticore
+```
 ## Manticore
->*Large Monstrosity, lawful evil*
->___
->- **Armor Class** 14 (natural armor)
->- **Hit Points** 68 (`dice: 8d10 + 24`)
->- **Speed** 30 ft., fly 50 ft.
->___
->|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|17 (+3)|16 (+3)|17 (+3)|7 (-2)|12 (+1)|8 (-1)|
->___
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** Common
->- **Challenge** 3 (700 XP)
->- **Proficiency Bonus** +2
->___
->***Tail Spike Regrowth.*** The manticore has twenty-four tail spikes. Used spikes regrow when the manticore finishes a long rest.  
->
->### Actions
->***Multiattack.*** The manticore makes three attacks: one with its bite and two with its claws or three with its tail spikes.  
->
->***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (`dice: 1d8 + 3`) piercing damage.  
->
->***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (`dice: 1d6 + 3`) slashing damage.  
->
->***Tail Spike.*** *Ranged Weapon Attack:* +5 to hit, range 100/200 ft., one target. *Hit:* 7 (`dice: 1d8 + 3`) piercing damage.
-
-## Feats
 A monster in every sense of the word, a manticore has a vaguely humanoid head, the body of a lion, and the wings of a dragon. A bristling mane stretches down the creature's back, and its long tail ends in a cluster of deadly spikes that can impale prey at impressive range.
 ##### ***Evil Predators.***
 Manticores are fierce killers that hunt far and wide for prey. They work together to take down particularly large or dangerous creatures, sharing the meal once a kill is made. A manticore begins its attack with a volley of tail spikes, then lands and uses its claws and bite. When outdoors and outnumbered, it uses its wings to stay aloft, attacking from a distance until its spikes are depleted.

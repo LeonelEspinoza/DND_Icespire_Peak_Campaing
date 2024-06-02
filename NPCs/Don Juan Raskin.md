@@ -1,4 +1,5 @@
-#NPC #Aliado #Humano 
+#NPC #Neutral  #Humano 
+![[Don-Jon Raskin.webp|400]]
 # INFORMACIÓN
 Raza: Humana
 

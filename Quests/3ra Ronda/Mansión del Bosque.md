@@ -2,13 +2,13 @@
 Balanceado para lvl 5 y 6, aunque nivel 3 y 4 pueden si son cuidadosos y descansan.
 # Anuncio
 >[!info]+ [[Mansión del Bosque]]
-> Los [[Orcos]] han caído bajo el dominio de malvados lanzadores de hechizos en el [[Bosques de Neverwinter]] y han sido avistados en números crecientes cerca del [[Pabellón de caza de Falcon (Incompleta)]]. Los lanzadores de hechizos habitan en una mansión en ruinas. [[Falcon el Cazador]] necesita que alguien le dé un ataque preventivo. Destruye el mal en la mansión y luego espera que te recompense."
+> Los [[Orcos]] han caído bajo el dominio de malvados lanzadores de hechizos en el [[Bosques de Neverwinter]] y han sido avistados en números crecientes cerca del [[Pabellón de caza de Falcon]]. Los lanzadores de hechizos habitan en una mansión en ruinas. [[Falcon el Cazador]] necesita que alguien le dé un ataque preventivo. Destruye el mal en la mansión y luego espera que te recompense."
 # Descripción General
 Hace muchos años, una maga medio elfa interesada en la exploración de antiguas ruinas élficas construyó una casa de piedra en los [[Bosques de Neverwinter]], no lejos de varias ruinas que despertaron su interés. En el curso de sus exploraciones, la mago desapareció y las barreras mágicas protectoras de su casa expiraron. La casa cayó en mal estado y finalmente en ruinas. La maleza prácticamente lo ha engullido en los años posteriores.
 
 Recientemente, un [[Anacoretas de Talos]] llamado [[Grannoc]] se hizo cargo de la casa en ruinas y plantó semillas en el fondo de su pozo. A partir de estas semillas, un árbol maligno creció para llenar el pozo y comenzó a generar monstruos vegetales malvados llamados Blights (ver [Blights]() en el capítulo Criaturas). Las plagas obedecen a [[Grannoc]], quien las usa para defender su mansión en el bosque y matar a los intrusos dentro del bosque.
 # Objetivos
-Para completar la quest, los aventureros deben erradicar la maldad rondando la mansión. Su recompensa los espera en [[Pabellón de caza de Falcon (Incompleta)]]. 
+Para completar la quest, los aventureros deben erradicar la maldad rondando la mansión. Su recompensa los espera en [[Pabellón de caza de Falcon]]. 
 # Llegada
 Los personajes que vienen aquí desde Falcon's Hunting Lodge llegan desde el oeste. Los que vienen del Círculo del Trueno llegan desde el norte.
 
@@ -25,7 +25,7 @@ Describe la locación como sigue:
 > [!Quote] Parafrasear
 > Siguiendo un sendero a través del bosque, llegas a un claro brumoso, en medio del cual se encuentra una mansión de dos pisos en ruinas, casi escondida bajo la hiedra espinosa. La casa grande está construida sobre cimientos de piedra de seis pies de altura y la entrada principal tiene un balcón encima. Las calabazas crecen de forma silvestre en parches alrededor de la mansión, y varios jabalíes se alimentan entre ellas. Los jabalíes resoplan con desprecio cuando te acercas.
 
-El sendero que sale del mapa hacia el norte conduce al [[Circulo del Trueno]]. El sendero que va hacia el oeste conduce al [[Pabellón de caza de Falcon (Incompleta)]].
+El sendero que sale del mapa hacia el norte conduce al [[Circulo del Trueno]]. El sendero que va hacia el oeste conduce al [[Pabellón de caza de Falcon]].
 # Ubicaciones
 ![[DM_Mansion_del_Bosque.webp]]
 ## W1. Arbustos de Calabaza
@@ -61,12 +61,12 @@ Describe esta área como sogue:
 >[!Quote] Parafrasear
 > Unos escalones de piedra conducen a un patio enlosado que tiene una arcada con pilares hacia el este. Siete ventanas en el nivel superior dan al patio, en medio del cual hay un pozo de piedra de cinco pies de ancho del que brotan espesas enredaderas.
 
-Si los orcos en el área [[#W18. Pieza de Invitados]] no los han atacado todavía añade:
+Si los [[orcos]] en el área [[#W18. Pieza de Invitados]] no los han atacado todavía añade:
 
 >[!Quote] Parafrasear
-> Resoplidos y gritos guturales brotan de la esquina sureste de la mansión, señalando la presencia de orcos cerca.
+> Resoplidos y gritos guturales brotan de la esquina sureste de la mansión, señalando la presencia de [[orcos]] cerca.
 
-Los personajes que entienden el lenguaje orco puede escuchar a los orcos planeando alguna clase de ataque.
+Los personajes que entienden el lenguaje orco puede escuchar a los [[orcos]] planeando alguna clase de ataque.
 
 #### Arbol de Gulthias
 El pozo, que tiene 30 pies de profundidad, contiene un árbol Gulthias, cuyas raíces se extienden profundamente bajo tierra. Con poco espacio para extenderse, el árbol se ha convertido en una columna de madera retorcida y deforme con espacios estrechos entre sus ramas curvadas.
@@ -79,7 +79,7 @@ En cualquier noche en la que la luna esté roja como la sangre, el árbol Gulthi
 #### Haciendo Sonar la Alarma
 Cualquier ruido fuerte en el patio alerta a las criaturas en las áreas [[#W10. Laboratorio del Mago]] y [[#W18. Pieza de Invitados]]. Tira iniciativa para estas criaturas y las [[Vine Blights]] en el pozo, y haz que reaccionen de la siguiente manera:
 - [[Grannoc]] y las [[Twig Blights]] en el área [[#W10. Laboratorio del Mago]] investigan de inmediato. En su primer turno, entran al patio, tras lo cual [[Grannoc]] ordena a las [[Vine Blights]] que emerjan del pozo. [[Grannoc]] y las plagas usan sus acciones para atacar a sus enemigos más cercanos.
-- Los orcos en el área [[#W18. Pieza de Invitados]] usan su primer turno para descender al área [[#W9. Pieza del aprendiz]]. Atraviesan la puerta y se unen a la batalla en su segundo turno.
+- Los [[orcos]] en el área [[#W18. Pieza de Invitados]] usan su primer turno para descender al área [[#W9. Pieza del aprendiz]]. Atraviesan la puerta y se unen a la batalla en su segundo turno.
 
 ## W9. Pieza del aprendiz
 Describe esta área como sigue:
@@ -104,7 +104,7 @@ Si los personajes logran llegar hasta aquí sin alertar a [[Grannoc]], lo ven re
 >[!Quote] Parafrasear
 > Donde los relámpagos convergen, un semiorco vistiendo una armadura de piel realiza una danza espeluznante mientras consume las entrañas de una zarigüeya muerta. Alrededor del semiorco hay varias figuras de [[Needle Blights]].
 
-El semiorco, [[Grannoc]], es un [[Anacoretas de Talos]]. Bajo su mando hay una serie de Blights: 3 Blights para cada personaje del grupo, sin incluir a los sidekicks. Los personajes que observan a [[Grannoc]] sin alertarlo ni interrumpirlo pueden determinar que está realizando un ritual con una prueba exitosa de Inteligencia (Religión) DC 15. [[Grannoc]] espera que [[Talos]] responda a sus oraciones y haga llover destrucción sobre el [[Pabellón de caza de Falcon (Incompleta)]]. Cualquier interrupción por parte de los personajes arruina el ritual y provoca la ira de [[Grannoc]].
+El semiorco, [[Grannoc]], es un [[Anacoretas de Talos]]. Bajo su mando hay una serie de Blights: 3 Blights para cada personaje del grupo, sin incluir a los sidekicks. Los personajes que observan a [[Grannoc]] sin alertarlo ni interrumpirlo pueden determinar que está realizando un ritual con una prueba exitosa de Inteligencia (Religión) DC 15. [[Grannoc]] espera que [[Talos]] responda a sus oraciones y haga llover destrucción sobre el [[Pabellón de caza de Falcon]]. Cualquier interrupción por parte de los personajes arruina el ritual y provoca la ira de [[Grannoc]].
 #### Mapa
 [[Grannoc]] tiene un mapa garabateado en la solapa arrancada de una cartera de cuero. Muestra los [[Bosques de Neverwinter]] y marca la ubicación del [[Circulo del Trueno]].
 ## W11. Librería
@@ -145,10 +145,10 @@ Secciones de este techo de tejas de madera se han derrumbado en el área [[#W7. 
 ## W17. Arcada superior
 Este pasillo está cerrado por dos puertas dobles y cuatro ventanas abiertas. Los personajes pueden esquivar fácilmente la hiedra que crece a través de las ventanas hacia el este. Si los [[Orcos]] en el área [[#W18. Pieza de Invitados]] aún no han sido enviados, los personajes escucharán su estridente charla a través de la puerta doble del sur.
 ## W18. Pieza de Invitados
-Esta habitación ha sido reclamada por [[Orcos]] hostiles aliados con [[Grannoc]]. Hay cuatro [[Orcos]] aquí, más un orco adicional por cada personaje del grupo, sin incluir a los compinches. Los [[Orcos]] están afilando sus armas en previsión de un ataque al [[Pabellón de caza de Falcon (Incompleta)]]. Los orcos han destruido los alguna vez finos muebles de esta habitación, sin dejar nada de valor. Un agujero en la esquina suroeste del piso conduce al área [[#W9. Pieza del aprendiz]] debajo.
+Esta habitación ha sido reclamada por [[Orcos]] hostiles aliados con [[Grannoc]]. Hay cuatro [[Orcos]] aquí, más un orco adicional por cada personaje del grupo, sin incluir a los compinches. Los [[Orcos]] están afilando sus armas en previsión de un ataque al [[Pabellón de caza de Falcon]]. Los [[orcos]] han destruido los alguna vez finos muebles de esta habitación, sin dejar nada de valor. Un agujero en la esquina suroeste del piso conduce al área [[#W9. Pieza del aprendiz]] debajo.
 # Dejar la Mansión
 Cuando los personajes terminan de explorar la mansión, son atacados mientras salen. La fuerza atacante está formada por [[Anacoretas de Talos]] y [jabalíes](https://5e.tools/bestiary.html#boar_mm) en el área [[#W1. Arbustos de Calabaza]] que no fueron asesinados ni obligados a huir previamente. Además, las [[Needle Blights]] emergen del bosque para unirse a la batalla: dos blights para cada personaje del grupo, sin incluir a los sidekicks.
 # Contraataque
-El día después de que los personajes atacan la mansión, nubes oscuras se posan sobre los [[Bosques de Neverwinter]] mientras los [[Anacoretas de Talos]] organizan un contraataque contra el [[Pabellón de caza de Falcon (Incompleta)]]. [[Gorthok el Jabalí del Trueno]] atraviesa la empalizada del albergue, permitiendo que veinte [[Orcos]] asalten el albergue.
+El día después de que los personajes atacan la mansión, nubes oscuras se posan sobre los [[Bosques de Neverwinter]] mientras los [[Anacoretas de Talos]] organizan un contraataque contra el [[Pabellón de caza de Falcon]]. [[Gorthok el Jabalí del Trueno]] atraviesa la empalizada del albergue, permitiendo que veinte [[Orcos]] asalten el albergue.
 
 Si los personajes no están presentes cuando la cabaña es atacada, [[Falcon el Cazador]] y sus sirvientes huyen en el caballo de Falcon y se dirigen a [[Phandalin]], entregando la cabaña a los [[Orcos]].

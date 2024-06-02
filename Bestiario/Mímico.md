@@ -1,39 +1,10 @@
 #Enemigo #Cambiaformas #Monstruo #StatBlock
 ![[Mimic.webp|400]]
+## Stat Block
+```statblock
+creature: Mimic
+```
 ## Mimic
->*Medium Monstrosity (Shapechanger), neutral*
->___
->- **Armor Class** 12 (natural armor)
->- **Hit Points** 58 (`dice: 9d8 + 18`)
->- **Speed** 15 ft.
->___
->|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|17 (+3)|12 (+1)|15 (+2)|5 (-3)|13 (+1)|8 (-1)|
->___
->- **Skills** Stealth +5
->- **Damage Immunities** acid
->- **Condition Immunities** prone
->- **Senses** darkvision 60 ft., passive Perception 11
->- **Languages** —
->- **Challenge** 2 (450 XP)
->- **Proficiency Bonus** +2
->___
->***Shapechanger.*** The mimic can use its action to polymorph into an object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.  
->
->***Grappler.*** The mimic has advantage on attack rolls against any creature grappled by it.  
->
->***Adhesive (Object Form Only).*** The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic is also grappled by it (escape DC 13). Ability checks made to escape this grapple have disadvantage.  
->
->***False Appearance (Object Form Only).*** While the mimic remains motionless, it is indistinguishable from an ordinary object.  
->
->### Actions
->***Pseudopod.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (`dice: 1d8 + 3`) bludgeoning damage. If the mimic is in object form, the target is subjected to its Adhesive trait.  
->
->***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (`dice: 1d8 + 3`) piercing damage plus 4 (`dice: 1d8`) acid damage.
-
-## Feats
-
 Mimics are shapeshifting predators able to take on the form of inanimate objects to lure creatures to their doom. In dungeons, these cunning creatures most often take the form of doors and chests, having learned that such forms attract a steady stream of prey.
 ##### ***Imitative Predators.***
 Mimics can alter their outward texture to resemble wood, stone, and other basic materials, and they have evolved to assume the appearance of objects that other creatures are likely to come into contact with. A mimic in its altered form is nearly unrecognizable until potential prey blunders into its reach, whereupon the monster sprouts pseudopods and attacks.

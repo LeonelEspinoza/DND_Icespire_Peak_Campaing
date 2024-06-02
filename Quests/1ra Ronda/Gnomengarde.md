@@ -31,11 +31,11 @@ Un rio dirige a los personajes a una piscina alimentada por una cascada que cae 
 
 Gnomengarde tiene 5 entradas a cuevas situadas sobre salientes con pendientes escarpadas y rocosas. Subir a una cueva requiere una prueba exitosa de Fuerza (Atletismo) CD 13. Un sendero estrecho asciende por la ladera noreste, lo que facilita el ascenso hasta la entrada de la cueva sin control.
 ## Lista de Gnomengarde
-Veinte gnomos de las rocas reclusos habitan en Gnomengarde, entre ellos el rey Gnerkli y el rey Korboz. Los nombres y ubicaciones de los gnomos se describen en la sección "Ubicaciones de Gnomengarde".
+Veinte gnomos de las rocas reclusos habitan en Gnomengarde, entre ellos el rey [[Gnerkli]] y el rey [[Korboz]]. Los nombres y ubicaciones de los gnomos se describen en la sección "Ubicaciones de Gnomengarde".
 ### Monstruo misterioso
 Solía haber veintidós gnomos viviendo en las cuevas, pero un [[Mímico]] devoró a dos gnomos, llamados Orryn y Warryn, en los últimos diez días. La criatura está actualmente disfrazada de barril en el área G8, pero devorará más gnomos una vez que vuelva su hambre, a menos que se acabe con ella. Puede moverse y adoptar otros disfraces según sea necesario, aunque sus formas se limitan a objetos medianos como sillas, cofres grandes, atriles y extraños inventos gnomos del tamaño y masa del [[Mímico]]. La mímica también puede disfrazarse de puerta, de una falsa sección de pared o de un bulto rocoso en el suelo.
 
-Después de hablar con Korboz y enterarse de la presencia de un monstruo que cambia de forma, el objetivo principal de los personajes debería ser encontrar y matar a la criatura. Cuando atacó a Korboz, parecía una alfombra de 10 pies cuadrados en la sala del trono (área G14), pero desde entonces se mudó a otra parte y cambió su apariencia.
+Después de hablar con [[Korboz]] y enterarse de la presencia de un monstruo que cambia de forma, el objetivo principal de los personajes debería ser encontrar y matar a la criatura. Cuando atacó a [[Korboz]], parecía una alfombra de 10 pies cuadrados en la sala del trono (área G14), pero desde entonces se mudó a otra parte y cambió su apariencia.
 
 Si se les presiona, los gnomos de roca ayudan a los personajes a encontrar la imitación pinchando objetos con varitas no mágicas para ver si se defienden. Los gnomos, sin embargo, no son aventureros y huyen al primer signo de peligro (real o imaginario).
 

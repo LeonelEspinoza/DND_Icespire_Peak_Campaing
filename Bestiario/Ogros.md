@@ -1,28 +1,10 @@
 #Enemigo #Gigante #StatBlock
 ![[Ogre.webp|400]]
+## Stat Block
+```statblock
+creature: Ogre
+```
 ## Ogre
->*Large Giant, chaotic evil*
->___
->- **Armor Class** 11 (*hide armor*)
->- **Hit Points** 59 (`dice: 7d10 + 21`)
->- **Speed** 40 ft.
->___
->|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|19 (+4)|8 (-1)|16 (+3)|5 (-3)|7 (-2)|7 (-2)|
->___
->- **Senses** darkvision 60 ft., passive Perception 8
->- **Languages** Common, Giant
->- **Challenge** 2 (450 XP)
->- **Proficiency Bonus** +2
->___
->### Actions
->***Greatclub.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (`dice: 2d8 + 4`) bludgeoning damage.  
->
->***Javelin.*** *Melee  or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 11 (`dice: 2d6 + 4`) piercing damage.
-
-## Feats
-
 Ogres are as lazy of mind as they are strong of body. They live by raiding, scavenging, and killing for food and pleasure. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.
 ##### ***Furious Tempers.***
 Ogres are notorious for their quick tempers, which flare at the smallest perceived offense. Insults and name-calling can rouse an ogre's wrath in an instant-as can stealing from it, bumping, jabbing, or prodding it, laughing, making faces, or simply looking at it the wrong way. When its rage is incited, an ogre lashes out in a frustrated tantrum until it runs out of objects or creatures to smash.

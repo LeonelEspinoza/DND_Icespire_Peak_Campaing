@@ -43,7 +43,7 @@ Cada enano tiene raciones para 10 días, una cantimplora u odre, herramientas mi
 >
 >**Puertas:** Todas las puertas están hechas de piedra. Las puertas secretas se mezclan con los trabajos de piedra de los alrededores. Encontrar una puerta secreta requiere buscar por la muralla y un check de percepción DC 15. [[Dazlyn Grayshard|Dazlyn]] y [[Norbus Ironrun|Norbus]] han encontrado una puerta secreta hasta ahora, en [[#E4. Vestíbulo polvoriento]]. Las otras aún no han sido descubiertas. 
 >
->**Polvo y Debris:** El templo esta ahogado por escombros polvorientos. Los cuadrantes con escombros son terreno difícil.
+>**Polvo y Debris:** El templo esta ahogado por escombros polvorientos. Los cuadrantes con escombros son [[Notas de Combate#Terreno Difícil|terreno difícil]].
 >
 >**Luz**: No hay luces en el templo, ya que los enanos sacerdotes de [[Abbathor]] usaban su vision oscura para ver. 
 ## E4. Vestíbulo polvoriento

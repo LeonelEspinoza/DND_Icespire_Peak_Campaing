@@ -9,7 +9,7 @@ Los solitarios [[Anacoretas de Talos]] del Círculo del Trueno se reúnen en est
 > Debajo de la cima de la colina se encuentran tres cuevas, cada una de las cuales sirve como guarida de un [[Anacoretas de Talos]]. Las cuevas están excavadas en la tierra, y cada boca de cueva está reforzada por dos losas de piedra rectangulares rematadas con un pesado dintel de piedra. Todas las cuevas tienen techos de 7 pies de altura y toscas puertas de madera. Cada cueva presenta un diseño diferente pero tiene contenidos similares.
 > - **Entrada**: Situado en el medio de esta intersección, frente a la entrada de la cueva, el cráneo de un jabalí descansa sobre una pila de huesos de humanoides y animales. Un personaje que supera una prueba de Inteligencia (Religión) DC 10 puede comprobar que los huesos son una advertencia para mantenerse alejado.
 > - **Corral de Jabalí**: La puerta de esta habitación está cerrada con una cuerda. Contiene un [jabalí](https://5e.tools/bestiary.html#boar_mm) que es compañero del [[Anacoretas de Talos]] y triturador de basura. El jabalí no puede dañar a nadie mientras esté atrapado en esta habitación. Si alguien que no sea un [[Anacoretas de Talos]] abre la puerta, el jabalí intenta huir de la cueva y ataca a cualquiera que se cruce en su camino.
-> - **Celda**: La puerta de esta celda está cerrada con una cuerda. La celda se utiliza para albergar animales condenados a ser sacrificados en rituales a Talos. Hay un 25 por ciento de posibilidades (`dice: 1d4`== 1) de que un ciervo inofensivo esté atrapado dentro. De lo contrario, la celda está vacía.
+> - **Celda**: La puerta de esta celda está cerrada con una cuerda. La celda se utiliza para albergar animales condenados a ser sacrificados en rituales a [[Talos]]. Hay un 25 por ciento de posibilidades (`dice: 1d4`== 1) de que un ciervo inofensivo esté atrapado dentro. De lo contrario, la celda está vacía.
 > - **Retiro de los Anacoretas**: Esta habitación sin muebles sirve como alojamiento para los anacoretas. Los nichos en las paredes contienen vajillas de barro, utensilios de madera, bayas recolectadas, manojos de hierbas y tótems espeluznantes. En las áreas [[#C2. Cueva Noroeste]] y [[#C3. Cueva Noreste]], los anacoretas han escondido un tesoro enterrado bajo el piso de tierra en un cuadrado aleatorio de 5 pies. Consulte esas áreas para obtener detalles del tesoro.
 > - **Salida secreta**: Este túnel desciende hasta una trampilla secreta que es claramente visible desde la parte inferior.
 # Viaje
@@ -31,7 +31,7 @@ A medida que avanzan por el bosque, los personajes son acosados ​​por [[Yarg
 > [!Quote] Parafrasear
 > A medida que avanzas por un terreno irregular que llega a una cresta, varios [[Orcos]] descomunales ascienden por una cresta similar frente a ti, separada de ti por un barranco de veinte pies de ancho y tres de profundidad. Los [[Orcos]] lanzan terribles gritos de batalla cuando se les une un humanoide con garras alargadas. 
  
-***En la primera ronda de combate, [[Yargath]] lanza una [bendición](https://5e.tools/spells.html#bless_phb) hasta a tres [[Orcos]]. Mientras tanto, los orcos cargan a través del barranco y se acercan al alcance cuerpo a cuerpo.***
+***En la primera ronda de combate, [[Yargath]] lanza una [bendición](https://5e.tools/spells.html#bless_phb) hasta a tres [[Orcos]]. Mientras tanto, los [[orcos]] cargan a través del barranco y se acercan al alcance cuerpo a cuerpo.***
 #### Tesoro
 [[Yargath]] lleva una [poción de curación mayor](https://5e.tools/items.html#potion%20of%20greater%20healing_dmg).
 # Llegada

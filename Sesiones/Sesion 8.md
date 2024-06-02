@@ -105,7 +105,7 @@ Llegan al [[Santuario de Savras]]. Primero [[Thalorien Magune]] invoca a un fami
 
 Al anochecer, se disponen a atacar de manera sigilosa, enviando a [[Goswin]] y a [[Onnen]] contra el orco dentro de la torre noreste. Al acercarse al primer orco, [[Dio Rakitich]] se tropieza con el terreno, cayendo y alertando a todos los orcos del lugar sobre su posición, cosa de que lentamente se acercan hacia el lugar donde escucharon un ruido. [[Juan Cornelio]] y [[Thalorien Magune]] se disponen a rodear los muros para aprovechar los escombros de la muralla oeste.
 
-Después de una ardua batalla, el grupo logra eliminar a todos los enemigos habitando el santuario, y se dirigen a investigar todo lo que haya dentro del lugar. Dentro del templo, encuentran el altar. Al tocar el altar, [[Juan Cornelio]] tiene una visión sobre el [[Bastión Aguja de Hielo (Incompleta)]] y la ubicación del [[Cryovain|dragón blanco]]. Logran encontrar el cofre debajo del altar.
+Después de una ardua batalla, el grupo logra eliminar a todos los enemigos habitando el santuario, y se dirigen a investigar todo lo que haya dentro del lugar. Dentro del templo, encuentran el altar. Al tocar el altar, [[Juan Cornelio]] tiene una visión sobre el [[Bastión Aguja de Hielo]] y la ubicación del [[Cryovain|dragón blanco]]. Logran encontrar el cofre debajo del altar.
 
 Una vez investigado el templo, se dirigen a ver la situación de [[Onnen]] y [[Goswin]], que vencieron al orco sin problema pero mienten diciendo que fue un desafío.
 ## 9-Alturiak-218, 2da Era

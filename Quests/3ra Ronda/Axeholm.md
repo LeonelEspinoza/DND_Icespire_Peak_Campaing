@@ -86,10 +86,10 @@ Los abundantes asideros y puntos de apoyo para los pies permiten a un personaje 
 ## A16. Cocina
 La habitación polvorienta tiene todos los elementos que uno espera encontrar en una cocina enana, incluidos vajillas, utensilios y tazas de metal. Un fregadero de piedra está equipado con un grifo que, cuando se gira, arroja agua caliente canalizada desde un manantial subterráneo calentado naturalmente.
 ## A17. Salón Este en Ruinas
-El terremoto que azotó Axeholm provocó el derrumbe del techo que dejó esta sala en ruinas. La mitad oriental de la sala está cubierta de escombros y es un terreno difícil. El hedor a muerte flota pesadamente aquí, volviéndose más fuerte a medida que los personajes avanzan hacia el área [[#A19. Guarida Ghoul]].
+El terremoto que azotó Axeholm provocó el derrumbe del techo que dejó esta sala en ruinas. La mitad oriental de la sala está cubierta de escombros y es un [[Notas de Combate#Terreno Difícil|terreno difícil]]. El hedor a muerte flota pesadamente aquí, volviéndose más fuerte a medida que los personajes avanzan hacia el área [[#A19. Guarida Ghoul]].
 ## A18. Habitación Vacía
 Los enanos limpiaron esta habitación de 15 pies cuadrados antes de evacuar Axeholm. Sólo queda polvo.
-## A19. Guarida Ghoul
+## A19. Guarida [[Ghoul]]
 Los personajes pueden llegar a esta área siguiendo el túnel formado naturalmente desde el área [[#A17. Salón Este en Ruinas]] o bajando la escalera de piedra desde el área [[#A24. Salón Embrujado]]. La puerta del norte se ha abierto de golpe y sus restos están esparcidos por el suelo.
 
 El hedor a muerte y decadencia se hace más fuerte a medida que los personajes se acercan a esta habitación, y pueden escuchar los silbidos y gruñidos de los [[Ghoul|Ghouls]] que habitan aquí. La sala contiene un [[Ghoul]] más un [[Ghoul]] adicional por cada miembro del grupo, sin incluir a los sidekicks.
@@ -127,7 +127,7 @@ Si los personajes huyen de la presencia de la [[Banshee]] por su propia voluntad
 En la primera ronda de combate, la [[Banshee]] usa Horrifying Visage. En la segunda ronda, usa Wail. Después de gemir, se retira al área [[#A27. Dormitorio de Banshee]], atravesando la puerta cerrada como si no estuviera allí. En el área [[#A27. Dormitorio de Banshee]], la no-muerta hace su última resistencia.
 ## A25. Salón y Balcón Superior Este
 El terremoto provocó el derrumbe de parte de esta sala vacía. Una puerta doble en la pared oeste conduce a un pequeño balcón de piedra que da al área [[#A4. Sala de Reunión]].
-## A26. Baño Ghoul
+## A26. Baño [[Ghoul]]
 Varios [[Ghoul|Ghouls]] se reúnen aquí: un total de dos [[Ghoul|Ghouls]] más un [[Ghoul]] adicional por cada miembro del grupo, sin incluir a los sidekicks. Los [[Ghoul|Ghouls]] entran y salen de la habitación a través de un agujero de 2 pies de diámetro en la pared este, que irrumpe en la chimenea del área [[#A14. Sala del Trono]].
 
 En el centro de esta sala hay una tina de piedra tallada llena de huesos de enanos roídos. La bañera está equipada con un grifo que, cuando se gira, arroja agua caliente canalizada desde un manantial subterráneo calentado naturalmente. Un tapón de piedra sella el desagüe en el fondo de la bañera.

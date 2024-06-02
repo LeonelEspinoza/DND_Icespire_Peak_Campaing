@@ -22,7 +22,7 @@ El guardia avistado encima de la torre noreste ([[#S6. Torre noreste]]) es un [[
 
 # Ubicaciones
 ![[DM_Templo_de_Savras.webp]]
-Los recuadros con escombros son terreno difícil.
+Los recuadros con escombros son [[Notas de Combate#Terreno Difícil|terreno difícil]].
 ## S1. Portón
 La entrada es de 20 pies de ato, y sus puertas exteriores han sido hechas añicos. Un rastrillo oxidado bloquea la salida sur, pero es evitado por un agujero lleno de escombros en la esquina suroeste de la puerta de entrada. El cabrestante para levantar el rastrillo ha sido destruido, pero el rastrillo se puede levantar manualmente con una prueba exitosa de fuerza (Atletismo) CD 25 si se desea.
 ## S2. Jardín
@@ -50,6 +50,6 @@ Los sacerdotes videntes de [[Savras]] dormían y cocinaban aquí. Todo el mobili
 > [!Info]
 > Seis pilares de piedra sostienen el techo abovedado de este templo, el piso del cual está enterrado bajo una gruesa capa de polvo. También cubierto de polvo están cuatro esqueletos humanoides con vestimentas sacerdotales andrajosas, tendido cerca de un altar de piedra situado en un nicho bajo cuatro ventanas estrechas. Tallado en el frente del altar hay un ojo humanoide.
 
-Un hechizo de detección mágica revela un aura de magia de adivinación al rededor del altar. Si [[Cryovain]] ha sido asesinado, no pasa nada cuando un personaje toca el altar. De lo contrario, cualquier personaje que toque el altar experimenta una visíon que dura 1 minuto, tiempo durante el cuál el personaje queda incapacitado. En la vision, el personaje flota a través del techo del santuario, se eleva hacia el [[Bastión Aguja de Hielo (Incompleta)]] y ve al dragón blanco dormido en el techo de la fortaleza. (El poder de adivinación del altar les dice a los personajes efectivamente donde deben ir para derrotar al dragón). Un personaje recibe esta visión sólo una vez. No le pasa nada a un personaje que toca el altar pos segunda vez.
+Un hechizo de detección mágica revela un aura de magia de adivinación al rededor del altar. Si [[Cryovain]] ha sido asesinado, no pasa nada cuando un personaje toca el altar. De lo contrario, cualquier personaje que toque el altar experimenta una visíon que dura 1 minuto, tiempo durante el cuál el personaje queda incapacitado. En la vision, el personaje flota a través del techo del santuario, se eleva hacia el [[Bastión Aguja de Hielo]] y ve al dragón blanco dormido en el techo de la fortaleza. (El poder de adivinación del altar les dice a los personajes efectivamente donde deben ir para derrotar al dragón). Un personaje recibe esta visión sólo una vez. No le pasa nada a un personaje que toca el altar pos segunda vez.
 #### Tesoro.
 Cualquier personaje que busque en el altar y tenga éxito en una prueba de Sabiduría (Percepción) DC 10 se dará cuenta de que la base del altar no toca el suelo. El altar tiene rodillos de piedra incorporados y se puede empujar 3 pies hacia el sur, revelando un cofre de madera sin seguro escondido dentro de una cavidad de 1 pie cuadrado en el piso. Este cofre contiene 57gp y una llave misteriosa.

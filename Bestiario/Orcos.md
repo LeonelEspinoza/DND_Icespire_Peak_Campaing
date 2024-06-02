@@ -1,29 +1,10 @@
 #Enemigo #Humanoide #StatBlock
 ![[Orco.jpg|350]]
+## Statblock
+```statblock
+creature: Orc
+```
 ## Orc
->*Medium Humanoid (Orc), chaotic evil*
->___
->- **Armor Class** 13 (*hide armor*)
->- **Hit Points** 15 (`dice: 2d8 + 6`)
->- **Speed** 30 ft.
->___
->|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|16 (+3)|12 (+1)|16 (+3)|7 (-2)|11 (+0)|10 (+0)|
->___
->- **Skills** Intimidation +2
->- **Senses** darkvision 60 ft., passive Perception 10
->- **Languages** Common, Orc
->- **Challenge** 1/2 (100 XP)
->- **Proficiency Bonus** +2
->___
->***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.  
->
->### Actions
->***Greataxe.*** *Melee Weapon Attack:* +5 to hit (`dice: 1d20 + 5`), reach 5 ft., one target. *Hit:* 9 (`dice: 1d12 + 3`) slashing damage.  
->
->***Javelin.*** *Melee  or Ranged Weapon Attack:* +5 to hit (`dice: 1d20 + 5`), reach 5 ft. or range 30/120 ft., one target. *Hit:* 6 (`dice: 1d6 + 3`) piercing damage.
-## Feats
 ###### ***Gruumsh One-Eye.***
 Orcs worship Gruumsh, the mightiest of the orc deities and their creator. The orcs believe that in ancient days, the gods gathered to divide the world among their followers. When Gruumsh claimed the mountains, he learned they had been taken by the dwarves. He laid claim to the forests, but those had been settled by the elves. Each place that Gruumsh wanted had already been claimed. The other gods laughed at Gruumsh, but he responded with a furious bellow. Grasping his mighty spear, he laid waste to the mountains, set the forests aflame, and carved great furrows in the fields. Such was the role of the orcs, he proclaimed, to take and destroy all that the other races would deny them. To this day, the orcs wage an endless war on humans, elves, dwarves, and other folk.
 
