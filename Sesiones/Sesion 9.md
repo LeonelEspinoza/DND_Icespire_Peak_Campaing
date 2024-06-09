@@ -72,11 +72,13 @@ Se despiertan a temprano a hacer discursos y tratar a los cuerpos.
 [[Cason]] ha muerto, y su madre entristecida se acerca a buscar su cuerpo.
 El grupo conoce a [[Crysta Lita]], [[Kuzari]] celebrando por la victoria en la taberna.
 [[Toblen Stonehill]] les avisa sobre la fecha límite del encargo para el [[Campamento de Leñadores]].
+Envían a [[Dazlyn Grayshard]] y a [[Norbus Ironrun]] junto a 2 [[Soldados Defensores de Phandalin]] hacia [[Axeholm]].
 ## 25-Alturiak-218, 2da Era
 Venden las menas de oro que encontraron.
+[[Dio Rakitich]] les muestra [[Phandalin]] a [[Kuzari]] y a [[Crysta Lita]], incluyendo el interior de la [[Phandalin#Casa Magnus|Casa Magnus]] donde tienen reliquias y trofeos pasados, que [[Kuzari]] logra robar sin que nadie se dé cuenta.
 Se disponen a descansar por 1 Dekhana.
 ## 4-Khes-218, 2da Era
-[[Ander Barthen]] va a la casa magnus para entregarles un buen vino para halcón.
+[[Ander Barthen]] va a la [[Phandalin#Casa Magnus|casa magnus]] para entregarles un buen vino para halcón.
 Se preparan para partir hacia el [[Campamento de Leñadores]]. 
 Viajan todo el día hacia el [[Campamento de Leñadores]], descansan antes de entrar al bosque.
 ~~El [[Cryovain|dragón]] vuelve a atacar a [[Neverwinter]]~~

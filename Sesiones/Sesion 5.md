@@ -7,7 +7,7 @@ Ojalá dar más importancia a las interacciones que al combate.
 Con los halflings demoniacos hay un punto de interés común para todos los jugadores.
 [[Dio Rakitich]] busca a sus enemigos jurados en pos de vengarse por lo ocurrido a su pueblo natal hace casi 100 años.
 [[Thalorien Magune]] busca la via política y no violenta con todo aquél que sea de utilidad, por tanto hay que definir a estos Halflings como seres despreciables incapaces de llegar a un acuerdo pacífico.
-El Mera busca seres a los que matar y enzañarse.
+El Mera busca seres a los que matar y ensañarse.
 
 ***
 # Sucesos
