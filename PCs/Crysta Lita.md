@@ -3,6 +3,8 @@ ac: "12"
 hp: 17
 level: 4
 modifier: 2
+aliases:
+  - Crysta
 ---
 #PC #Gnomo #Wizard
 # Jugadora: Florencia

@@ -3,9 +3,11 @@ ac: "19"
 hp: 37
 level: 4
 modifier: 5
+aliases:
+  - Kuzari
 ---
 #PC #Elfo #Monk
-# Jugador: Alondra
+# Jugadora: Alondra
 # Stats
 **Raza**: [High Elf](https://5e.tools/races.html#elf%20(high)_phb)
 **Clase**: [Monk](https://5e.tools/classes.html#monk_phb)

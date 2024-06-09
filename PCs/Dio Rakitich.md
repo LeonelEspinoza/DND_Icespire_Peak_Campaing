@@ -3,6 +3,8 @@ ac: "18"
 hp: 24
 level: 4
 modifier: 4
+aliases:
+  - Dio
 ---
 #PC #Halfling #Paladin
 # Jugador: Mathias Perez

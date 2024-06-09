@@ -1,7 +1,15 @@
+---
+ac: "14"
+hp: 48
+level: 5
+modifier: 3
+aliases:
+  - Juan
+---
 #PC #Centauro #Bardo
 # Jugador: Sebastián Mera
 # Stats
-**Nivel**: 3
+**Nivel**: 5
 **Experiencia**: -
 ***
 **Bonus de Iniciativa**: +3
@@ -19,16 +27,20 @@
 
 ***
 ## Saving Throws
-+ Agilidad (+2)
-+ Carisma (+2)
-## **Aptitudes**:
-+ Acrobacias  (+2)
-+ Intimidación (+2) 
-+ Performance (+2)
-+ Persuasión (+2) 
-+ Juegos de mano (+2)
-+ Sigilo (+2)
-+ Nature (+1)
++ DEX: +6
++ CHA: +7
+## Skills:
++ Acrobatics: +5
++ Intimidation: +7
++ Performance: +7
++ Persuasión: +7 
++ Slight of Hand: +6
++ Stealth: +6
++ Nature: +4
+## Passive Skills.
+- Insight: 11
+- Perception: 11
+- Stealth: 16
 ## **Extras**:
 + **==Carga==:** Si puedes moverte al menos 30 pies derecho a un enemigo y luego golpearlo con una arma cuerpo a cuerpo en el mismo turno, puedes continuarlo con una acción bonus de ataque, haciendo un ataque contra el mismo objetivo con las pezuñas.
 + **==Pezuñas==:** Arma cuerpo a cuerpo natural, que puedes usar para hacer golpes desarmado. Si golpeas con ellos, efectúas daño bludgeoning igual a 1d4 + STR mod.

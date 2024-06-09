@@ -1,44 +1,50 @@
 ---
 ac: "13"
-hp: 18
-level: 4
+hp: 22
+level: 5
 modifier: 3
+aliases:
+  - Thalorien
 ---
 #PC #Elfo #Sorcerer 
 # Jugador: Alonso Vega
 # Stats
-**Nivel**: 4
+**Nivel**: 5
 **Experiencia**: 0
 ***
-**Bonus de Iniciativa**: +3
+**Bonus de Iniciativa**: +2
 
 **Armor** **Class**: 13
-**Hit** **Points**: 18
-**Hit Dice:** 4d6 
+**Hit** **Points**: 22
+**Hit Dice:** 5d6 
 
 **Velocidad**: 30 pies
-**Proficiency Bonus**: +2
+**Proficiency Bonus**: +3
 
 |  STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 | :----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 9 (-1) | 16 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 15 (+2) |
 ***
 ## Saving Throws:
-+ Constitución (+2)
-+ Carisma (+2)
++ Constitución: +3
++ Carisma: +5
 ## **Aptitudes**:
-+ Deception (+2)
-+ Insight (+2)
-+ Persuasión (+2)
-+ Historia (+2)
-+ Percepción (+2)
++ Deception: +5
++ Insight: +4
++ Persuasión: +5
++ Historia: +5
++ Percepción: +4
+## Passive Skills
+- Insight: 14 
+- Perception: 14
+- Stealth: 13
 ## Extras:
 + **==Visión Nocturna==:** Ves como si fuera de día en luz tenue y ves con luz tenue sin luz. No distingues colores en la oscuridad.
 + **==Sentidos Agudos==:** Proficiency en checks de Percepción
 + **==Ancestros Hada==:** Tienes ventaja en saving throws contra ser [encantado](https://5e.tools/conditionsdiseases.html#charmed_phb), y la magia no puede ponerte a dormir.
 + **==Trance==:** Elfos no necesitan dormir. En cambio meditan profundamente quedando semiconscientes por 4 horas al día. (Esto cambia la duración de un descanso largo de 8 hrs a 4 hrs)
 + **==Posición de Privilegio==**: La gente está inclinada a pensar lo mejor de ti. Eres bienvenido en la alta sociedad y la gente asume que tienes el derecho de estar donde sea. La gente común intenta complacerte y otros de alta clase te tratan como igual. Puedes obtener una audiencia con un noble si lo necesitas.
-## Proficiencias:
+## Proficiencies:
 ### Armaduras:
 ### Armas:
 + [Dagas](https://5e.tools/items.html#dagger_phb)
