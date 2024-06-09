@@ -2,7 +2,7 @@
 # INFORMACIÓN
 Raza: Humana
 
-Solia pertenecer al clan bigotes, un clan de [[Hombres Rata]] como el.
+Solia pertenecer al clan bigotes, un clan de [[Hombres Rata]] como él.
 
 Acompañó a [[Thalorien Magune]], [[Juan Cornelio]] y [[Dio Rakitich]] junto a [[Onnen]] en un viaje para recuperar el [[Santuario de Savras]]. En el camino de vuelta, es descubierto y atrapado robándole a Thalorien, y en consecuencia es torturado y causa un asedio contra su clan, exterminándolos.
 

@@ -1,3 +1,4 @@
-#NPC #Deidad 
+#NPC #Deidad #True-Neutral
 Diosa del aire, movimiento y velocidad.
-(True Neutral)
+
+Su símbolo es una nube

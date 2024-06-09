@@ -1,3 +1,8 @@
+---
+aliases:
+  - Malkyn
+  - Malkyn de MowBray
+---
 #NPC #Aliado
 # Description
 Malkyn de Mowbray es una humana diplomática de 50 años.

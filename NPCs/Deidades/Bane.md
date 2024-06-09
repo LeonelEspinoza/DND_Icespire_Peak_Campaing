@@ -1,3 +1,4 @@
-#NPC #Deidad 
+#NPC #Deidad #Lawful-Evil 
 Dios del odio, el miedo y la tiranía. 
-(Lawfull Evil)
+
+Su símbolo es una mano negra.
