@@ -1,4 +1,4 @@
-#Enemigo #Cambiaformas #Humanoide #StatBlock
+#Cambiaformas #Humanoide #StatBlock
 ![[Wererat.png|400]]
 ## Stat Block
 ```statblock

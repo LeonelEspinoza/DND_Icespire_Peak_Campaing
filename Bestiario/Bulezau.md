@@ -40,7 +40,6 @@ actions:
     hit bonus: 2
 creature: Bulezau
 ---
-
 #Enemigo  #Fiend #StatBlock 
 ![[Bulezau.webp|300]]
 ## Statblock
