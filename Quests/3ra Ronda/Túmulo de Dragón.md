@@ -56,4 +56,4 @@ El sarcófago del noroeste contiene al bardo muerto, que fue enterrado con un [l
 ## D8. Mata Dragones
 Dos sarcófagos en alcobas contienen los huesos mohosos y la armadura oxidada de [[Tanamere Alagondar]] y su fiel escudero, pero no contienen nada de valor. El área al norte de los sarcófagos tiene los huesos de [[Azdraka]], un enorme dragón, incrustados en sus paredes. El cráneo del dragón descansa en el suelo y tiene una espada larga encima.
 #### Tesoro
-La [espada es la cazadora de dragones](https://5e.tools/items.html#dragon%20slayer%20longsword_dmg) de [[Lady Alagondar]]. Si se toma la espada, aparece un [[Acosador Invisible]] y ataca a cualquiera en esta área hasta que se devuelve la espada o hasta que ese guardián sea destruido.
+La [espada es la cazadora de dragones](https://5e.tools/items.html#dragon%20slayer%20longsword_dmg) de [[Tanamere Alagondar|Lady Alagondar]]. Si se toma la espada, aparece un [[Acosador Invisible]] y ataca a cualquiera en esta área hasta que se devuelve la espada o hasta que ese guardián sea destruido.

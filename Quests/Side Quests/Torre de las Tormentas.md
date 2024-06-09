@@ -12,14 +12,14 @@ Los personajes llegan durante la marea baja, cuando la calzada que conduce al fa
 >[!Quote] Parafrasear
 > Debajo del alto acantilado que abraza la costa, un afloramiento de roca está casi rodeado por agua, con solo una estrecha calzada que lo conecta con la playa de abajo. Encima de este afloramiento hay un edificio de piedra coronado por la torre del faro. Una espeluznante luz verde emana de esta baliza y brilla hacia el oeste, hacia el mar. Con cada pulso de luz verde, se escucha el latido de un corazón que late lentamente.
 
-Los personajes que buscan un camino seguro hacia los acantilados descubren una escalera tallada en una estrecha fisura. Pueden seguir estos pasos hasta la costa justo al este del área T1. Cuando llegan arrastrándose por la playa hay un [[cangrejo gigante]].
+Los personajes que buscan un camino seguro hacia los acantilados descubren una escalera tallada en una estrecha fisura. Pueden seguir estos pasos hasta la costa justo al este del área T1. Cuando llegan arrastrándose por la playa hay un [[Cangrejo Gigante]].
 
-El [[cangrejo gigante]] agita sus garras hacia los personajes, quienes pueden interpretar este comportamiento como un gesto amistoso con una prueba exitosa de Sabiduría (Manejo de animales) DC 13. Un elfo marino llamado [[Miraal]] usó magia para dotar a esta criatura de una Inteligencia de 10 y la capacidad de hablar Común. Si los personajes se acercan pacíficamente, el cangrejo dice: "¡Bien conocido!". e intenta entablar una conversación, durante la cual imparte la siguiente información:
+El [[Cangrejo Gigante]] agita sus garras hacia los personajes, quienes pueden interpretar este comportamiento como un gesto amistoso con una prueba exitosa de Sabiduría (Manejo de animales) DC 13. Un elfo marino llamado [[Miraal]] usó magia para dotar a esta criatura de una Inteligencia de 10 y la capacidad de hablar Común. Si los personajes se acercan pacíficamente, el cangrejo dice: "¡Bien hallado!". e intenta entablar una conversación, durante la cual imparte la siguiente información:
 - "Las [[Arpías]] malvadas anidan en lo alto del afloramiento rocoso".
 - "Hay tiburones en estas aguas, pero al que hay que temer es a un viejo bruto llamado [[Daggermaw]]. Te arrancará la cabeza de un mordisco y disfrutará de ello".
 - "Hay cinco restos de naufragios esparcidos alrededor de la roca debajo del faro. Buscaré el tesoro de uno de estos naufragios si me ayudas".
-## Ayudando al [[cangrejo gigante]]
-Si los personajes acceden a ayudar al cangrejo gigante, este les pide que descansen a su maestro elfo marino muerto, [[Miraal]], cuyo espíritu ronda una cueva cercana (área T1). Si los personajes lo hacen, el cangrejo les agradece y cumple su promesa, recuperando el [arma +1](https://5e.tools/items.html#%2b1%20weapon_dmg) de los restos del Star-Crossed Lover (ver la [tabla de Naufragios](https://5e.tools/adventure.html#dip,12,t10%e2%80%93t14.%20shipwrecks,0)).
+## Ayudando al [[Cangrejo Gigante]]
+Si los personajes acceden a ayudar al cangrejo gigante, este les pide que descansen a su maestro elfo marino muerto, [[Miraal]], cuyo espíritu ronda una cueva cercana (área [[#T1. Cueva Encantada]]). Si los personajes lo hacen, el cangrejo les agradece y cumple su promesa, recuperando el [arma +1](https://5e.tools/items.html#%2b1%20weapon_dmg) de los restos del Star-Crossed Lover (ver la [tabla de Naufragios](https://5e.tools/adventure.html#dip,12,t10%e2%80%93t14.%20shipwrecks,0)).
 # Ubicaciones
 ![[DM_Tower_of_Storms.webp]]
 ## T1. Cueva Encantada
