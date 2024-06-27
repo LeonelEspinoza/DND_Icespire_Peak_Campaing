@@ -17,3 +17,6 @@ Los halflings demoniacos planean realizar un ritual a gran escala cerca del [[Mo
 
 # Gremios de ladrones en [[Neverwinter]]
 Dentro de Neverwinter se encuentran 5 gremios de ladrones, 4 de ellos conocidos. Los jugadores serán capaces de unirse a alguno de los 4 más conocidos, y si buscan mucho encontrarán el 5 que es el único sin conexiones con la realeza de [[Neverwinter]] y quienes buscan liberar a [[Neverwinter]] de las garras de la nobleza corrupta.
+
+# El único sobreviviente
+Dentro de una mazmorra, la party se va encontrando los cuerpos muertos relativamente recientes de una party. Llega un punto donde se encuentran al último integrante vivo de esta party muy mal herido y sin opciones de sobrevivir. Acostado, respirando sus ultimas bocanadas de aire con los ojos hinchados por el duelo de perder a sus compañeros, espera la tranquilidad de la muerte. Al encontrarse con la party esta acostado y se intenta poner en guardia, pero ni siquiera puede mantener su espada en alto. Les advierte sobre los peligros que encontró dentro de la mazmorra, aunque solo aquello a lo que sobrevivio. Les aconseja alejarse, que no hay nada dentro que valga la pena el riesgo.

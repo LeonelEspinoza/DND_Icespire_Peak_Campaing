@@ -1,9 +1,5 @@
----
-tags:
-  - Graph_Ignore
----
 #Sistema inspirado en "Reign" por Polito
-<center> <h1> Mecánica Homemade: <br>Gobernanza (Política y Militar) </h1></center>
+<center> <h1> Mecánica Hombrew: <br>Gobernanza (Política y Militar) </h1></center>
 En este sistema político existen facciones. Estas facciones se constituyen cuando una persona o grupo adquiere suficiente poder para influenciar otros.
 
 Para este sistema se ocupan d10. Se ruedan la cantidad de dados igual a la suma de puntajes actuales en lo que pide la actividad.

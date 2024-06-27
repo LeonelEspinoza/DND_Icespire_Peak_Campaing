@@ -1,5 +1,5 @@
 ---
-ac: "14"
+ac: "15"
 hp: 48
 level: 5
 modifier: 3
@@ -14,7 +14,7 @@ aliases:
 ***
 **Bonus de Iniciativa**: +3
 
-**Armor** **Class**: 14 (11 + Dex Armadura ligera)
+**Armor** **Class**: 15 (11 + Dex Armadura ligera)
 **Hit** **Points**: 10 (10 max)
 **Hit Dice:** 1d8 (1 max)
 
@@ -23,7 +23,7 @@ aliases:
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 15 (+2) | 17 (+3) | 15 (+2) | 12 (+1) | 13 (+1) | 18 (+4) |
+| 15 (+2) | 18 (+4) | 15 (+2) | 12 (+1) | 13 (+1) | 18 (+4) |
 
 ***
 ## Saving Throws
@@ -47,7 +47,13 @@ aliases:
 + **==Constitución Equina==:** Al calcular pesos que puedes acarrear o sostener cuentas como un tamaño más grande (Grande). Además de eso, cualquier escalada que requiera manos y pies, se cuadruplica el costo de movimiento (4 extra en vez de 1 extra).
 + **==Superviviente==:** Tienes proficiencia en una de las siguientes aptitudes: *Animal Handling, Medicina, Naturaleza, Supervivencia*. 
 + **==Demanda Popular:==** Siempre puedes encontrar un lugar donde actuar, usualmente en una posada o taberna pero posiblemente con un circo, teatro o incluso en la corte de un noble. Allí recibes alojamiento y comida gratuitos, siempre y cuando actúes cada noche. Tu actuación te convertirá en una figura local. Cuando los extraños te reconocen en una ciudad donde has actuado, normalmente les caes bien.
-## Proficiencias
++ ==**Gunner:**== Tienes mano rápida y buen ojo al emplear armas de fuego, lo que te otorga los siguientes beneficios: 
+	+ Aumenta tu puntuación de DEX +1, hasta un máximo de 20. 
+	+ Obtienes proficiency con armas de fuego.
+	+ Ignoras la propiedad de carga de las armas de fuego. 
+	+ Estar a 5 pies de una criatura hostil no impone desventajas en tus tiradas de ataque a distancia.
++ **==sharp shooter==**
+## Proficiencies
 ### Armaduras:
 + [light armor](https://5e.tools/items.html#blankhash,flsttype:light%20armor=1)
 ### Armas:
@@ -56,6 +62,7 @@ aliases:
 + [longswords](https://5e.tools/items.html#longsword_phb)
 + [rapiers](https://5e.tools/items.html#rapier_phb)
 + [shortswords](https://5e.tools/items.html#shortsword_phb)
++ [firearms](https://5e.tools/variantrules.html#firearms_dmg)
 ### Herramientas:
 + 4 [instrumentos musicales](https://5e.tools/items.html#musical%20instrument_phb)
 + Kit de disfraz
@@ -83,3 +90,4 @@ Viene de un pueblo de centauros bardos que buscan ser los historiadores más gra
 + [This-What](https://5e.tools/items.html#rapier_phb)
 + [entertainer's pack](https://5e.tools/items.html#entertainer's%20pack_phb)
 + [Leather armor](https://5e.tools/items.html#leather%20armor_phb) (AC 11+ DEX)
++ [Musket](https://5e.tools/items.html#musket_dmg)

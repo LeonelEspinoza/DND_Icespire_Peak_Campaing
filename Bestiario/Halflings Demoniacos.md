@@ -154,7 +154,7 @@ traits:
   - name: Halfling Nimbleness.
     desc: Can move through the space of any creature that is of a size larger than themselves.
   - name: Agile.
-    desc: Can Disengage as a bonus action and Speed +5ft.
+    desc: Can dodge as a bonus action and Speed +5ft.
   - name: Pack Tactics.
     desc: The halfling has advantage on an attack roll against a creature if at least one of the halfling's allies is within 5 feet of the creature and the ally isn't [incapacitated](https://5e.tools/conditionsdiseases.html#incapacitated_phb).
 languages: Common, Halfling, Abyssal
@@ -176,7 +176,7 @@ bonus_actions:
     desc: _Melee or Ranged Weapon Attack:_ +6 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 2 (1d4) piercing damage.
     attack_bonus: 5
     hit_bonus: 0
-  - name: Disengage.
+  - name: Dodge.
     desc: Agile feat.
     attack_bonus: 0
     hit_bonus: 0

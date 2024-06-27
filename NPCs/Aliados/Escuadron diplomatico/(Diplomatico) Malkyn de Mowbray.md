@@ -20,36 +20,57 @@ Por las noches sale secretamente a ver armas.
 ## Relationships
 Orientación Sexual - Hetero
 Estado civil - Viuda recientemente
-# Ability Scores
-Nivel 4
-Clase: Diplomático
-
-| Ability | Score | Mod  |
-| ------- | ----- | ---- |
-| **STR** | 7     | (-2) |
-| **DEX** | 10    | (+0) |
-| **CON** | 7     | (-2) |
-| **INT** | 15    | (+2) |
-| **WIS** | 14    | (+2) |
-| **CHA** | 15    | (+2) |
-**Armor Class:** 11 ([Leather Amor](https://5e.tools/items.html#leather%20armor_phb))
-**Hit Points:** 20
-**Velocidad:** 30 ft
-
-**Passive Perception:** 12
-
-**Saving Throws:**
-+ WIS +4
-+ CHA +4
-
-**Skills:** 
-+ Insight +4
-+ Persuasión +4
-+ Deception +4
-+ Perception +4
-
-**Lenguajes:** Common, Élfico
-**Bonus de Proficiencia:** +2
+## Statblock
+```statblock
+statblock: false
+bestiary: false
+name: "Diplomática Malkyn"
+source: "hombrew"
+size: "Medium"
+type: "Humanoid"
+alignment: "Neutral Good"
+ac: 11
+hp: 20
+hit_dice: 5d8 - 2
+speed: 30 ft.
+stats:
+  - 7
+  - 12
+  - 7
+  - 16
+  - 15
+  - 16
+saves:
+  - WIS: +5
+  - CHA: +5
+skillsaves:
+  - Insight: +4
+  - Persuasion: +5
+  - Deception: +5
+  - Perception: +4
+senses: "passive Perception 14"
+languages: "Common, Elvish, Dwarvish"
+cr: 2
+spells:
+  - Malkyn uses their Charisma as their spellcasting ability. Their Spell Casing Modifier is +5 and have a Spellcasting DC 13.
+  - Cantrips: [Cantrip Friends](https://5e.tools/spells.html#friends_phb)
+  - 1st Level (4 slots): [Command](https://5e.tools/spells.html#command_phb)
+  - 2nd Level (2 slots): [Suggestion](https://5e.tools/spells.html#suggestion_phb)
+traits:
+  - name: "Diffuse (3 per Rest)"
+    desc: "Malkyn uses her linguistic ability to calm an opponent she can see within 60 feet. The target of her choice must make a wisdom saving throw DC 13. If the save fails, the target cannot attack anything until the end of her next turn. During this time they are contemplating which side they should be on. If a success is achieved, nothing happens."
+    attack_bonus: 0
+actions:
+  - name: "Rapier"
+    desc: "_Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage."
+    attack_bonus: 3
+    hit_bonus: 1
+  - name: "Dagger"
+    desc: "_Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 1) slashing damage."
+    attack_bonus: 3
+    hit_bonus: 1
+creature: "Diplomatica Malkyn"
+```
 ## Feats Diplomático
 ### Entrenamiento diplomático: El sinvergüenza social
 El sinvergüenza social es un detector de mentiras ambulante. Tiene una visión perfecta de cualquier humanoide o ser en el reino. Fue entrenado para aprovechar las microexpresiones más que el diplomático común. Puede mirar a través de mentiras y llegar a la verdadera intención de cualquier persona.
@@ -69,17 +90,9 @@ $PB$ es Proficiency Bonus
 $CM$ es Charisma Modifier
 ### Difuso 
 En la batalla, puedes usar tu habilidad lingüística para calmar a un oponente que puedas ver a menos de 60 pies. En tu turno, gasta 1 punto de persuasión. El objetivo de tu elección tiene que realizar una tirada de salvación de sabiduría contra tu DC de salvación diplomática.
-Si falla la salvación, el objetivo no puede atacar nada hasta el final de tu siguiente turno. Durante este tiempo está contemplando de qué lado debería estar. Si se logra un éxito, no sucede nada. 
+Si falla la salvación, el objetivo no puede atacar nada hasta el final de tu siguiente turno. Durante este tiempo está contemplando de qué lado debería estar. Si se logra un éxito, no sucede nada.
 ### Una mano amiga 
 A partir del nivel 3, obtienes la capacidad de lanzar [Cantrip Friends](https://5e.tools/spells.html#friends_phb), el hechizo de primer nivel [Command](https://5e.tools/spells.html#command_phb) y el hechizo de segundo nivel [Suggestion](https://5e.tools/spells.html#suggestion_phb). Tu habilidad para lanzar hechizos es carisma, tu modificador de hechizo es igual a tu proficiency más tu modificador de carisma. Tu DC de save de hechizos es reemplazado por tu DC de salvación diplomática.
-## Acciones
-+ **This-What:** Reach 5ft; Ataque +2; Daño 1d8+0; Piercing
-+ Dagas
-+ **Difuso**
-+  [Cantrip Friends](https://5e.tools/spells.html#friends_phb)
-+  [Command](https://5e.tools/spells.html#command_phb)
-+  [Suggestion](https://5e.tools/spells.html#suggestion_phb)
-
 ## Equipo Diplomático
 - [[(Soldado) Farfelee]]
 - [[(Soldado) Rowan Chaucer]]

@@ -44,6 +44,12 @@ aliases:
 + **==Ancestros Hada==:** Tienes ventaja en saving throws contra ser [encantado](https://5e.tools/conditionsdiseases.html#charmed_phb), y la magia no puede ponerte a dormir.
 + **==Trance==:** Elfos no necesitan dormir. En cambio meditan profundamente quedando semiconscientes por 4 horas al día. (Esto cambia la duración de un descanso largo de 8 hrs a 4 hrs)
 + **==Posición de Privilegio==**: La gente está inclinada a pensar lo mejor de ti. Eres bienvenido en la alta sociedad y la gente asume que tienes el derecho de estar donde sea. La gente común intenta complacerte y otros de alta clase te tratan como igual. Puedes obtener una audiencia con un noble si lo necesitas.
++ Ritual Caster
++ ==**Telequinesis:**== Aprendes a mover cosas con la mente, otorgándote los siguientes beneficios:
+	+  Aumenta tu Inteligencia, Sabiduría o Carisma en 1, hasta un máximo de 20.
+	+ Aprendes el cantrip mage hand. Puedes lanzarlo sin componentes verbales o somáticos, y puedes hacer que la mano espectral sea invisible. Si ya conoces este hechizo, su alcance aumenta en 30 pies cuando lo lanzas. Su capacidad de lanzar hechizos es la capacidad aumentada por esta dote.
+	+ Como acción adicional, puedes intentar empujar telequinéticamente a una criatura que puedas ver a 30 pies de ti. Cuando lo hagas, el objetivo debe superar una tirada de salvación de Fuerza (CD 8 + tu bonificación de competencia + el modificador de habilidad de la puntuación incrementado por esta dote) o ser movido 5 pies hacia ti o alejándote de ti. Una criatura puede fallar voluntariamente esta salvación.
++ **==Líder Inspirador:==** Puedes dedicar 10 minutos a inspirar a tus compañeros y reforzar su determinación de luchar. Cuando lo hagas, elige hasta seis criaturas amigas (entre las que puedes incluirte a ti) a 30 pies de ti que puedan verte u oírte y que puedan entenderte. Cada criatura puede ganar puntos de vida temporales iguales a tu nivel + tu modificador de Carisma. Una criatura no puede volver a ganar puntos de golpe temporales con esta dote hasta que haya terminado un descanso corto o largo.
 ## Proficiencies:
 ### Armaduras:
 ### Armas:

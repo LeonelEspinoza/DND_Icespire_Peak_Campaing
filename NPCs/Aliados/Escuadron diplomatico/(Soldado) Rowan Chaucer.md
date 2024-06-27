@@ -1,8 +1,13 @@
-#NPC #Aliado 
+---
+aliases:
+  - Rowan
+  - Rowan Chaucer
+---
+#NPC #Aliado #StatBlock 
 # Description
 Rowan Chaucer es un soldado humano de 30 años.
 Tiene un cabello marrón largo y con rulos con ojos rojos.
-Tiene una
+
 Tiene la piel marrón, rugosa y porosa.
 Mide 152cm (4'11'') y tiene una complexión atlética.
 Tiene una cara típica ovalada.
@@ -16,36 +21,43 @@ Es muy lento para confiar en otras personas. Pasa todas las mañanas entrenando.
 ## Relationships
 Orientación - Hetero
 Estado Civil - Soltero
-# Ability Scores
-Nivel 3
-Clase: Fighter
-
-| Ability | Score | Mod  |
-| ------- | ----- | ---- |
-| **STR** | 18    | (+4) |
-| **DEX** | 12    | (+1) |
-| **CON** | 18    | (+4) |
-| **INT** | 9     | (-1) |
-| **WIS** | 9     | (-1) |
-| **CHA** | 13    | (+1) |
-**Armor Class:** 18 ([Plate Armor](https://5e.tools/items.html#plate%20armor_phb))
-**Hit Points:** 30
-**Velocidad:** 30 ft
-
-**Passive Perception:** 9
-
-**Saving Throws:**
-+ STR +6
-+ CON +6
-
-**Skills:** 
-+ Athletics
-+ Intimidación
-**Resistencias:** None
-**Debilidades:** Contundente, Slash
-**Sentidos:** 
-**Lenguajes:** Common
-**Bonus de Proficiencia:** +2
-## Acciones
-Heavy Crossbow
-hand axes
+## Statblock
+```statblock
+statblock: false
+bestiary: false
+name: "Soldado Rowan"
+source: "hombrew"
+size: "Medium"
+type: "Humanoid"
+alignment: "Lawful Evil"
+ac: 18
+hp: 42
+hit_dice: 5d8+20
+speed: 30 ft.
+stats:
+  - 18
+  - 12
+  - 18
+  - 9
+  - 9
+  - 13
+saves:
+  - STR: +6
+  - CON: +6
+skillsaves:
+  - Athletics: +6
+  - Intimidation: +3
+senses: "passive Perception 9"
+languages: "Common"
+cr: 2
+actions:
+  - name: "Multiattack"
+    desc: "Rowan can strike 2 times with their greatsword"
+    attack_bonus: 0
+    hit_bonus: 0
+  - name: "Greatsword"
+    desc: "_Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage."
+    attack_bonus: 6
+    hit_bonus: 4
+creature: "Soldado Rowan"
+```

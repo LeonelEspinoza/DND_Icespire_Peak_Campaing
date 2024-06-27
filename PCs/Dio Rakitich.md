@@ -1,7 +1,7 @@
 ---
 ac: "18"
-hp: 24
-level: 4
+hp: 31
+level: 5
 modifier: 4
 aliases:
   - Dio
@@ -9,36 +9,48 @@ aliases:
 #PC #Halfling #Paladin
 # Jugador: Mathias Perez
 # Stats
-**Nivel**: 3
+**Nivel**: 5
 **Experiencia**: -
 ***
 **Bonus de Iniciativa**: +3
 
 **Armor** **Class**: 18 (+16 Armadura pesada) (+2 Escudo) 
-**Hit** **Points**: 10 (10 max)
-**Hit Dice:** 1d10 (1 max)
+**Hit** **Points**: 31
+**Hit Dice:** 5d10 (5 max)
 
-**Velocidad**: 25 pies
+**Velocidad**: 35 pies
 **Bonus de Proficiency**: +2
 
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |  CHA   |
-| :-----: | :-----: | :-----: | :-----: | :-----: | :----: |
-| 16 (+3) | 18 (+4) | 11 (+0) | 15 (+2) | 12 (+1) | 7 (-2) |
-
+|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| 16 (+3) | 18 (+4) | 11 (+0) | 15 (+2) | 12 (+1) | 7 (-2)  |
+| 11 (+0) | 16 (+3) | 15 (+2) | 7 (-2)  | 12 (+1) | 18 (+4) |
+cha>dex>con
+dex>cha>con
 ***
 ## Saving Throws
-+ Sabiduría (+2)
-+ Carisma (+2)
++ **WIS**: +4
++ **CHA**: +1
 ## **Aptitudes**:
-+ Atletismo (+2)
-+ Intimidación (+2)
-+ Medicina (+2)
-+ Religión  (+2)
++ Atletismo: (+2)
++ Intimidación: (+2)
++ Medicina: (+2)
++ Religión:  (+2)
++ Slight of Hands: 
+## Passive Skills
+- Insight: 11 
+- Perception: 11
+- Stealth: 14
 ## Extras:
 + **==Valiente==:** Ventaja en saves contra ser asustado
 + **==Agilidad del Mediano==:** Puedes moverte a través de espacios en los que haya criaturas un tamaño más grande que tú.
 + **==Suerte==:** Al obtener un "*NATURAL 1*" en un ataque, check de habilidad o saving throw, puedes volver a tirar el dado y DEBES usar el nuevo roll.
 + **==Rango militar==**: Tienes un rango militar de tu carrera como soldado. Soldados leales a tu antigua organización todavía reconocen tu autoridad e influencia. Puedes invocar tu rango para ejercer influencia en otros soldados y solicitar equipos simples o caballos para uso temporal. Por lo general, también puedes obtener acceso a fortalezas y campamentos militares amigos donde se reconoce tu rango.
++ ==**Mobil:**== Eres excepcionalmente rápido y ágil. Obtienes los siguientes beneficios:
+	+ Tu velocidad aumenta en 10 pies.
+	+ Cuando usas la acción Dash, el terreno difícil no te cuesta movimiento adicional en ese turno.
+	+ Cuando realizas un ataque cuerpo a cuerpo contra una criatura, no provocas ataques de oportunidad de esa criatura durante el resto del turno, ya sea que golpees o no.
++ **==Duelista Defensivo:==** Cuando empuñas un arma finesse con la que eres competente y otra criatura te golpea con un ataque cuerpo a cuerpo, puedes usar tu reacción para agregar tu bonificación de competencia a tu AC para ese ataque, lo que podría provocar que el ataque no te alcance.
 ## Proficiencias:
 ### Armaduras:
 + [light armor](https://5e.tools/items.html#blankhash,flsttype:light%20armor=1)

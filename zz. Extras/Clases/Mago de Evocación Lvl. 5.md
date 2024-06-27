@@ -6,12 +6,12 @@
 | 4th   | +2                | —                                                                                                                                                              | 4                                                                                         | 4                                                                              | 3                                                                              | —                                                                              |
 | 5th   | +3                | —                                                                                                                                                              | 4                                                                                         | 4                                                                              | 3                                                                              | 2                                                                              |
 ## Arcane Recovery
-Una vez a la semana, al finalizar un descanso corto, puedes elegir "spell slots" gastados para recuperarlos. Los "spell slots" pueden tener un nivel combinado $\leq$ a la mitad del nivel del mago (redondeado hacia arriba), y ninguno de los "slots" puede ser de nivel 6 o mayor.
+Una vez a la semana, al finalizar un descanso corto, puedes elegir "**spell slot**s" gastados para recuperarlos. Los "**spell slot**s" pueden tener un nivel combinado $\leq$ a la mitad del nivel del mago (redondeado hacia arriba), y ninguno de los "slots" puede ser de nivel 6 o mayor.
 
-Por ejemplo, si eres un mago nivel 5, puedes recuperar una cantidad igual a 3 niveles de "spell slots". Puedes recuperar:
-+ Solo 1 "spell slot" de nivel 3.
-+ 1 "spell slot" de nivel 2 y 2 de nivel 1.
-+ 3 "spell slots" de nivel 1.
+Por ejemplo, si eres un mago nivel 5, puedes recuperar una cantidad igual a 3 niveles de "**spell slot**s". Puedes recuperar:
++ Solo 1 "**spell slot**" de nivel 3.
++ 1 "**spell slot**" de nivel 2 y 2 de nivel 1.
++ 3 "**spell slot**s" de nivel 1.
 ## Lanzar Hechizos
 #### Cantrips o Canticos
 Empiezas con 3 cánticos conocidos y a medida que subes de nivel, aprendes más.
@@ -19,9 +19,9 @@ A nivel 5 conoces 4 cánticos.
 #### Spellbook o Libro de Hechizos
 Comienzas con un libro de hechizos que contiene 6 hechizos de nivel 1 de los [hechizos de mago](https://5e.tools/spells.html#blankhash,flstclass:wizard=1) a tu elección. Tu libro de hechizos es el repositorio de los hechizos de mago que conoces, exceptuando los cánticos.
 #### Preparar y lanzar Hechizos
-Para lanzar un hechizo, debes gastar un "spell slot" igual o superior al nivel del hechizo. Recuperas todos los "spell slots" gastados al finalizar un descanso largo.
+Para lanzar un hechizo, debes gastar un "**spell slot**" igual o superior al nivel del hechizo. Recuperas todos los "**spell slot**s" gastados al finalizar un descanso largo.
 
-Preparas la lista de hechizos de mago que están disponibles para que los lances. Para esto, elige un número de hechizos de mago de tu libro de hechizos igual a tu modificador de inteligencia más tu nivel de mago (mínimo 1). Estos hechizos deben ser de un nivel para el cuál tengas "spell slots" disponibles.
+Preparas la lista de hechizos de mago que están disponibles para que los lances. Para esto, elige un número de hechizos de mago de tu libro de hechizos igual a tu modificador de inteligencia más tu nivel de mago (mínimo 1). Estos hechizos deben ser de un nivel para el cuál tengas "**spell slot**s" disponibles.
 $$Cantidad\ a\ preparar = Modificador\ INT + Nivel$$
 Lanzar un hechizo no lo saca de tu lista de hechizos preparados.
 
@@ -33,5 +33,11 @@ $$Modificador\ de\ ataque\ hechizo=Proficiency\ bonus+Modificador\ INT$$
 #### Lanzar Rituales
 Puedes lanzar hechizos como un ritual si el hechizo tiene la cualidad de ritual y lo tienes en tu libro de hechizos. No necesitas tenerlo preparado.
 #### Aprender Hechizos de Nivel 1 y Superior
-Cada vez que ganas un nivel, puedes añadir 2 hechizos de mago a tu elección a tu libro de hechizos. Cada uno de estos debe ser de un nivel para el cuál tienes "spell slots". En tus aventuras puede que encuentres otros hechizos que podrás añadir a tu libro de hechizos.
-## Tradición Arcana
+Cada vez que ganas un nivel, puedes añadir 2 hechizos de mago a tu elección a tu libro de hechizos. Cada uno de estos debe ser de un nivel para el cuál tienes "**spell slot**s". En tus aventuras puede que encuentres otros hechizos que podrás añadir a tu libro de hechizos.
+## Tradición Arcana: Escuela de Evocación
+#### Sabio de la evocación
+El oro y tiempo que gastas en copiar un hechizo de evocación en tu libro de hechizos se reduce a la mitad.
+#### Esculpir Hechizos
+Puedes crear bolsillos seguros dentro del efecto de tus hechizos de evocación. Puedes elegir un número de criaturas igual a 1 + el nivel del hechizo para que estas tengan éxito en sus tiradas de salvación contra tú hechizo y no toman daño en caso de tomar la mitad del daño por un éxito.
+## Formulas de Canticos
+Al terminar un long rest puedes reemplazar un cantrip de mago que conozcas por otro cantrip de la [lista de hechizos de mago](https://5e.tools/spells.html#abi-dalzim's%20horrid%20wilting_xge).

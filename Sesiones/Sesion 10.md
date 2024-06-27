@@ -50,7 +50,7 @@ Como la sesión pasada los jugadores enviaron a los enanos hacia Axeholm y no vo
 ## Actualizar stats de los personajes
 Como todos los personajes subieron de nivel en la sesión pasada va a ser necesario actualizar su vida y otros aspectos como sus checks pasivos y cosas.
 # Resumen [[Sesion 9|Sesión Anterior]]
-Después del exitoso por parte de los soldados de Phandalin en el asedio a contra los hombres rata en la mina "Dedos de Montaña", se dirigen de vuelta a Phandalin junto con los soldados y los cuerpos de los caídos en batalla.
+Después del éxito por parte de los soldados de Phandalin en el asedio a contra los hombres rata en la mina "Dedos de Montaña", se dirigen de vuelta a Phandalin junto con los soldados y los cuerpos de los caídos en batalla.
 
 Al día siguiente de su llegada Thalorien junto a Dio dan algunos discursos honrando la valentía de los soldados, y particularmente recompensando a las familias de los soldados caídos.
 

@@ -1,4 +1,9 @@
-#NPC #Aliado 
+---
+aliases:
+  - Ella
+  - Ella Truegust
+---
+#NPC #Aliado #StatBlock 
 # Description
 Ella Truegust es una soldado humana de 28 años.
 Tiene un cabello blanco corto y trenzado con ojos azules.
@@ -17,37 +22,51 @@ Estado civíl - Atraida por [[Thalorien Magune]]
 Huérfana
 Entro a la milicia por lo fácil que es encontrar y subsistir dentro de la misma.
 Tiene sentimientos por [[Thalorien Magune]]
-# Ability Scores
-Nivel 3
-Clase: Fighter
-
-| Ability | Score | Mod  |
-| ------- | ----- | ---- |
-| **STR** | 13    | (+1) |
-| **DEX** | 14    | (+2) |
-| **CON** | 14    | (+2) |
-| **INT** | 9     | (-1) |
-| **WIS** | 11    | (+0) |
-| **CHA** | 12    | (+1) |
-**Armor Class:** 18 ([Plate Armor](https://5e.tools/items.html#plate%20armor_phb))
-**Hit Points:** 35
-**Velocidad:** 30 ft
-
-**Passive Perception:** 10
-
-**Saving Throws:**
-+ STR +3
-+ CON +4
-
-**Skills:** 
-+ Stealth
-+ Slight of Hand
-+ Perception
-**Resistencias:** None
-**Debilidades:** Contundente, Slash
-**Sentidos:** 
-**Lenguajes:** Common
-**Bonus de Proficiencia:** +2
-## Acciones
-Great Axe
-light crossbow
+## Statblock
+```statblock
+statblock: false
+bestiary: false
+name: "Soldado Ella"
+source: "hombrew"
+size: "Medium"
+type: "Humanoid"
+alignment: "Lawful Evil"
+ac: 16
+hp: 37
+hit_dice: 5d8+15
+speed: 30 ft.
+stats:
+  - 16
+  - 17
+  - 17
+  - 9
+  - 10
+  - 10
+saves:
+  - STR: +5
+  - CON: +5
+skillsaves:
+  - Athletics: +5
+  - Slight of Hand: +5
+  - Perception: +2
+senses: "passive Perception 12"
+languages: "Common"
+cr: 2
+actions:
+  - name: "Multiattack"
+    desc: "Ella can shoot 3 times with their short bow"
+    attack_bonus: 0
+    hit_bonus: 0
+  - name: "Short bow"
+    desc: "_Ranged Weapon Attack:_ +5 to hit, reach 80/320 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage."
+    attack_bonus: 5
+    hit_bonus: 3
+  - name: "Scimitar"
+    desc: "_Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage."
+    attack_bonus: 5
+    hit_bonus: 3
+bonus_actions:
+  - name: "Dagger"
+    desc: "_Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) slashing damage."
+creature: "Soldado Ella"
+```

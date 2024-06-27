@@ -1,3 +1,7 @@
+---
+aliases:
+  - dragón blanco
+---
 #NPC #Enemigo #Dragon #StatBlock
 ![[Dragon_Blanco.jpg|400]]
 ```statblock

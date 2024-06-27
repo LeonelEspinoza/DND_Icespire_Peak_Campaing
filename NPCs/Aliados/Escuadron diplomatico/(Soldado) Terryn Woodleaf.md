@@ -1,3 +1,8 @@
+---
+aliases:
+  - Terryn
+  - Terryn Woodleaf
+---
 #NPC #Aliado 
 # Description
 Terryn Woodleaf es un guardaespaldas humano de 40 años.
@@ -15,37 +20,43 @@ Es muy generoso. Solía ser intimidado cuando era niño y aprendió a luchar par
 ## Relationships
 Orientación - Hetero
 Estado Civil - Soltero
-# Ability Scores
-Nivel 3
-Clase: Fighter
-
-| Ability | Score | Mod  |
-| ------- | ----- | ---- |
-| **STR** | 10    | (+0) |
-| **DEX** | 9     | (-1) |
-| **CON** | 11    | (+0) |
-| **INT** | 11    | (+0) |
-| **WIS** | 16    | (+3) |
-| **CHA** | 12    | (+1) |
-**Armor Class:** 18 ([Plate Armor](https://5e.tools/items.html#plate%20armor_phb))
-**Hit Points:** 29
-**Velocidad:** 30 ft
-
-**Passive Perception:** 13
-
-**Saving Throws:**
-+ STR +2
-+ CON +2
-
-**Skills:** 
-+ Athletics
-+ Acrobatics
-
-**Resistencias:** None
-**Debilidades:** Contundente, Slash
-**Sentidos:** 
-**Lenguajes:** Common
-**Bonus de Proficiencia:** +2
-## Acciones
-Lanza
-Hand-Axes
+## Statblock
+```statblock
+statblock: false
+bestiary: false
+name: "Soldado Terryn"
+source: "hombrew"
+size: "Medium"
+type: "Humanoid"
+alignment: "Lawful Evil"
+ac: 18
+hp: 42
+hit_dice: 5d8+20
+speed: 30 ft.
+stats:
+  - 18
+  - 12
+  - 18
+  - 9
+  - 9
+  - 13
+saves:
+  - STR: +6
+  - CON: +6
+skillsaves:
+  - Athletics: +6
+  - Intimidation: +3
+senses: "passive Perception 9"
+languages: "Common"
+cr: 2
+actions:
+  - name: "Multiattack"
+    desc: "Terryn can strike 2 times with their pike"
+    attack_bonus: 0
+    hit_bonus: 0
+  - name: "Pike"
+    desc: "_Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 11 (1d10 + 4) piercing damage."
+    attack_bonus: 6
+    hit_bonus: 4
+creature: "Soldado Terryn"
+```

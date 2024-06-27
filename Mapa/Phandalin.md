@@ -1,8 +1,7 @@
 #Ubicación #Pueblo
-**Población actual:** 120 personas
-**Población Letrada:** 35%
-**[[Soldados Defensores de Phandalin]]:** 9
-
+**Población actual:** 140 personas
+**Población Letrada:** 46 (35%) 
+**[[Soldados Defensores de Phandalin]]:** 11 (8%)
 ***
 El pueblo frontera de Phandalin esta construido en las ruinas de un asentamiento mucho más antiguo. Cientos de años antes, el antiguo Phandalin era un prospero pueblo humano cuya gente estaba firmemente aliada con los enanos y gnomos vecinos. Entonces una horda de orcos arrasó el área y dejó los escombros abandonados por centenares.
 
@@ -39,7 +38,7 @@ El único templo de Phandalin, hecho de rocas de las ruinas de al rededor. Esta 
 
 Si los personajes inspeccionan el tablón de anuncios, procede a la sección de [[Quests]]
 ## Casa Magnus
-Construida por los Players.
+Construida por los jugadores.
 {{Imagen casa magnus}}
 # Cuentos de Phandalin
 | d6  | Tale                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |

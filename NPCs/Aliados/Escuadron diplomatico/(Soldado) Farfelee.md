@@ -1,4 +1,8 @@
-#NPC #Aliado 
+---
+aliases:
+  - Farfelee
+---
+#NPC #Aliado #StatBlock
 # Description 
 Farfelee Cornwallis es una guardaespaldas humana de 19 años.
 Tiene un cabello café corto y ondulado con ojos verdes.
@@ -15,38 +19,44 @@ Es bastante conversadora.
 Es ludópata.
 ## Relationships 
 Orientación - Bisexual 
-Estado Civíl - Tiene una pareja y esta teniendo una amorío 
-# Ability Scores 
-Nivel 3
-Clase: Fighter
-
-| Ability | Score | Mod  |
-| ------- | ----- | ---- |
-| **STR** | 16    | (+3) |
-| **DEX** | 9     | (-1) |
-| **CON** | 16    | (+3) |
-| **INT** | 9     | (-1) |
-| **WIS** | 13    | (+1) |
-| **CHA** | 12    | (+1) |
-**Armor Class:** 18 ([Plate Armor](https://5e.tools/items.html#plate%20armor_phb))
-**Hit Points:** 36
-**Velocidad:** 30 ft
-
-**Passive Perception:** 11
-
-**Saving Throws:**
-+ STR +5
-+ CON +5
-
-**Skills:** 
-+ Athletics
-+ Insight
-
-**Resistencias:** None
-**Debilidades:** Contundente, Slash
-**Sentidos:** 
-**Lenguajes:** Common
-**Bonus de Proficiencia:** +2
-## Acciones
-Warhammer
-Hand Crosbow
+Estado Civil - Tiene una pareja y esta teniendo una amorío  
+## Statblock
+```statblock
+statblock: false
+bestiary: false
+name: "Soldado Farfelee"
+source: "hombrew"
+size: "Medium"
+type: "Humanoid"
+alignment: "True Neutral"
+ac: 18
+hp: 37
+hit_dice: 5d8+15
+speed: 30 ft.
+stats:
+  - 18
+  - 9
+  - 18
+  - 9
+  - 11
+  - 10
+saves:
+  - STR: +6
+  - CON: +6
+skillsaves:
+  - Athletics: +6
+  - Insight: +2
+senses: "passive Perception 10"
+languages: "Common"
+cr: 2
+actions:
+  - name: "Multiattack"
+    desc: "Farfelee can strike 2 times with their warhamer"
+    attack_bonus: 0
+    hit_bonus: 0
+  - name: "Warhamer"
+    desc: "_Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8 + 4) bludgeoning damage or 9 (1d10 + 4) bludgeoning damage if used with two hands."
+    attack_bonus: 6
+    hit_bonus: 4
+creature: "Soldado Farfelee"
+```

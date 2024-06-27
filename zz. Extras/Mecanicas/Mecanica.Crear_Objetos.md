@@ -1,10 +1,5 @@
----
-tags:
-  - Graph_Ignore
----
 #Sistema de Leo y Polito
-
-<center> <h1> Mecánica Homemade: <br>Tiempo de Creación de Objetos </h1></center>
+<center> <h1> Mecánica Homebrew: <br>Tiempo de Creación de Objetos </h1></center>
 
 ## ¿Qué es?
 

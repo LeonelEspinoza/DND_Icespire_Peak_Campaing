@@ -1,7 +1,7 @@
 ---
 ac: "19"
-hp: 37
-level: 4
+hp: 43
+level: 5
 modifier: 5
 aliases:
   - Kuzari
@@ -15,27 +15,31 @@ aliases:
 **Background:** [Mercenario](https://5e.tools/backgrounds.html#mercenary%20veteran_scag)
 **Tamaño:** Mediano (4'10'')
 
-**Nivel:** 4
+**Nivel:** 5
 **Experiencia:** -
 ***
 **Bonus de Iniciativa:** +5
 
 **Armor Class:** 19
-**Hit Points:** 37
-**Hit Dice:** 4d8
+**Hit Points:** 43
+**Hit Dice:** 5d8
 
-**Velocidad:** 
+**Velocidad:** 45 ft
 **Proficiency Bonus:** +2
 
-|  STR  |  DEX   |  CON  |  INT  |  WIS  |  CHA  |
-| :---: | :----: | :---: | :---: | :---: | :---: |
-| X(+x) | 20(+5) | X(+x) | X(+x) | X(+x) | X(+x) |
+|  STR   |  DEX   |  CON   |  INT  |  WIS   |  CHA   |
+| :----: | :----: | :----: | :---: | :----: | :----: |
+| 13(+1) | 20(+5) | 15(+2) | 8(-1) | 18(+4) | 11(+0) |
 ***
 ## Saving Throws
 - {{saving throw 1}}
 ## **Skills**:
 - {{Skill 1}}
 - Percepción ()
+## Passive Skills
+- Insight: 14 
+- Perception: 17
+- Stealth: 18
 ## Feats:
 - ==Darkvision==
 - ==Keen Senses==: Tienes proficiency en percepción.
