@@ -1,7 +1,7 @@
 #Ubicación #Pueblo
 **Población actual:** 140 personas
 **Población Letrada:** 46 (35%) 
-**[[Soldados Defensores de Phandalin]]:** 11 (8%)
+**[[Soldados Defensores de Phandalin]]:** 13 (9%)
 ***
 El pueblo frontera de Phandalin esta construido en las ruinas de un asentamiento mucho más antiguo. Cientos de años antes, el antiguo Phandalin era un prospero pueblo humano cuya gente estaba firmemente aliada con los enanos y gnomos vecinos. Entonces una horda de orcos arrasó el área y dejó los escombros abandonados por centenares.
 

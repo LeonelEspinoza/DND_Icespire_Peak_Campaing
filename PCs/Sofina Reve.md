@@ -72,7 +72,10 @@ aliases:
 ## Backstory
 - {{Bonds en su Backstory}}
 ## Campaña
-- {{Bonds en la Campaña}}
+- Llega a Phandalin donde acepta trabajar como clérigo para [[Thalorien Magune|Thalorien]], [[Juan Cornelio|Juan]] y [[Dio Rakitich|Dio]]. Aunque pareciera que tuviera un motivo oculto de intentar vigilarlos y dirigir de forma correcta su poder político.
+- Una vez salen de aventuras con el grupo, también conoce a [[Crysta Lita|Crysta]] y [[Kuzari]].
+- Intenta hacer buenas relaciones con la gente de [[Phandalin]], buscando crear escuelas y llevando el conocimiento a los pueblerinos. 
+- Hace buenas migas con [[Linene Graywind]], y es ella quien le comenta sobre la existencia del metal de estrella en el mercado negro de Neverwinter.
 # Historia:
 {{Historia}}
 # Pertenencias
