@@ -1,7 +1,10 @@
 29-07-2024
 #sesion 
 # Notas importantes de la sesión
-## A. 
+## A. Feedback
+Incomodidad con weas explicitas y violentas sin sentido
+
+en resumen, al final es darle la facultad al DM de poder intervenir más significativamente no en las decisiones de los personajes, sino que en las actitudes de los jugadores respecto a los límites conversados en el chat; pero considerando que eso significa darle una labor más al leo, que implique también comprometernos más como jugadores a revisar con un poco más de minuciosidad nuestros personajes y hacer más amena la fluidez del juego
 ## B. 
 ***
 # Preparación

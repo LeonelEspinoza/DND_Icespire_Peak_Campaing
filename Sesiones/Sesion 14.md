@@ -100,6 +100,4 @@ Saliendo del mercado negro [[Juan Cornelio|Juan]] se compra un loro verde.
 
 Permyar, Miraperas y Luquen [[Neverwinter#Nashers|Nasher]] del castillo
 
-[[Gyrion Farseeker]] Mago de caoa estrellada dueño del libro en la torre capada
-
-
+[[Gyrion Farseeker]] Mago de capa estrellada dueño del libro en la torre capada

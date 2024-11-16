@@ -1,6 +1,7 @@
 ---
 
 ---
+
 #Enemigo #Halfling #Humanoide #StatBlock
 {Imagen}
 ## Stat blocks
@@ -13,79 +14,27 @@ size: small
 type: humanoid
 subtype: Halfling (Stout)
 alignment: Chaotic Evil
-ac: 15
-hp: 23
-hit_dice: 5d6 + 5
+ac: 14
+hit_dice: 12d6 + 12
 speed: 30 ft.
-modifier: +2
+modifier: +3
 stats:
-  - 14
+  - 16
+  - 16
   - 15
-  - 13
   - 10
-  - 10
-  - 8
-skillsaves:
-  - Arcana: 2
-  - Acrobatics: 5
-  - Intimidation: 1
-damage_vulnerabilities: radiant
-damage_resistances: necrotic
-damage_immunities: ""
-condition_immunities: ""
-senses: passive Perception 10
-cr: 1/2
-bestiary: true
-traits:
-  - name: Lucky
-    desc: When rolling a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
-    attack_bonus: 0
-  - name: Brave.
-    desc: Have advantage on saving throws against being [frightened](https://5e.tools/conditionsdiseases.html#frightened_phb).
-    attack_bonus: 0
-  - name: Halfling Nimbleness.
-    desc: Can move through the space of any creature that is of a size larger than themselves.
-  - name: Pack Tactics.
-    desc: The halfling has advantage on an attack roll against a creature if at least one of the halfling's allies is within 5 feet of the creature and the ally isn't [incapacitated](https://5e.tools/conditionsdiseases.html#incapacitated_phb).
-languages: Common, Halfling, Abyssal
-actions:
-  - name: Battleaxe (Two Hands)
-    desc: _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (1d10 + 2) slashing damage.
-    attack_bonus: 4
-    hit_bonus: 2
-creature: "Halfling Demoniaco"
-```
-### Guardia
-```statblock
-statblock: true
-name: "Guardia Halfling Demoniaco"
-source: Homebrew
-size: small
-type: humanoid
-subtype: Halfling (Stout)
-alignment: Chaotic Evil
-ac: 17
-hp: 33
-hit_dice: 6d6 + 12
-speed: 25 ft.
-modifier: +1
-stats:
-  - 18
   - 12
-  - 14
-  - 10
-  - 10
-  - 8
+  - 15
 skillsaves:
-  - Arcana: 2
-  - Athletics: 6
-  - Intimidation: 1
+  - Arcana: 3
+  - Acrobatics: 6
+  - Intimidation: 5
 damage_vulnerabilities: radiant
 damage_resistances: necrotic
 damage_immunities: ""
 condition_immunities: ""
-senses: passive Perception 10
-cr: 1
+senses: passive Perception 11
+cr: 5
 bestiary: true
 traits:
   - name: Lucky
@@ -101,87 +50,102 @@ traits:
 languages: Common, Halfling, Abyssal
 actions:
   - name: Multiattack.
-    desc: The Halfling makes two Battleaxe attacks.
-  - name: Battleaxe (One Hand)
-    desc: _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 4) slashing damage.
-    attack_bonus: +6 
+    desc: The Halfling makes two Melee attacks.
+  - name: Shortsword
+    desc: _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 8 (2d6 + 3) piercing damage.
+    attack_bonus: 6
+    hit_bonus: 3
+  - name: Dagger
+    desc: _Melee or Ranged Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 3) slashing damage.
+    attack_bonus: 6
+    hit_bonus: 3
+  - name: Shortbow
+    desc: _Ranged Weapon Attack:_ +6 to hit, range 80/320 ft., one target. _Hit:_ 7 (1d6 + 6) piercing damage.
+    attack_bonus: 6
+    hit_bonus: 3
+creature: "Halfling Demoniaco"
+```
+### Guardia
+```statblock
+extends: Halfling Demoniaco
+name: Guardia Halfling Demoniaco
+ac: 16
+hit_dice: 12d6 + 36
+stats:
+  - 18
+  - 15
+  - 16
+  - 15
+  - 12
+  - 10
+saves:
+  - str: +7
+  - cons: +6
+skillsaves:
+  - arcana: +5
+  - athletics: +7
+  - intimidation: +3
+actions:
+  - name: Multiattack.
+    desc: The Halfling makes three Melee attacks.
+  - name: Battleaxe
+    desc: _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 9 (2d8 + 4) slashing damage with one hand, or 10 (2d10 + 4) slashing damage with two hands.
+    attack_bonus: +7
     hit_bonus: +4
-  - name: Battleaxe (Two Hands)
-    desc: _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 8 (1d10 + 4) slashing damage.
-    attack_bonus: +6 
+  - name: Warhammer
+    desc: _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 9 (2d8 + 4) buldgeoning damage with one hand, or 10 (2d10 + 4) buldgeoning damage with two hands.
+    attack_bonus: +7
     hit_bonus: +4
+  - name: Shortsword
+  - name: Dagger
+  - name: Shortbow
 creature: "Guardia Halfling Demoniaco"
 ```
 ### Explorador
 ```statblock
-statblock: true
-name: "Explorador Halfling Demoniaco"
-source: Homebrew
-size: small
-type: humanoid
-subtype: Halfling (Stout)
-alignment: Chaotic Evil
-ac: 15
-hp: 27
-hit_dice: 6d6 + 6
-speed: 30 ft.
-modifier: +4
+extends: Halfling Demoniaco
+name: Explorador Halfling Demoniaco
+speed: 40 ft.
 stats:
-  - 13
+  - 16
   - 18
-  - 12
+  - 15
   - 10
-  - 11
-  - 8
+  - 15
+  - 12
+saves:
+  - Dex: +7
+  - Wis: +5
 skillsaves:
-  - Arcana: 2
-  - Acrobatics: 5
-  - Intimidation: 1
-damage_vulnerabilities: radiant
-damage_resistances: necrotic
-damage_immunities: ""
-condition_immunities: ""
-senses: passive Perception 10
-cr: 1
-bestiary: true
+  - arcana: +3
+  - acrobatics: +7
+  - intimidation: +4
+  - stealth: +10
 traits:
-  - name: Lucky
-    desc: When rolling a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
-    attack_bonus: 0
-  - name: Brave.
-    desc: Have advantage on saving throws against being [frightened](https://5e.tools/conditionsdiseases.html#frightened_phb).
-    attack_bonus: 0
-  - name: Halfling Nimbleness.
-    desc: Can move through the space of any creature that is of a size larger than themselves.
   - name: Agile.
-    desc: Can dodge as a bonus action and Speed +5ft.
-  - name: Pack Tactics.
-    desc: The halfling has advantage on an attack roll against a creature if at least one of the halfling's allies is within 5 feet of the creature and the ally isn't [incapacitated](https://5e.tools/conditionsdiseases.html#incapacitated_phb).
-languages: Common, Halfling, Abyssal
+    desc: Can Dodge or Hide as a bonus action.
 actions:
-  - name: Shortsword/Scimitar.
-    desc: _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 7 (1d6 + 4) piercing/slashing damage.
-    attack_bonus: 6
+  - name: Dagger
+    desc: _Melee or Ranged Weapon Attack:_ +7 to hit, reach 5 ft. and range (20/60 ft.), one target. _Hit:_ 7 (1d4 + 4) slashing damage. On hit, the target must succed on a DC 14 constitution saving throw or be [blinded](https://5e.tools/conditionsdiseases.html#blinded_phb). Each round the target must make a constitution save as their bonus action until it succeds.
+    attack_bonus: 7
     hit_bonus: 4
-  - name: Dagger.
-    desc: _Melee or Ranged Weapon Attack:_ +6 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 6 (1d4 + 4) piercing damage.
-    attack_bonus: 6
+  - name: Shortsword
+    desc: _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 8 (2d6 + 4) piercing damage.
+    attack_bonus: 7
+    hit_bonus: 4
+  - name: Shortbow
+    desc: _Ranged Weapon Attack:_ +7 to hit, range 80/320 ft., one target. _Hit:_ 7 (1d6 + 8) piercing damage.
+    attack_bonus: 7
     hit_bonus: 4
 bonus_actions:
-  - name: Shortsword/Scimitar.
-    desc: _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 3 (1d6) piercing/slashing damage.
-    attack_bonus: 6
-    hit_bonus: 0
-  - name: Dagger.
-    desc: _Melee or Ranged Weapon Attack:_ +6 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 2 (1d4) piercing damage.
-    attack_bonus: 5
-    hit_bonus: 0
-  - name: Dodge.
-    desc: Agile feat.
-    attack_bonus: 0
-    hit_bonus: 0
-creature: "Explorador Halfling Demoniaco"
+  - name: Dodge
+    desc: Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage.
+  - name: Hide
+    desc: Make a Dexterity (Stealth) check in an attempt to hide
+  - name: Use blinding poison vial
+    desc: You can use up to 4 blinding poison vials to apply in 5 arrows or one dagger
 ```
+
 ## Feats
 ***
 ## Principales Características
@@ -191,7 +155,7 @@ Debido al tiempo que han pasado relacionándose con entes demoniacos, su piel ti
 
 Está en su naturaleza la sed de sangre, pero hay quienes buscan redención y abandonan esta cultura o son exiliados por no ser parte del clan y cumplir con las expectativas. Aquellos que abandonan el clan, les es muy difícil no cometer crímenes o dañar a otras especies, es como si todos sus instintos les dirigieran a buscar hacer daño.
 ## Historia
-Nadie recuerda el inicio del clan, hay leyendas antiguas sobre un guerrero Halfling embriagado de ira y en busca de venganza, realiza diversos pactos con entidades malignas, dándole la fuerza de combatir a todo aquel que se le cruce en su camino. 
+Nadie recuerda el inicio del clan, hay leyendas antiguas sobre un guerrero Halfling embriagado de ira y en busca de venganza llamado Drichye Larke, realiza diversos pactos con entidades malignas, dándole la fuerza de combatir a todo aquel que se le cruce en su camino.
 
 Durante el último tiempo, la raza se ha enfocado en reunir armas mágicas y mantenerlas ocultas al exterior, con el objetivo de usarlas como carta de victoria con todo aquel que oponga resistencia a su agresividad. En un punto en su historia, los Halflings Demoniacos consiguen amasar una cantidad considerable de armas mágicas, utilizándolas como carta sorpresa contra cualquiera que tenga la mala suerte de ser atacado por ellos.
 

@@ -7,12 +7,12 @@ Las quests van apareciendo de a 3 a medida que los jugadores completan 2 del gru
 - [x] [[Campamento de Leñadores]]
 - [x] [[Dedos de Montaña]]
 - [x] [[Axeholm]]
-- [ ] [[Túmulo de Dragón]]
-- [ ] [[Mansión del Bosque]]
+- [x] [[Túmulo de Dragón]]
+- [x] [[Mansión del Bosque]]
 ## Side Quests:
 - [x] [[Santuario de Savras]]
 - [x] [[Torre de las Tormentas]]
-- [ ] [[Pabellón de caza de Falcon]]
+- [x] [[Pabellón de caza de Falcon]]
 - [ ] [[Circulo del Trueno]]
 - [ ] [[Bastión Aguja de Hielo]]
 ## Lore Quests
