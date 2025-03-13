@@ -35,5 +35,26 @@ La sesion pasada terminaron bastante dañados y subieron a nivel 6. Debería de 
 ***
 # Resumen Sesión Anterior
 # Sucesos
-## 22-Kyshorn-218, 2da Era
-{{Contenido}}
+## 22-Kythorn-218, 2da Era
+el grupo se separa 
+
+Sofina y Thalorien llegan a Neverwinter
+
+Sofina compra el mapa de Leilon (10gp) y una perla (escama de dragon verde)
+
+Thalorien compra un aparente huevo de dragon negro (200gp) y una armadura scale (150gp) y una lanza de fuego 1d4 (no me acuerdo gp)
+
+buscan libros en la casa del conocimiento sobre dragones y encuentran un par interesantes
+
+Se dirigen hacia Leilon
+## 24-kythorn-218, 2da Era
+Llegan a Leilon y exploran un poco la ciudad. Sofina se acerca al pantano para ver que tan peligroso es y si podría haber un dragon negro en las cercanías.
+
+Después de explorar un poco Leilon se cruzan con el Tablón de anuncios donde una pastora le pide ayuda a aventureros para trasladar a sus cabras gigantes hasta Phandalin.
+
+En el camino, en medio de la noche son atacados por un ogro, con la intención de comerse una de las cabras. Lo logran vencer sin problemas.
+## 26-Kyzhorn-218, 2da Era
+Logran llegar hasta Phandalin con todas las cabras (10 cabras). Pinchwit la pastora se reúne con Barthen para negociar su intercambio y Thalorien con Sofina quedan a la espera de su recompensa.
+
+Thalorien compra 2 cabras gigantes por 200gp.
+

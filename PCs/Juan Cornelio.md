@@ -1,6 +1,6 @@
 ---
 ac: "15"
-hp: 48
+hp: 63
 level: 5
 modifier: 3
 aliases:

@@ -4,7 +4,7 @@
 ```statblock
 statblock: true
 bestiary: true
-name: "Gothok the Tunder Boar"
+name: "Gorthok the Tunder Boar"
 source: "Dragon od Icespire Peak"
 size: "Huge"
 type: "Monstrosity"
@@ -19,7 +19,7 @@ stats: [20, 11, 19, 6, 10, 14]
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 damage_immunities: "lighting, thunder"
 senses: "darkvision 60 ft., passive Perception 10"
-cr: 6
+cr: 7
 traits:
   - name: "Relentless (Recharges after a Short or Long Rest)."
     desc: "If Gorthok takes 27 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead."

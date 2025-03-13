@@ -13,10 +13,10 @@ Las quests van apareciendo de a 3 a medida que los jugadores completan 2 del gru
 - [x] [[Santuario de Savras]]
 - [x] [[Torre de las Tormentas]]
 - [x] [[Pabellón de caza de Falcon]]
-- [ ] [[Circulo del Trueno]]
-- [ ] [[Bastión Aguja de Hielo]]
+- [x] [[Circulo del Trueno]]
+- [x] [[Bastión Aguja de Hielo]]
 ## Lore Quests
-- [ ] [[Campamento Halflings (Incompleta)]]
+- [x] [[Campamento Halflings (Incompleta)]]
 # Primera Ronda
 
 ![[Excavación de los Enanos#Anuncio]] ![[Gnomengarde#Anuncio]] ![[Colina Umbra#Anuncio]]

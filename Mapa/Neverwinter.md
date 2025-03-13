@@ -90,7 +90,7 @@ El antiguo templo de [[Tyr]], localizado en un risco mirando al mar de espadas, 
 Después de la erupción del [[Monte Hotenow]] mucho del cuadrante sureste de la cuidad colapso en un gran pozo, conocido como el abismo, el cuál atrajo horrores continuamente. Neverwinter se mantuvo en ruinas por décadas, pero gracias a los esfuerzos del [[Dagult Neverember|Lord Neverember]] la ciudad fue reparada a su antigua gloria y el abismo fue sellado por poderosa magia.
 ### La Muralla al Abismo
 Es la muralla que separaba el resto de la ciudad del abismo y los horrores. Ahora está destruida.
-### Mapas y Legendas de [[Maskado]]
+### Mapas y Leyendas de [[Maskado]]
 Esta tienda se especializa en mapas, registros, pistas y cuentos del norte relacionados a la exploración, tesoros, caminos y vias ocultas.
 ***
 # Organización Política

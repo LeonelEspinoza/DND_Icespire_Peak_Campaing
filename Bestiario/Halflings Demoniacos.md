@@ -14,7 +14,7 @@ size: small
 type: humanoid
 subtype: Halfling (Stout)
 alignment: Chaotic Evil
-ac: 14
+ac: 18
 hit_dice: 12d6 + 12
 speed: 30 ft.
 modifier: +3
@@ -69,7 +69,7 @@ creature: "Halfling Demoniaco"
 ```statblock
 extends: Halfling Demoniaco
 name: Guardia Halfling Demoniaco
-ac: 16
+ac: 20
 hit_dice: 12d6 + 36
 stats:
   - 18
@@ -90,12 +90,12 @@ actions:
     desc: The Halfling makes three Melee attacks.
   - name: Battleaxe
     desc: _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 9 (2d8 + 4) slashing damage with one hand, or 10 (2d10 + 4) slashing damage with two hands.
-    attack_bonus: +7
-    hit_bonus: +4
+    attack_bonus: +9
+    hit_bonus: +6
   - name: Warhammer
     desc: _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 9 (2d8 + 4) buldgeoning damage with one hand, or 10 (2d10 + 4) buldgeoning damage with two hands.
-    attack_bonus: +7
-    hit_bonus: +4
+    attack_bonus: +9
+    hit_bonus: +6
   - name: Shortsword
   - name: Dagger
   - name: Shortbow
@@ -105,7 +105,7 @@ creature: "Guardia Halfling Demoniaco"
 ```statblock
 extends: Halfling Demoniaco
 name: Explorador Halfling Demoniaco
-speed: 40 ft.
+speed: 60 ft.
 stats:
   - 16
   - 18
@@ -127,7 +127,7 @@ traits:
 actions:
   - name: Dagger
     desc: _Melee or Ranged Weapon Attack:_ +7 to hit, reach 5 ft. and range (20/60 ft.), one target. _Hit:_ 7 (1d4 + 4) slashing damage. On hit, the target must succed on a DC 14 constitution saving throw or be [blinded](https://5e.tools/conditionsdiseases.html#blinded_phb). Each round the target must make a constitution save as their bonus action until it succeds.
-    attack_bonus: 7
+    attack_bonus: 10
     hit_bonus: 4
   - name: Shortsword
     desc: _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 8 (2d6 + 4) piercing damage.

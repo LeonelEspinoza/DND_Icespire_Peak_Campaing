@@ -1,7 +1,7 @@
 #Ubicación #Pueblo
-**Población actual:** 140 personas + 40
+**Población actual:** 210
 **Población Letrada:** 46 (35%) + 20 
-**[[Soldados Defensores de Phandalin]]:** 26 (9%) (5 están en la mina y 5 escoltan a Thistle (10 de mirtul)
+**[[Soldados Defensores de Phandalin]]:** 32
 ***
 El pueblo frontera de Phandalin esta construido en las ruinas de un asentamiento mucho más antiguo. Cientos de años antes, el antiguo Phandalin era un prospero pueblo humano cuya gente estaba firmemente aliada con los enanos y gnomos vecinos. Entonces una horda de orcos arrasó el área y dejó los escombros abandonados por centenares.
 

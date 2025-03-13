@@ -14,12 +14,6 @@ En este asentamiento hay al rededor de 100 [[Halflings Demoniacos]], todos armad
 Hay 3 construcciones de piedra particularmente grandes y bien resguardadas distribuidas por la ciudad que son hogar de los materiales que han logrado refinar sin mucho éxito. A pesar de esto siguen siendo un metal capaz de venderse y hacer espadas mágicas de mala calidad. A un costado de la ciudad se encuentra lo que parece una mansion: es el lugar de sacrificios y rituales de la cultura demoniaca.
 
 Cerca del asentamiento se encuentra la mina de metal de estrella. Esta mina es un complejo y caótico sistema de túneles, bastante inseguros donde trabajan muchas especies esclavizadas. Al ser tan complejo el sistema de cuevas, ni siquiera los Halflings demoniacos las conocen a fondo, solamente algunos enanos dentro del lugar las conocen a fondo, de hecho conocen sobre una salida secreta por la cual llevan a los más heridos, ancianos y niños, pero debido a los severos castigos que sufren todos por la desaparición de esclavos sanos, las mantienen ocultas incluso a sus pares esclavos. 
-# Objetivos
-# Llegada
-# Ubicaciones
-{{IMÁGEN}}
-## X1. 
-## X2. 
-## X3. 
-## X4. 
-## X5. 
+# Combate
+Los Halflings se dirigen hacia Neverwinter, están buscando aprovechar la mala situación generada por la perdida de entrada maritima en la ciudad.
+Además utilizan sus elementales de fuego para cundir el pánico en la ciudad. 
